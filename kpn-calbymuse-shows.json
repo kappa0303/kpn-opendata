@@ -1,12 +1,12 @@
 {
   "schemaVersion": "1",
   "dataSource": "muse",
-  "exportedAt": "2026-11-23T21:34:46+09:00",
+  "exportedAt": "2026-11-23T21:38:18+09:00",
   "catalogCounts": {
-    "main": 82,
+    "main": 84,
     "reference": 0,
     "needs_review": 0,
-    "total": 82
+    "total": 84
   },
   "items": [
     {
@@ -7087,6 +7087,238 @@
         "region": "岐阜県岐阜市",
         "catalogId": "wk1123-02",
         "sourceType": "公式サイト"
+      }
+    },
+    {
+      "externalId": "muse-260097",
+      "catalogCategory": "main",
+      "collectedAt": "2026-11-23",
+      "verificationStatus": "unverified",
+      "sources": [
+        {
+          "url": "https://www.instagram.com/p/DeHJ9t1kjfo/",
+          "observedAt": "2026-11-23"
+        }
+      ],
+      "period": {
+        "startDate": "2026-12-12",
+        "endDate": "2026-12-13"
+      },
+      "playData": {
+        "mainInfo": {
+          "company": "劇団ゆきやなぎ",
+          "performanceName": "まちかど演劇企画",
+          "performanceType": "single",
+          "plays": [
+            {
+              "title": "まちかど演劇企画"
+            }
+          ]
+        },
+        "venueInfo": {
+          "venue": "彳亍（てきちょく）",
+          "venueAddress": "愛知県名古屋市中村区那古野1丁目38-13"
+        },
+        "scheduleInfo": {
+          "performances": [],
+          "scheduleDetails": "開演時刻は未確認のため個別日時は生成していない"
+        },
+        "ticketInfo": {
+          "prices": [],
+          "bookingUrls": []
+        },
+        "linksInfo": {
+          "relatedLinks": [
+            {
+              "title": "Instagram",
+              "url": "https://www.instagram.com/p/DeHJ9t1kjfo/"
+            }
+          ],
+          "officialX": "https://x.com/ykyng0717"
+        },
+        "miscInfo": {}
+      },
+      "rawPrices": [
+        {
+          "type": "料金",
+          "amount": 1000,
+          "priceTiming": "unknown"
+        }
+      ],
+      "rawData": {
+        "entryText": "劇団ゆきやなぎ『まちかど演劇企画』 — 12/12（土）・12/13（日）、彳亍（てきちょく）（中村区・那古野）。「気軽に演劇ができる・観られる」がコンセプトの企画。上演作は『カワ廻る』『青鬼の褌を洗う女』『かみあそび』。料金1,000円。開演時刻は未確認。",
+        "dateText": "12月12日（土）・13日（日）",
+        "region": "愛知県名古屋市",
+        "catalogId": "wk1123-03",
+        "sourceType": "Instagram"
+      }
+    },
+    {
+      "externalId": "muse-260098",
+      "catalogCategory": "main",
+      "collectedAt": "2026-11-23",
+      "verificationStatus": "verified",
+      "sources": [
+        {
+          "url": "https://noborigoi.corich.co/SUKIYAKI/common",
+          "observedAt": "2026-11-23"
+        }
+      ],
+      "period": {
+        "startDate": "2026-12-23",
+        "endDate": "2026-12-29"
+      },
+      "playData": {
+        "mainInfo": {
+          "company": "昇り鯉",
+          "performanceName": "スキヤキ",
+          "performanceType": "single",
+          "plays": [
+            {
+              "title": "スキヤキ",
+              "playwright": "鳳いく太",
+              "director": "林優（劇団わに社）"
+            }
+          ]
+        },
+        "venueInfo": {
+          "venue": "スタジオオール",
+          "venueAddress": "愛知県名古屋市中村区長戸井町4丁目42-2"
+        },
+        "scheduleInfo": {
+          "performances": [
+            {
+              "dateTime": "2026-12-23T19:00:00+09:00",
+              "notes": "A"
+            },
+            {
+              "dateTime": "2026-12-24T12:30:00+09:00",
+              "notes": "B"
+            },
+            {
+              "dateTime": "2026-12-24T19:00:00+09:00",
+              "notes": "A"
+            },
+            {
+              "dateTime": "2026-12-25T12:30:00+09:00",
+              "notes": "A"
+            },
+            {
+              "dateTime": "2026-12-25T19:00:00+09:00",
+              "notes": "B"
+            },
+            {
+              "dateTime": "2026-12-26T12:30:00+09:00",
+              "notes": "B"
+            },
+            {
+              "dateTime": "2026-12-26T15:30:00+09:00",
+              "notes": "A"
+            },
+            {
+              "dateTime": "2026-12-26T18:30:00+09:00",
+              "notes": "B"
+            },
+            {
+              "dateTime": "2026-12-27T12:30:00+09:00",
+              "notes": "A"
+            },
+            {
+              "dateTime": "2026-12-27T15:30:00+09:00",
+              "notes": "B"
+            },
+            {
+              "dateTime": "2026-12-27T18:30:00+09:00",
+              "notes": "A"
+            },
+            {
+              "dateTime": "2026-12-28T12:30:00+09:00",
+              "notes": "B"
+            },
+            {
+              "dateTime": "2026-12-28T19:00:00+09:00",
+              "notes": "A"
+            },
+            {
+              "dateTime": "2026-12-29T12:30:00+09:00",
+              "notes": "B"
+            },
+            {
+              "dateTime": "2026-12-29T15:30:00+09:00",
+              "notes": "A"
+            },
+            {
+              "dateTime": "2026-12-29T18:30:00+09:00",
+              "notes": "B"
+            }
+          ],
+          "runningTime": "30分",
+          "doorsOpen": "開演30分前"
+        },
+        "ticketInfo": {
+          "prices": [
+            {
+              "type": "一般",
+              "advancePrice": 2800,
+              "doorPrice": 3300
+            },
+            {
+              "type": "学生",
+              "advancePrice": 2000,
+              "doorPrice": 2500
+            }
+          ],
+          "bookingUrls": [
+            {
+              "title": "チケット予約",
+              "url": "https://noborigoi.corich.co/SUKIYAKI/common"
+            }
+          ]
+        },
+        "linksInfo": {
+          "relatedLinks": [
+            {
+              "title": "公式予約ページ",
+              "url": "https://noborigoi.corich.co/SUKIYAKI/common"
+            }
+          ],
+          "officialX": "https://x.com/noborigoi108"
+        },
+        "miscInfo": {}
+      },
+      "rawPrices": [
+        {
+          "type": "一般",
+          "amount": 2800,
+          "priceTiming": "advance"
+        },
+        {
+          "type": "一般",
+          "amount": 3300,
+          "priceTiming": "door"
+        },
+        {
+          "type": "学生",
+          "amount": 2000,
+          "priceTiming": "advance"
+        },
+        {
+          "type": "学生",
+          "amount": 2500,
+          "priceTiming": "door"
+        },
+        {
+          "type": "アフターイベント付きチケット",
+          "amount": 8000,
+          "priceTiming": "unknown"
+        }
+      ],
+      "rawData": {
+        "entryText": "昇り鯉『スキヤキ』 — 12/23（水）19:00［A］、12/24（木）12:30［B］／19:00［A］、12/25（金）12:30［A］／19:00［B］、12/26（土）12:30［B］／15:30［A］／18:30［B］、12/27（日）12:30［A］／15:30［B］／18:30［A］、12/28（月）12:30［B］／19:00［A］、12/29（火）12:30［B］／15:30［A］／18:30［B］、スタジオオール（中村区）。全16回。脚本：鳳いく太、演出：林優（劇団わに社）。丸地ひより（一のぞみとWキャスト）は全回出演し回替わりで役を交代。一般 前売2,800円、当日3,300円、学生 前売2,000円、学生 当日2,500円。アフターイベント付きチケット8,000円（対象は2公演のみ、各回限定10名、別フォームで事前精算）。全席自由。開場は開演30分前。上演時間は約1時間15分。",
+        "dateText": "12月23日（水）〜29日（火）",
+        "region": "愛知県名古屋市",
+        "catalogId": "wk1123-04",
+        "sourceType": "公式予約ページ"
       }
     }
   ]
