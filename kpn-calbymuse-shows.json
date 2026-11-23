@@ -1,0 +1,6923 @@
+{
+  "schemaVersion": "1",
+  "dataSource": "muse",
+  "exportedAt": "2026-11-22T11:46:39+09:00",
+  "catalogCounts": {
+    "main": 80,
+    "reference": 0,
+    "needs_review": 0,
+    "total": 80
+  },
+  "items": [
+    {
+      "externalId": "muse-260002",
+      "catalogCategory": "main",
+      "collectedAt": "2026-11-13",
+      "verificationStatus": "unverified",
+      "sources": [
+        {
+          "url": "https://natalie.mu/stage/news/697254",
+          "observedAt": "2026-11-13"
+        }
+      ],
+      "period": {
+        "startDate": "2026-11-13",
+        "endDate": "2026-11-15"
+      },
+      "playData": {
+        "mainInfo": {
+          "company": "よるべ",
+          "performanceName": "吐く熱と",
+          "performanceType": "single",
+          "plays": [
+            {
+              "title": "吐く熱と",
+              "playwright": "田宮ヨシノリ",
+              "director": "田宮ヨシノリ"
+            }
+          ]
+        },
+        "venueInfo": {
+          "venue": "ささしまスタジオ",
+          "venueAddress": "愛知県名古屋市中川区福住町8-11"
+        },
+        "scheduleInfo": {
+          "performances": [
+            {
+              "dateTime": "2026-11-14T13:00:00+09:00",
+              "notes": ""
+            },
+            {
+              "dateTime": "2026-11-14T17:00:00+09:00",
+              "notes": ""
+            },
+            {
+              "dateTime": "2026-11-15T15:00:00+09:00",
+              "notes": ""
+            }
+          ],
+          "runningTime": "約80分"
+        },
+        "ticketInfo": {
+          "prices": [],
+          "bookingUrls": []
+        },
+        "linksInfo": {
+          "relatedLinks": [
+            {
+              "title": "情報元",
+              "url": "https://natalie.mu/stage/news/697254"
+            }
+          ],
+          "officialX": "https://x.com/yorube468"
+        },
+        "miscInfo": {}
+      },
+      "rawPrices": [
+        {
+          "type": "U-25・遠方割",
+          "amount": 1500,
+          "priceTiming": "unknown"
+        }
+      ],
+      "rawData": {
+        "entryText": "よるべ『吐く熱と』 — （11/13開幕） 11/14 13:00／17:00、11/15 15:00、ささしまスタジオ（中川区）。作・演出：田宮ヨシノリ。約80分。料金未確認（U-25・遠方割1,500円あり）。",
+        "dateText": "11月13日（金）〜15日（日）",
+        "region": "愛知県名古屋市",
+        "catalogId": "aichi-11-2",
+        "sourceType": "情報元"
+      }
+    },
+    {
+      "externalId": "muse-260003",
+      "catalogCategory": "main",
+      "collectedAt": "2026-11-17",
+      "verificationStatus": "verified",
+      "sources": [
+        {
+          "url": "https://www.instagram.com/p/DfpWIm-mG1H/",
+          "observedAt": "2026-11-17"
+        }
+      ],
+      "period": {
+        "startDate": "2026-11-13",
+        "endDate": "2026-11-15"
+      },
+      "playData": {
+        "mainInfo": {
+          "company": "劇団あとの祭り Vol.42",
+          "performanceName": "ネコ王様のおっしゃることには",
+          "performanceType": "single",
+          "plays": [
+            {
+              "title": "ネコ王様のおっしゃることには",
+              "playwright": "福冨英玄"
+            }
+          ]
+        },
+        "venueInfo": {
+          "venue": "御浪町ホール",
+          "venueAddress": "岐阜県岐阜市御浪町10番地 御浪ビル3F"
+        },
+        "scheduleInfo": {
+          "performances": [
+            {
+              "dateTime": "2026-11-13T19:30:00+09:00",
+              "notes": ""
+            },
+            {
+              "dateTime": "2026-11-14T14:00:00+09:00",
+              "notes": ""
+            },
+            {
+              "dateTime": "2026-11-14T18:00:00+09:00",
+              "notes": ""
+            },
+            {
+              "dateTime": "2026-11-15T11:00:00+09:00",
+              "notes": ""
+            },
+            {
+              "dateTime": "2026-11-15T14:00:00+09:00",
+              "notes": ""
+            }
+          ]
+        },
+        "ticketInfo": {
+          "prices": [
+            {
+              "type": "一般",
+              "advancePrice": 2000,
+              "doorPrice": null
+            }
+          ],
+          "bookingUrls": []
+        },
+        "linksInfo": {
+          "relatedLinks": [
+            {
+              "title": "Instagram",
+              "url": "https://www.instagram.com/p/DfpWIm-mG1H/"
+            }
+          ]
+        },
+        "miscInfo": {}
+      },
+      "rawPrices": [
+        {
+          "type": "一般",
+          "amount": 2000,
+          "priceTiming": "advance"
+        },
+        {
+          "type": "学生",
+          "amount": 1200,
+          "priceTiming": "unknown"
+        }
+      ],
+      "rawData": {
+        "entryText": "劇団あとの祭り Vol.42『ネコ王様のおっしゃることには』 — （ぎふ演劇シーズン2026参加） 11/13（金）19:30、11/14（土）14:00／18:00、11/15（日）11:00／14:00、御浪町ホール（岐阜県岐阜市）。作：福冨英玄。一般前売2,000円、学生1,200円。※11/13開幕のため、対象期間（11/14〜）内は14・15日分。",
+        "dateText": "11月13日（金）〜15日（日）",
+        "region": "岐阜県岐阜市",
+        "catalogId": "gifu-11-1",
+        "sourceType": "Instagram"
+      }
+    },
+    {
+      "externalId": "muse-260004",
+      "catalogCategory": "main",
+      "collectedAt": "2026-11-13",
+      "verificationStatus": "verified",
+      "sources": [
+        {
+          "url": "https://nagoyamidori.japanese-dialects.com/8910.html",
+          "observedAt": "2026-11-13"
+        }
+      ],
+      "period": {
+        "startDate": "2026-11-14",
+        "endDate": "2026-11-14"
+      },
+      "playData": {
+        "mainInfo": {
+          "company": "劇団みどり 第14回本公演",
+          "performanceName": "人魚",
+          "performanceType": "single",
+          "plays": [
+            {
+              "title": "人魚",
+              "playwright": "松尾有香"
+            }
+          ]
+        },
+        "venueInfo": {
+          "venue": "緑文化小劇場",
+          "venueAddress": "愛知県名古屋市緑区乗鞍二丁目223番地の1"
+        },
+        "scheduleInfo": {
+          "performances": [
+            {
+              "dateTime": "2026-11-14T13:00:00+09:00",
+              "notes": ""
+            },
+            {
+              "dateTime": "2026-11-14T16:00:00+09:00",
+              "notes": ""
+            }
+          ],
+          "runningTime": "約100分"
+        },
+        "ticketInfo": {
+          "prices": [
+            {
+              "type": "一般",
+              "advancePrice": 1200,
+              "doorPrice": 1500
+            }
+          ],
+          "bookingUrls": []
+        },
+        "linksInfo": {
+          "relatedLinks": [],
+          "officialHp": "https://nagoyamidori.japanese-dialects.com/8910.html"
+        },
+        "miscInfo": {}
+      },
+      "rawPrices": [
+        {
+          "type": "一般",
+          "amount": 1200,
+          "priceTiming": "advance"
+        },
+        {
+          "type": "一般",
+          "amount": 1500,
+          "priceTiming": "door"
+        },
+        {
+          "type": "緑区民割",
+          "amount": 1000,
+          "priceTiming": "unknown"
+        }
+      ],
+      "rawData": {
+        "entryText": "劇団みどり 第14回本公演『人魚』 — 11/14 13:00／16:00、緑文化小劇場（緑区）。作：松尾有香／演出：金子康雄。一般 前売1,200円・当日1,500円、緑区民割1,000円。約100分。",
+        "dateText": "11月14日（土）",
+        "region": "愛知県名古屋市",
+        "catalogId": "aichi-11-1",
+        "sourceType": "公式サイト"
+      }
+    },
+    {
+      "externalId": "muse-260006",
+      "catalogCategory": "main",
+      "collectedAt": "2026-11-13",
+      "verificationStatus": "verified",
+      "sources": [
+        {
+          "url": "https://www.chunichi.co.jp/article/1335077",
+          "observedAt": "2026-11-13"
+        }
+      ],
+      "period": {
+        "startDate": "2026-11-14",
+        "endDate": "2026-11-15"
+      },
+      "playData": {
+        "mainInfo": {
+          "company": "織音座 第40回公演 朗読劇",
+          "performanceName": "続・つむぎ〜それぞれの糸のゆくえ〜",
+          "performanceType": "single",
+          "plays": [
+            {
+              "title": "続・つむぎ〜それぞれの糸のゆくえ〜",
+              "playwright": "安藤理香",
+              "director": "安藤理香"
+            }
+          ]
+        },
+        "venueInfo": {
+          "venue": "稲沢市勤労福祉会館",
+          "venueAddress": "愛知県稲沢市朝府町5番1号"
+        },
+        "scheduleInfo": {
+          "performances": [
+            {
+              "dateTime": "2026-11-14T19:00:00+09:00",
+              "notes": ""
+            },
+            {
+              "dateTime": "2026-11-15T10:15:00+09:00",
+              "notes": ""
+            }
+          ]
+        },
+        "ticketInfo": {
+          "prices": [],
+          "bookingUrls": []
+        },
+        "linksInfo": {
+          "relatedLinks": [
+            {
+              "title": "情報元",
+              "url": "https://www.chunichi.co.jp/article/1335077"
+            }
+          ]
+        },
+        "miscInfo": {
+          "otherInfo": "要申込"
+        }
+      },
+      "rawPrices": [
+        {
+          "type": "料金",
+          "amount": 0,
+          "priceTiming": "unknown",
+          "note": "無料"
+        }
+      ],
+      "rawData": {
+        "entryText": "織音座 第40回公演 朗読劇『続・つむぎ〜それぞれの糸のゆくえ〜』 — 11/14 19:00、11/15 10:15、稲沢市勤労福祉会館（稲沢市）。脚本・演出：安藤理香。無料（要申込、締切11/13）。",
+        "dateText": "11月14日（土）〜15日（日）",
+        "region": "愛知県稲沢市",
+        "catalogId": "aichi-11-3",
+        "sourceType": "情報元"
+      }
+    },
+    {
+      "externalId": "muse-260007",
+      "catalogCategory": "main",
+      "collectedAt": "2026-11-13",
+      "verificationStatus": "verified",
+      "sources": [
+        {
+          "url": "https://www.instagram.com/p/DfqOiHhE7Vf/",
+          "observedAt": "2026-11-13"
+        }
+      ],
+      "period": {
+        "startDate": "2026-11-14",
+        "endDate": "2026-11-15"
+      },
+      "playData": {
+        "mainInfo": {
+          "company": "石原正一ショウ × AfroWagen 2本立て",
+          "performanceName": "『審判』『仮面夫婦の鑑』",
+          "performanceType": "multiple",
+          "plays": [
+            {
+              "title": "審判"
+            },
+            {
+              "title": "仮面夫婦の鑑"
+            }
+          ]
+        },
+        "venueInfo": {
+          "venue": "PICO2",
+          "venueAddress": "愛知県名古屋市北区山田1-1-43"
+        },
+        "scheduleInfo": {
+          "performances": [
+            {
+              "dateTime": "2026-11-14T13:00:00+09:00",
+              "notes": "審判"
+            },
+            {
+              "dateTime": "2026-11-14T15:00:00+09:00",
+              "notes": ""
+            },
+            {
+              "dateTime": "2026-11-14T17:00:00+09:00",
+              "notes": "審判"
+            },
+            {
+              "dateTime": "2026-11-14T19:00:00+09:00",
+              "notes": ""
+            },
+            {
+              "dateTime": "2026-11-15T11:00:00+09:00",
+              "notes": ""
+            },
+            {
+              "dateTime": "2026-11-15T13:00:00+09:00",
+              "notes": "審判"
+            },
+            {
+              "dateTime": "2026-11-15T15:00:00+09:00",
+              "notes": ""
+            },
+            {
+              "dateTime": "2026-11-15T17:00:00+09:00",
+              "notes": "審判"
+            }
+          ]
+        },
+        "ticketInfo": {
+          "prices": [
+            {
+              "type": "一般",
+              "advancePrice": 2800,
+              "doorPrice": null
+            }
+          ],
+          "bookingUrls": []
+        },
+        "linksInfo": {
+          "relatedLinks": [
+            {
+              "title": "Instagram",
+              "url": "https://www.instagram.com/p/DfqOiHhE7Vf/"
+            }
+          ]
+        },
+        "miscInfo": {}
+      },
+      "rawPrices": [
+        {
+          "type": "一般",
+          "amount": 2800,
+          "priceTiming": "advance"
+        },
+        {
+          "type": "2本セット",
+          "amount": 4500,
+          "priceTiming": "unknown"
+        },
+        {
+          "type": "学生",
+          "amount": 1000,
+          "priceTiming": "unknown"
+        }
+      ],
+      "rawData": {
+        "entryText": "石原正一ショウ × AfroWagen 2本立て『審判』『仮面夫婦の鑑』 — 11/14・15、PICO2（北区・大曽根）。開演：11/14 13:00【審判】／15:00【仮面夫婦の鑑】／17:00【審判】／19:00【仮面夫婦の鑑】、11/15 11:00【仮面夫婦の鑑】／13:00【審判】／15:00【仮面夫婦の鑑】／17:00【審判】。前売2,800円、2本セット4,500円、学生1,000円。",
+        "dateText": "11月14日（土）〜15日（日）",
+        "region": "愛知県名古屋市",
+        "catalogId": "aichi-11-4",
+        "sourceType": "Instagram"
+      }
+    },
+    {
+      "externalId": "muse-260008",
+      "catalogCategory": "main",
+      "collectedAt": "2026-11-13",
+      "verificationStatus": "verified",
+      "sources": [
+        {
+          "url": "https://www.instagram.com/p/DfooIX9k-0p/",
+          "observedAt": "2026-11-13"
+        }
+      ],
+      "period": {
+        "startDate": "2026-11-14",
+        "endDate": "2026-11-15"
+      },
+      "playData": {
+        "mainInfo": {
+          "performanceName": "シリーズ恋文 Vol.16"
+        },
+        "venueInfo": {
+          "venue": "可児市文化創造センターala 小劇場",
+          "venueAddress": "岐阜県可児市下恵土3433-139"
+        },
+        "scheduleInfo": {
+          "performances": [
+            {
+              "dateTime": "2026-11-14T14:00:00+09:00",
+              "notes": ""
+            },
+            {
+              "dateTime": "2026-11-15T14:00:00+09:00",
+              "notes": ""
+            }
+          ]
+        },
+        "ticketInfo": {
+          "prices": [],
+          "bookingUrls": []
+        },
+        "linksInfo": {
+          "relatedLinks": [
+            {
+              "title": "Instagram",
+              "url": "https://www.instagram.com/p/DfooIX9k-0p/"
+            }
+          ]
+        },
+        "miscInfo": {}
+      },
+      "rawPrices": [
+        {
+          "type": "一般",
+          "amount": 4000,
+          "priceTiming": "unknown"
+        },
+        {
+          "type": "25歳以下",
+          "amount": 2000,
+          "priceTiming": "unknown"
+        }
+      ],
+      "rawData": {
+        "entryText": "シリーズ恋文 Vol.16 — （朗読×ピアノ） 11/14・15 各14:00、可児市文化創造センターala 小劇場（岐阜県可児市 ※県外近郊）。出演：渡辺いっけい、羽田美智子。一般4,000円、25歳以下2,000円。",
+        "dateText": "11月14日（土）〜15日（日）",
+        "region": "岐阜県可児市",
+        "catalogId": "tuiho-11-1",
+        "sourceType": "Instagram"
+      }
+    },
+    {
+      "externalId": "muse-260009",
+      "catalogCategory": "main",
+      "collectedAt": "2026-11-17",
+      "verificationStatus": "verified",
+      "sources": [
+        {
+          "url": "https://blog.livedoor.jp/muneco_mania/archives/55197288.html",
+          "observedAt": "2026-11-17"
+        }
+      ],
+      "period": {
+        "startDate": "2026-11-15",
+        "endDate": "2026-11-15"
+      },
+      "playData": {
+        "mainInfo": {
+          "performanceName": "よっかいちおはなしシアター 〜声とからだでおくる童話集〜",
+          "performanceType": "multiple",
+          "plays": [
+            {
+              "title": "嵐の夜"
+            },
+            {
+              "title": "さなぎ"
+            }
+          ]
+        },
+        "venueInfo": {
+          "venue": "四日市市三浜文化会館（カルチュール三浜） 多目的ホール",
+          "venueAddress": "三重県四日市市海山道町一丁目1532-1"
+        },
+        "scheduleInfo": {
+          "performances": [
+            {
+              "dateTime": "2026-11-15T11:00:00+09:00",
+              "notes": ""
+            },
+            {
+              "dateTime": "2026-11-15T14:00:00+09:00",
+              "notes": ""
+            }
+          ],
+          "runningTime": "約60分"
+        },
+        "ticketInfo": {
+          "prices": [],
+          "bookingUrls": []
+        },
+        "linksInfo": {
+          "relatedLinks": [
+            {
+              "title": "X公式アカウント @shimogamoshasow",
+              "url": "https://x.com/shimogamoshasow"
+            },
+            {
+              "title": "情報元",
+              "url": "https://blog.livedoor.jp/muneco_mania/archives/55197288.html"
+            }
+          ],
+          "officialX": "https://x.com/knitcaptheater"
+        },
+        "miscInfo": {}
+      },
+      "rawPrices": [
+        {
+          "type": "ファミリー",
+          "amount": 1800,
+          "priceTiming": "unknown"
+        },
+        {
+          "type": "一般",
+          "amount": 1500,
+          "priceTiming": "unknown"
+        },
+        {
+          "type": "高校生以下",
+          "amount": 500,
+          "priceTiming": "unknown"
+        },
+        {
+          "type": "未就園児",
+          "amount": 0,
+          "priceTiming": "unknown",
+          "note": "無料"
+        }
+      ],
+      "rawData": {
+        "entryText": "よっかいちおはなしシアター 〜声とからだでおくる童話集〜 — （みはまアートフェス2026／よっかいち演劇カルティベイトプロジェクト） 11/15（日）11:00／14:00、四日市市三浜文化会館（カルチュール三浜）多目的ホール（三重県四日市市）。ニットキャップシアター『嵐の夜』＋下鴨車窓『さなぎ』の2本立て（計約60分）。ファミリー1,800円、一般1,500円、高校生以下500円、未就園児無料。",
+        "dateText": "11月15日（日）",
+        "region": "三重県四日市市",
+        "catalogId": "mie-11-1",
+        "sourceType": "情報元"
+      }
+    },
+    {
+      "externalId": "muse-260010",
+      "catalogCategory": "main",
+      "collectedAt": "2026-11-13",
+      "verificationStatus": "verified",
+      "sources": [
+        {
+          "url": "https://www.lastradacompany.net/schedule",
+          "observedAt": "2026-11-13"
+        }
+      ],
+      "period": {
+        "startDate": "2026-11-17",
+        "endDate": "2026-11-17"
+      },
+      "playData": {
+        "mainInfo": {
+          "company": "ラストラーダカンパニー",
+          "performanceName": "竜潭譚",
+          "performanceType": "single",
+          "plays": [
+            {
+              "title": "竜潭譚"
+            }
+          ]
+        },
+        "venueInfo": {
+          "venue": "千種文化小劇場",
+          "venueAddress": "愛知県名古屋市千種区千種三丁目6番10号"
+        },
+        "scheduleInfo": {
+          "performances": [
+            {
+              "dateTime": "2026-11-17T19:00:00+09:00",
+              "notes": ""
+            }
+          ]
+        },
+        "ticketInfo": {
+          "prices": [],
+          "bookingUrls": []
+        },
+        "linksInfo": {
+          "relatedLinks": [],
+          "officialHp": "https://www.lastradacompany.net/schedule"
+        },
+        "miscInfo": {}
+      },
+      "rawPrices": [
+        {
+          "type": "自由席",
+          "amount": 3000,
+          "priceTiming": "unknown"
+        }
+      ],
+      "rawData": {
+        "entryText": "ラストラーダカンパニー『竜潭譚』 — （名古屋市民芸術祭2026参加） 11/17 19:00、千種文化小劇場（千種区）。自由席3,000円。",
+        "dateText": "11月17日（火）",
+        "region": "愛知県名古屋市",
+        "catalogId": "aichi-11-5",
+        "sourceType": "公式サイト"
+      }
+    },
+    {
+      "externalId": "muse-260011",
+      "catalogCategory": "main",
+      "collectedAt": "2026-11-17",
+      "verificationStatus": "unverified",
+      "sources": [
+        {
+          "url": "https://www.center-mie.or.jp/mpad/category/10",
+          "observedAt": "2026-11-17"
+        }
+      ],
+      "period": {
+        "startDate": "2026-11-18",
+        "endDate": "2026-11-18"
+      },
+      "playData": {
+        "mainInfo": {
+          "company": "MPAD2026 うさぎ庵",
+          "performanceName": "『神様』『神様2011』",
+          "performanceType": "multiple",
+          "plays": [
+            {
+              "title": "神様"
+            },
+            {
+              "title": "神様2011"
+            }
+          ],
+          "cast": "大井靖彦"
+        },
+        "venueInfo": {
+          "venue": "喫茶tayu-tau",
+          "venueAddress": "三重県津市大里窪田町863-3"
+        },
+        "scheduleInfo": {
+          "performances": [],
+          "scheduleDetails": "開演時刻は未確認のため個別日時は生成していない"
+        },
+        "ticketInfo": {
+          "prices": [],
+          "bookingUrls": []
+        },
+        "linksInfo": {
+          "relatedLinks": [],
+          "officialHp": "https://www.center-mie.or.jp/mpad/category/10"
+        },
+        "miscInfo": {}
+      },
+      "rawPrices": [
+        {
+          "type": "料理＋リーディング公演",
+          "amount": 4000,
+          "priceTiming": "unknown"
+        }
+      ],
+      "rawData": {
+        "entryText": "MPAD2026 うさぎ庵『神様』『神様2011』 — （作：川上弘美／演出：工藤千夏／出演：大井靖彦） 11/18（水）ランチタイム（12:30開場）／ディナータイム（18:30開場）、喫茶tayu-tau（三重県津市）。料理＋リーディング公演4,000円。開演時刻は未確認（開場時刻のみ判明）。チケット完売の報道あり。",
+        "dateText": "11月18日（水）",
+        "region": "三重県津市",
+        "catalogId": "mie-11-2",
+        "sourceType": "公式サイト"
+      }
+    },
+    {
+      "externalId": "muse-260012",
+      "catalogCategory": "main",
+      "collectedAt": "2026-11-13",
+      "verificationStatus": "unverified",
+      "sources": [
+        {
+          "url": "https://stage.corich.jp/stage/496481",
+          "observedAt": "2026-11-13"
+        }
+      ],
+      "period": {
+        "startDate": "2026-11-18",
+        "endDate": "2026-11-23"
+      },
+      "playData": {
+        "mainInfo": {
+          "company": "ハラプロジェクト",
+          "performanceName": "鳴神",
+          "performanceType": "single",
+          "plays": [
+            {
+              "title": "鳴神"
+            }
+          ]
+        },
+        "venueInfo": {
+          "venue": "七ツ寺共同スタジオ",
+          "venueAddress": "愛知県名古屋市中区大須2-27-20"
+        },
+        "scheduleInfo": {
+          "performances": [
+            {
+              "dateTime": "2026-11-18T19:00:00+09:00",
+              "notes": ""
+            },
+            {
+              "dateTime": "2026-11-19T19:00:00+09:00",
+              "notes": ""
+            },
+            {
+              "dateTime": "2026-11-20T19:00:00+09:00",
+              "notes": ""
+            },
+            {
+              "dateTime": "2026-11-21T14:00:00+09:00",
+              "notes": ""
+            },
+            {
+              "dateTime": "2026-11-22T14:00:00+09:00",
+              "notes": ""
+            },
+            {
+              "dateTime": "2026-11-23T14:00:00+09:00",
+              "notes": ""
+            }
+          ]
+        },
+        "ticketInfo": {
+          "prices": [
+            {
+              "type": "一般",
+              "advancePrice": 3500,
+              "doorPrice": null
+            },
+            {
+              "type": "学生・U23",
+              "advancePrice": 2500,
+              "doorPrice": null
+            }
+          ],
+          "bookingUrls": []
+        },
+        "linksInfo": {
+          "relatedLinks": [
+            {
+              "title": "CoRich",
+              "url": "https://stage.corich.jp/stage/496481"
+            }
+          ],
+          "officialX": "https://x.com/haraproject"
+        },
+        "miscInfo": {}
+      },
+      "rawPrices": [
+        {
+          "type": "一般",
+          "amount": 3500,
+          "priceTiming": "advance"
+        },
+        {
+          "type": "学生・U23",
+          "amount": 2500,
+          "priceTiming": "advance"
+        }
+      ],
+      "rawData": {
+        "entryText": "ハラプロジェクト『鳴神』 — 11/18〜23、七ツ寺共同スタジオ（中区・大須）。開演：18日（水）19:00、19日（木）19:00、20日（金）19:00、21日（土）14:00、22日（日）14:00、23日（月・祝）14:00。前売 一般3,500円／学生・U23 2,500円、全自由席・日時指定。当日料金・開場時刻は未確認。",
+        "dateText": "11月18日（水）〜23日（月）",
+        "region": "愛知県名古屋市",
+        "catalogId": "aichi-11-6",
+        "sourceType": "CoRich"
+      }
+    },
+    {
+      "externalId": "muse-260013",
+      "catalogCategory": "main",
+      "collectedAt": "2026-11-13",
+      "verificationStatus": "verified",
+      "sources": [
+        {
+          "url": "https://sites.google.com/view/rebirth-musical/",
+          "observedAt": "2026-11-13"
+        }
+      ],
+      "period": {
+        "startDate": "2026-11-19",
+        "endDate": "2026-11-19"
+      },
+      "playData": {
+        "mainInfo": {
+          "performanceName": "『Rebirth〜魂の約束〜』第3回名古屋公演",
+          "performanceType": "single",
+          "plays": [
+            {
+              "title": "Rebirth〜魂の約束〜"
+            }
+          ]
+        },
+        "venueInfo": {
+          "venue": "中村文化小劇場",
+          "venueAddress": "愛知県名古屋市中村区中村町字茶ノ木25番地"
+        },
+        "scheduleInfo": {
+          "performances": [
+            {
+              "dateTime": "2026-11-19T14:00:00+09:00",
+              "notes": ""
+            }
+          ]
+        },
+        "ticketInfo": {
+          "prices": [],
+          "bookingUrls": []
+        },
+        "linksInfo": {
+          "relatedLinks": [],
+          "officialHp": "https://sites.google.com/view/rebirth-musical/"
+        },
+        "miscInfo": {}
+      },
+      "rawPrices": [
+        {
+          "type": "4,000〜",
+          "amount": 5000,
+          "priceTiming": "unknown"
+        }
+      ],
+      "rawData": {
+        "entryText": "『Rebirth〜魂の約束〜』第3回名古屋公演 — （参加型ミュージカル×ワークショップ） 11/19 14:00〜16:00、中村文化小劇場（中村区）。4,000〜5,000円。",
+        "dateText": "11月19日（木）",
+        "region": "愛知県名古屋市",
+        "catalogId": "aichi-11-7",
+        "sourceType": "公式サイト"
+      }
+    },
+    {
+      "externalId": "muse-260014",
+      "catalogCategory": "main",
+      "collectedAt": "2026-11-17",
+      "verificationStatus": "verified",
+      "sources": [
+        {
+          "url": "https://www.center-mie.or.jp/mpad/category/10",
+          "observedAt": "2026-11-17"
+        }
+      ],
+      "period": {
+        "startDate": "2026-11-19",
+        "endDate": "2026-11-19"
+      },
+      "playData": {
+        "mainInfo": {
+          "company": "MPAD2026 有門正太郎プレゼンツ",
+          "performanceName": "『花の名前』『なんだ・こりゃ』",
+          "performanceType": "multiple",
+          "plays": [
+            {
+              "title": "花の名前"
+            },
+            {
+              "title": "なんだ・こりゃ"
+            }
+          ]
+        },
+        "venueInfo": {
+          "venue": "うなぎ料理 はし家",
+          "venueAddress": "三重県津市大門4-10"
+        },
+        "scheduleInfo": {
+          "performances": [],
+          "runningTime": "約1時間45分",
+          "scheduleDetails": "開場・入場期限：12:30開場・13:00までに入場／18:30開場・19:00までに入場（食事の後に公演を行う形式のため、単一の開演時刻は示されていない）"
+        },
+        "ticketInfo": {
+          "prices": [],
+          "bookingUrls": []
+        },
+        "linksInfo": {
+          "relatedLinks": [],
+          "officialHp": "https://www.center-mie.or.jp/mpad/category/10"
+        },
+        "miscInfo": {}
+      },
+      "rawPrices": [
+        {
+          "type": "料理＋リーディング公演",
+          "amount": 5000,
+          "priceTiming": "unknown"
+        }
+      ],
+      "rawData": {
+        "entryText": "MPAD2026 有門正太郎プレゼンツ『花の名前』『なんだ・こりゃ』 — （作：向田邦子） 11/19（木）ランチタイム（12:30開場、13:00までに入場）／ディナータイム（18:30開場、19:00までに入場）、うなぎ料理 はし家（三重県津市大門4-10）。料理＋リーディング公演5,000円、食事＋公演で約1時間45分。食事の後に公演の形式のため、単一の開演時刻は公式でも示されていない。",
+        "dateText": "11月19日（木）",
+        "region": "三重県津市",
+        "catalogId": "mie-11-3",
+        "sourceType": "公式サイト"
+      }
+    },
+    {
+      "externalId": "muse-260015",
+      "catalogCategory": "main",
+      "collectedAt": "2026-11-13",
+      "verificationStatus": "verified",
+      "sources": [
+        {
+          "url": "https://www.instagram.com/p/DfTBMVKTL8m/",
+          "observedAt": "2026-11-13"
+        }
+      ],
+      "period": {
+        "startDate": "2026-11-19",
+        "endDate": "2026-11-21"
+      },
+      "playData": {
+        "mainInfo": {
+          "company": "夢腐論（ムフロン）上演会",
+          "performanceName": "縫ノ壁",
+          "performanceType": "single",
+          "plays": [
+            {
+              "title": "縫ノ壁"
+            }
+          ]
+        },
+        "venueInfo": {
+          "venue": "ユースクエア プレイルーム",
+          "venueAddress": "愛知県名古屋市北区柳原三丁目6番8号（名古屋市青少年交流プラザ）"
+        },
+        "scheduleInfo": {
+          "performances": [
+            {
+              "dateTime": "2026-11-19T18:00:00+09:00",
+              "notes": "綻"
+            },
+            {
+              "dateTime": "2026-11-19T20:00:00+09:00",
+              "notes": "綻"
+            },
+            {
+              "dateTime": "2026-11-20T18:00:00+09:00",
+              "notes": "綻"
+            },
+            {
+              "dateTime": "2026-11-20T20:00:00+09:00",
+              "notes": "壁"
+            },
+            {
+              "dateTime": "2026-11-21T13:00:00+09:00",
+              "notes": "壁"
+            },
+            {
+              "dateTime": "2026-11-21T15:00:00+09:00",
+              "notes": "壁"
+            },
+            {
+              "dateTime": "2026-11-21T17:00:00+09:00",
+              "notes": "綻"
+            },
+            {
+              "dateTime": "2026-11-21T19:00:00+09:00",
+              "notes": "壁"
+            }
+          ],
+          "runningTime": "約50分",
+          "doorsOpen": "20分前"
+        },
+        "ticketInfo": {
+          "prices": [],
+          "bookingUrls": []
+        },
+        "linksInfo": {
+          "relatedLinks": [
+            {
+              "title": "Instagram",
+              "url": "https://www.instagram.com/p/DfTBMVKTL8m/"
+            }
+          ]
+        },
+        "miscInfo": {}
+      },
+      "rawPrices": [
+        {
+          "type": "一般",
+          "amount": 2000,
+          "priceTiming": "unknown"
+        },
+        {
+          "type": "U22",
+          "amount": 1000,
+          "priceTiming": "unknown"
+        }
+      ],
+      "rawData": {
+        "entryText": "夢腐論（ムフロン）上演会『縫ノ壁』 — 11/19〜21、ユースクエア プレイルーム（北区）。開演：19日（木）18:00【綻】／20:00【綻】、20日（金）18:00【綻】／20:00【壁】、21日（土）13:00【壁】／15:00【壁】／17:00【綻】／19:00【壁】。各回約50分、開場は20分前。一般2,000円、U22 1,000円、リピート割−500円。",
+        "dateText": "11月19日（木）〜21日（土）",
+        "region": "愛知県名古屋市",
+        "catalogId": "tuiho-11-3",
+        "sourceType": "Instagram"
+      }
+    },
+    {
+      "externalId": "muse-260016",
+      "catalogCategory": "main",
+      "collectedAt": "2026-11-13",
+      "verificationStatus": "verified",
+      "sources": [
+        {
+          "url": "https://www.instagram.com/p/DeEPPi-FQp-/",
+          "observedAt": "2026-11-13"
+        }
+      ],
+      "period": {
+        "startDate": "2026-11-19",
+        "endDate": "2026-11-23"
+      },
+      "playData": {
+        "mainInfo": {
+          "company": "東京メロウ The 14th wonder",
+          "performanceName": "しましまのアイスクリーム",
+          "performanceType": "single",
+          "plays": [
+            {
+              "title": "しましまのアイスクリーム"
+            }
+          ]
+        },
+        "venueInfo": {
+          "venue": "ナンジャーレ",
+          "venueAddress": "愛知県名古屋市中村区亀島2-26-5"
+        },
+        "scheduleInfo": {
+          "performances": [
+            {
+              "dateTime": "2026-11-19T19:30:00+09:00",
+              "notes": ""
+            },
+            {
+              "dateTime": "2026-11-20T19:30:00+09:00",
+              "notes": ""
+            },
+            {
+              "dateTime": "2026-11-21T11:00:00+09:00",
+              "notes": ""
+            },
+            {
+              "dateTime": "2026-11-21T15:00:00+09:00",
+              "notes": ""
+            },
+            {
+              "dateTime": "2026-11-21T19:00:00+09:00",
+              "notes": ""
+            },
+            {
+              "dateTime": "2026-11-22T11:00:00+09:00",
+              "notes": ""
+            },
+            {
+              "dateTime": "2026-11-22T15:00:00+09:00",
+              "notes": ""
+            },
+            {
+              "dateTime": "2026-11-22T19:00:00+09:00",
+              "notes": ""
+            },
+            {
+              "dateTime": "2026-11-23T11:00:00+09:00",
+              "notes": ""
+            }
+          ],
+          "runningTime": "30分",
+          "doorsOpen": "30分前"
+        },
+        "ticketInfo": {
+          "prices": [],
+          "bookingUrls": [
+            {
+              "title": "チケット予約",
+              "url": "https://ticket.corich.jp/apply/492752/"
+            }
+          ]
+        },
+        "linksInfo": {
+          "relatedLinks": [
+            {
+              "title": "Instagram",
+              "url": "https://www.instagram.com/p/DeEPPi-FQp-/"
+            }
+          ],
+          "officialX": "https://x.com/tokyo_mellow_24"
+        },
+        "miscInfo": {
+          "otherInfo": "小学生以下観劇不可"
+        }
+      },
+      "rawPrices": [
+        {
+          "type": "普通観劇券",
+          "amount": 3500,
+          "priceTiming": "unknown"
+        },
+        {
+          "type": "応援観劇券",
+          "amount": 4000,
+          "priceTiming": "unknown"
+        },
+        {
+          "type": "千秋楽観劇券",
+          "amount": 5000,
+          "priceTiming": "unknown"
+        }
+      ],
+      "rawData": {
+        "entryText": "東京メロウ The 14th wonder『しましまのアイスクリーム』 — 11/19〜23、ナンジャーレ（中村区）。開演：11/19 19:30、11/20 19:30、11/21 11:00／15:00／19:00、11/22 11:00／15:00／19:00、11/23 11:00（千秋楽特別公演）。開場は各回30分前。上演時間90分以内予定。普通観劇券3,500円、応援観劇券4,000円、千秋楽観劇券5,000円。小学生以下観劇不可。",
+        "dateText": "11月19日（木）〜23日（月）",
+        "region": "愛知県名古屋市",
+        "catalogId": "tuiho-11-2",
+        "sourceType": "Instagram"
+      }
+    },
+    {
+      "externalId": "muse-260018",
+      "catalogCategory": "main",
+      "collectedAt": "2026-11-17",
+      "verificationStatus": "verified",
+      "sources": [
+        {
+          "url": "https://www.center-mie.or.jp/mpad/category/10",
+          "observedAt": "2026-11-17"
+        }
+      ],
+      "period": {
+        "startDate": "2026-11-20",
+        "endDate": "2026-11-20"
+      },
+      "playData": {
+        "mainInfo": {
+          "company": "MPAD2026 高川裕也",
+          "performanceName": "日の果て",
+          "performanceType": "single",
+          "plays": [
+            {
+              "title": "日の果て",
+              "playwright": "梅崎春生",
+              "cast": "高川裕也"
+            }
+          ]
+        },
+        "venueInfo": {
+          "venue": "塔世山 四天王寺",
+          "venueAddress": "三重県津市栄町1丁目892"
+        },
+        "scheduleInfo": {
+          "performances": [],
+          "runningTime": "約1時間45分",
+          "scheduleDetails": "開場・入場期限：12:30開場・13:00までに入場／18:30開場・19:00までに入場（食事の後に公演を行う形式のため、単一の開演時刻は示されていない）"
+        },
+        "ticketInfo": {
+          "prices": [],
+          "bookingUrls": []
+        },
+        "linksInfo": {
+          "relatedLinks": [],
+          "officialX": "https://x.com/yytkgw",
+          "officialHp": "https://www.center-mie.or.jp/mpad/category/10"
+        },
+        "miscInfo": {}
+      },
+      "rawPrices": [
+        {
+          "type": "料理＋リーディング公演",
+          "amount": 5000,
+          "priceTiming": "unknown"
+        }
+      ],
+      "rawData": {
+        "entryText": "MPAD2026 高川裕也『日の果て』 — （作：梅崎春生、演出・出演：高川裕也） 11/20（金）ランチタイム（12:30開場、13:00までに入場）／ディナータイム（18:30開場、19:00までに入場）、塔世山 四天王寺（三重県津市栄町1丁目892）。料理＋リーディング公演5,000円、食事＋公演で約1時間45分。防寒の用意をとの注意あり。食事の後に公演の形式のため、単一の開演時刻は公式でも示されていない。",
+        "dateText": "11月20日（金）",
+        "region": "三重県津市",
+        "catalogId": "mie-11-4",
+        "sourceType": "公式サイト"
+      }
+    },
+    {
+      "externalId": "muse-260019",
+      "catalogCategory": "main",
+      "collectedAt": "2026-11-13",
+      "verificationStatus": "verified",
+      "sources": [
+        {
+          "url": "https://haikyobungeibu.jimdofree.com/next/",
+          "observedAt": "2026-11-13"
+        }
+      ],
+      "period": {
+        "startDate": "2026-11-20",
+        "endDate": "2026-11-22"
+      },
+      "playData": {
+        "mainInfo": {
+          "company": "廃墟文藝部 第十回本公演",
+          "performanceName": "BUBBLE",
+          "performanceType": "single",
+          "plays": [
+            {
+              "title": "BUBBLE",
+              "playwright": "斜田章大",
+              "director": "斜田章大"
+            }
+          ]
+        },
+        "venueInfo": {
+          "venue": "千種文化小劇場",
+          "venueAddress": "愛知県名古屋市千種区千種三丁目6番10号"
+        },
+        "scheduleInfo": {
+          "performances": [
+            {
+              "dateTime": "2026-11-20T19:00:00+09:00",
+              "notes": ""
+            },
+            {
+              "dateTime": "2026-11-21T14:00:00+09:00",
+              "notes": ""
+            },
+            {
+              "dateTime": "2026-11-21T19:00:00+09:00",
+              "notes": ""
+            },
+            {
+              "dateTime": "2026-11-22T12:00:00+09:00",
+              "notes": ""
+            },
+            {
+              "dateTime": "2026-11-22T17:00:00+09:00",
+              "notes": ""
+            }
+          ],
+          "runningTime": "約95分"
+        },
+        "ticketInfo": {
+          "prices": [],
+          "bookingUrls": [],
+          "ticketNotes": "当日料金は各区分+500円"
+        },
+        "linksInfo": {
+          "relatedLinks": [],
+          "officialX": "https://x.com/haikyobungeibu",
+          "officialHp": "https://haikyobungeibu.jimdofree.com/next/"
+        },
+        "miscInfo": {}
+      },
+      "rawPrices": [
+        {
+          "type": "一般",
+          "amount": 4000,
+          "priceTiming": "unknown"
+        },
+        {
+          "type": "U25",
+          "amount": 2500,
+          "priceTiming": "unknown"
+        },
+        {
+          "type": "高校生",
+          "amount": 1500,
+          "priceTiming": "unknown"
+        },
+        {
+          "type": "初日：一般",
+          "amount": 3500,
+          "priceTiming": "unknown"
+        },
+        {
+          "type": "U25",
+          "amount": 2000,
+          "priceTiming": "unknown"
+        },
+        {
+          "type": "高校生",
+          "amount": 1000,
+          "priceTiming": "unknown"
+        }
+      ],
+      "rawData": {
+        "entryText": "廃墟文藝部 第十回本公演『BUBBLE』 — 11/20 19:00、11/21 14:00／19:00、11/22 12:00／17:00、千種文化小劇場。脚本・演出：斜田章大。一般4,000円、U25 2,500円、高校生1,500円。約95分。初日割あり（初日：一般3,500円／U25 2,000円／高校生1,000円）。当日＋500円。11/21 14:00回終演後にアフタートーク「物書きと音描き」、11/22 12:00回終演後に斜田章大＆八代将弥のアフタートークあり。",
+        "dateText": "11月20日（金）〜22日（日）",
+        "region": "愛知県名古屋市",
+        "catalogId": "aichi-11-9",
+        "sourceType": "公式サイト"
+      }
+    },
+    {
+      "externalId": "muse-260022",
+      "catalogCategory": "main",
+      "collectedAt": "2026-11-13",
+      "verificationStatus": "verified",
+      "sources": [
+        {
+          "url": "https://www.instagram.com/p/DfSLu4ryzEe/",
+          "observedAt": "2026-11-13"
+        }
+      ],
+      "period": {
+        "startDate": "2026-11-21",
+        "endDate": "2026-11-21"
+      },
+      "playData": {
+        "mainInfo": {
+          "company": "演劇ユニット月の輪",
+          "performanceName": "白紙惑星",
+          "performanceType": "single",
+          "plays": [
+            {
+              "title": "白紙惑星",
+              "playwright": "世緒",
+              "director": "世緒"
+            }
+          ]
+        },
+        "venueInfo": {
+          "venue": "シアターココ",
+          "venueAddress": "愛知県名古屋市千種区池下1-11-11 スタチオン池下2階"
+        },
+        "scheduleInfo": {
+          "performances": [
+            {
+              "dateTime": "2026-11-21T13:00:00+09:00",
+              "notes": ""
+            },
+            {
+              "dateTime": "2026-11-21T17:00:00+09:00",
+              "notes": ""
+            }
+          ]
+        },
+        "ticketInfo": {
+          "prices": [],
+          "bookingUrls": []
+        },
+        "linksInfo": {
+          "relatedLinks": [
+            {
+              "title": "Instagram",
+              "url": "https://www.instagram.com/p/DfSLu4ryzEe/"
+            }
+          ]
+        },
+        "miscInfo": {}
+      },
+      "rawPrices": [
+        {
+          "type": "料金",
+          "amount": 1500,
+          "priceTiming": "unknown"
+        }
+      ],
+      "rawData": {
+        "entryText": "演劇ユニット月の輪『白紙惑星』 — （短編4作） 11/21 13:00／17:00、シアターココ（千種区・池下）。脚本・演出：世緒。1,500円。",
+        "dateText": "11月21日（土）",
+        "region": "愛知県名古屋市",
+        "catalogId": "tuiho-11-5",
+        "sourceType": "Instagram"
+      }
+    },
+    {
+      "externalId": "muse-260023",
+      "catalogCategory": "main",
+      "collectedAt": "2026-11-17",
+      "verificationStatus": "verified",
+      "sources": [
+        {
+          "url": "https://www.center-mie.or.jp/mpad/category/10",
+          "observedAt": "2026-11-17"
+        }
+      ],
+      "period": {
+        "startDate": "2026-11-21",
+        "endDate": "2026-11-21"
+      },
+      "playData": {
+        "mainInfo": {
+          "performanceName": "MPAD2026 リーディング公演ダイジェスト見",
+          "performanceType": "multiple",
+          "plays": [
+            {
+              "title": "花の名前"
+            },
+            {
+              "title": "なんだ・こりゃ"
+            },
+            {
+              "title": "神様"
+            },
+            {
+              "title": "神様2011"
+            }
+          ]
+        },
+        "venueInfo": {
+          "venue": "津あけぼの座",
+          "venueAddress": "三重県津市上浜町3丁目51"
+        },
+        "scheduleInfo": {
+          "performances": [
+            {
+              "dateTime": "2026-11-21T18:30:00+09:00",
+              "notes": ""
+            }
+          ],
+          "runningTime": "約3時間"
+        },
+        "ticketInfo": {
+          "prices": [],
+          "bookingUrls": []
+        },
+        "linksInfo": {
+          "relatedLinks": [],
+          "officialHp": "https://www.center-mie.or.jp/mpad/category/10"
+        },
+        "miscInfo": {}
+      },
+      "rawPrices": [
+        {
+          "type": "一般",
+          "amount": 3000,
+          "priceTiming": "unknown"
+        },
+        {
+          "type": "U-22",
+          "amount": 1000,
+          "priceTiming": "unknown"
+        }
+      ],
+      "rawData": {
+        "entryText": "MPAD2026 リーディング公演ダイジェスト見 — （有門正太郎プレゼンツ『花の名前』『なんだ・こりゃ』＋うさぎ庵『神様』『神様2011』＋上演団体代表トーク） 11/21（土）18:30開演（18:00開場）、津あけぼの座（三重県津市）。一般3,000円、U-22 1,000円。約3時間、食事提供なし。",
+        "dateText": "11月21日（土）",
+        "region": "三重県津市",
+        "catalogId": "mie-11-5",
+        "sourceType": "公式サイト"
+      }
+    },
+    {
+      "externalId": "muse-260024",
+      "catalogCategory": "main",
+      "collectedAt": "2026-11-13",
+      "verificationStatus": "verified",
+      "sources": [
+        {
+          "url": "https://teket.jp/19020/73510",
+          "observedAt": "2026-11-13"
+        }
+      ],
+      "period": {
+        "startDate": "2026-11-21",
+        "endDate": "2026-11-22"
+      },
+      "playData": {
+        "mainInfo": {
+          "company": "劇団そらのゆめ ミュージカル",
+          "performanceName": "アラジンと魔法のランプ",
+          "performanceType": "single",
+          "plays": [
+            {
+              "title": "アラジンと魔法のランプ",
+              "playwright": "川村ミチル",
+              "director": "川村ミチル"
+            }
+          ]
+        },
+        "venueInfo": {
+          "venue": "天白文化小劇場",
+          "venueAddress": "愛知県名古屋市天白区原一丁目301番地（原ターミナルビル4階）"
+        },
+        "scheduleInfo": {
+          "performances": [
+            {
+              "dateTime": "2026-11-21T19:00:00+09:00",
+              "notes": ""
+            },
+            {
+              "dateTime": "2026-11-22T11:00:00+09:00",
+              "notes": ""
+            },
+            {
+              "dateTime": "2026-11-22T14:30:00+09:00",
+              "notes": ""
+            }
+          ],
+          "runningTime": "90分"
+        },
+        "ticketInfo": {
+          "prices": [],
+          "bookingUrls": [
+            {
+              "title": "teket",
+              "url": "https://teket.jp/19020/73510"
+            }
+          ]
+        },
+        "linksInfo": {
+          "relatedLinks": [
+            {
+              "title": "チケット（teket）",
+              "url": "https://teket.jp/19020/73510"
+            }
+          ]
+        },
+        "miscInfo": {}
+      },
+      "rawPrices": [
+        {
+          "type": "2,000〜",
+          "amount": 5000,
+          "priceTiming": "unknown"
+        }
+      ],
+      "rawData": {
+        "entryText": "劇団そらのゆめ ミュージカル『アラジンと魔法のランプ』 — （市民芸術祭参加） 11/21 19:00、11/22 11:00／14:30、天白文化小劇場（天白区）。脚本・演出：川村ミチル。2,000〜5,000円。90分（休憩含む）。",
+        "dateText": "11月21日（土）〜22日（日）",
+        "region": "愛知県名古屋市",
+        "catalogId": "aichi-11-10",
+        "sourceType": "チケット（teket）"
+      }
+    },
+    {
+      "externalId": "muse-260026",
+      "catalogCategory": "main",
+      "collectedAt": "2026-11-13",
+      "verificationStatus": "verified",
+      "sources": [
+        {
+          "url": "https://www.instagram.com/p/DfPmaulD7IH/",
+          "observedAt": "2026-11-13"
+        }
+      ],
+      "period": {
+        "startDate": "2026-11-21",
+        "endDate": "2026-11-23"
+      },
+      "playData": {
+        "mainInfo": {
+          "company": "ユメツヅキ 第1回本公演",
+          "performanceName": "窓辺の枠の向こう側",
+          "performanceType": "single",
+          "plays": [
+            {
+              "title": "窓辺の枠の向こう側"
+            }
+          ]
+        },
+        "venueInfo": {
+          "venue": "ささしまスタジオ",
+          "venueAddress": "愛知県名古屋市中川区福住町8-11"
+        },
+        "scheduleInfo": {
+          "performances": [
+            {
+              "dateTime": "2026-11-21T18:00:00+09:00",
+              "notes": ""
+            },
+            {
+              "dateTime": "2026-11-22T13:00:00+09:00",
+              "notes": ""
+            },
+            {
+              "dateTime": "2026-11-22T18:00:00+09:00",
+              "notes": ""
+            },
+            {
+              "dateTime": "2026-11-23T11:00:00+09:00",
+              "notes": ""
+            },
+            {
+              "dateTime": "2026-11-23T15:00:00+09:00",
+              "notes": ""
+            }
+          ],
+          "runningTime": "約100分",
+          "doorsOpen": "開演30分前"
+        },
+        "ticketInfo": {
+          "prices": [
+            {
+              "type": "一般",
+              "advancePrice": 2000,
+              "doorPrice": 2500
+            }
+          ],
+          "bookingUrls": []
+        },
+        "linksInfo": {
+          "relatedLinks": [
+            {
+              "title": "Instagram",
+              "url": "https://www.instagram.com/p/DfPmaulD7IH/"
+            }
+          ],
+          "officialX": "https://x.com/Yumetsudzuki"
+        },
+        "miscInfo": {}
+      },
+      "rawPrices": [
+        {
+          "type": "一般",
+          "amount": 2000,
+          "priceTiming": "advance"
+        },
+        {
+          "type": "一般",
+          "amount": 2500,
+          "priceTiming": "door"
+        }
+      ],
+      "rawData": {
+        "entryText": "ユメツヅキ 第1回本公演『窓辺の枠の向こう側』 — 11/21 18:00、11/22 13:00／18:00、11/23 11:00／15:00、ささしまスタジオ（中川区）。前売2,000円、当日2,500円。約100分。開場は開演30分前。",
+        "dateText": "11月21日（土）〜23日（月）",
+        "region": "愛知県名古屋市",
+        "catalogId": "tuiho-11-6",
+        "sourceType": "Instagram"
+      }
+    },
+    {
+      "externalId": "muse-260028",
+      "catalogCategory": "main",
+      "collectedAt": "2026-11-13",
+      "verificationStatus": "verified",
+      "sources": [
+        {
+          "url": "https://www.instagram.com/p/De64oUOGHZB/",
+          "observedAt": "2026-11-13"
+        }
+      ],
+      "period": {
+        "startDate": "2026-11-22",
+        "endDate": "2026-11-22"
+      },
+      "playData": {
+        "mainInfo": {
+          "company": "名古屋芸術大学 音楽劇",
+          "performanceName": "虹のジュークボックス",
+          "performanceType": "single",
+          "plays": [
+            {
+              "title": "虹のジュークボックス"
+            }
+          ]
+        },
+        "venueInfo": {
+          "venue": "名古屋芸術大学 東キャンパス3号館ホール",
+          "venueAddress": "愛知県北名古屋市熊之庄古井281番地（名古屋芸術大学 東キャンパス）"
+        },
+        "scheduleInfo": {
+          "performances": [
+            {
+              "dateTime": "2026-11-22T14:30:00+09:00",
+              "notes": ""
+            }
+          ]
+        },
+        "ticketInfo": {
+          "prices": [],
+          "bookingUrls": []
+        },
+        "linksInfo": {
+          "relatedLinks": [
+            {
+              "title": "Instagram",
+              "url": "https://www.instagram.com/p/De64oUOGHZB/"
+            }
+          ],
+          "officialX": "https://x.com/nagoyageidai"
+        },
+        "miscInfo": {
+          "otherInfo": "全席予約制"
+        }
+      },
+      "rawPrices": [
+        {
+          "type": "料金",
+          "amount": 0,
+          "priceTiming": "unknown",
+          "note": "無料"
+        }
+      ],
+      "rawData": {
+        "entryText": "名古屋芸術大学 音楽劇『虹のジュークボックス』 — 11/22 14:30、名古屋芸術大学 東キャンパス3号館ホール（北名古屋市）。無料（全席予約制）。",
+        "dateText": "11月22日（日）",
+        "region": "愛知県北名古屋市",
+        "catalogId": "tuiho-11-7",
+        "sourceType": "Instagram"
+      }
+    },
+    {
+      "externalId": "muse-260029",
+      "catalogCategory": "main",
+      "collectedAt": "2026-11-13",
+      "verificationStatus": "verified",
+      "sources": [
+        {
+          "url": "https://www.city.toyota.aichi.jp/kosodategakko/seishonen/1073330/1027171/1077936/1080826.html",
+          "observedAt": "2026-11-13"
+        }
+      ],
+      "period": {
+        "startDate": "2026-11-22",
+        "endDate": "2026-11-22"
+      },
+      "playData": {
+        "mainInfo": {
+          "company": "とよたこども創造劇場 修了公演",
+          "performanceName": "『マジックアワーは終わらない』＋特別公演『サンライズは終わらない』",
+          "performanceType": "multiple",
+          "plays": [
+            {
+              "title": "マジックアワーは終わらない"
+            },
+            {
+              "title": "サンライズは終わらない"
+            }
+          ]
+        },
+        "venueInfo": {
+          "venue": "豊田市民文化会館 小ホール",
+          "venueAddress": "愛知県豊田市小坂町12丁目100"
+        },
+        "scheduleInfo": {
+          "performances": [
+            {
+              "dateTime": "2026-11-22T13:00:00+09:00",
+              "notes": ""
+            },
+            {
+              "dateTime": "2026-11-22T17:30:00+09:00",
+              "notes": ""
+            }
+          ]
+        },
+        "ticketInfo": {
+          "prices": [],
+          "bookingUrls": []
+        },
+        "linksInfo": {
+          "relatedLinks": [],
+          "officialHp": "https://www.city.toyota.aichi.jp/kosodategakko/seishonen/1073330/1027171/1077936/1080826.html"
+        },
+        "miscInfo": {}
+      },
+      "rawPrices": [
+        {
+          "type": "参加費",
+          "amount": 1500,
+          "priceTiming": "unknown"
+        }
+      ],
+      "rawData": {
+        "entryText": "とよたこども創造劇場 修了公演『マジックアワーは終わらない』＋特別公演『サンライズは終わらない』 — 11/22 13:00／17:30、豊田市民文化会館 小ホール（豊田市）。作・演出：鹿目由紀。参加費1,500円。",
+        "dateText": "11月22日（日）",
+        "region": "愛知県豊田市",
+        "catalogId": "tuiho-11-8",
+        "sourceType": "公式サイト"
+      }
+    },
+    {
+      "externalId": "muse-260032",
+      "catalogCategory": "main",
+      "collectedAt": "2026-11-13",
+      "verificationStatus": "verified",
+      "sources": [
+        {
+          "url": "https://www.instagram.com/p/Dc_D7rgz2J3/",
+          "observedAt": "2026-11-13"
+        }
+      ],
+      "period": {
+        "startDate": "2026-11-25",
+        "endDate": "2026-11-29"
+      },
+      "playData": {
+        "mainInfo": {
+          "company": "東京メロウ The 15th Anniversary Wonder",
+          "performanceName": "ウォルターミティの花嫁",
+          "performanceType": "single",
+          "plays": [
+            {
+              "title": "ウォルターミティの花嫁",
+              "playwright": "戸松大河",
+              "director": "戸松大河"
+            }
+          ]
+        },
+        "venueInfo": {
+          "venue": "ナンジャーレ",
+          "venueAddress": "愛知県名古屋市中村区亀島2-26-5"
+        },
+        "scheduleInfo": {
+          "performances": [
+            {
+              "dateTime": "2026-11-25T19:30:00+09:00",
+              "notes": ""
+            },
+            {
+              "dateTime": "2026-11-26T19:30:00+09:00",
+              "notes": ""
+            },
+            {
+              "dateTime": "2026-11-27T19:30:00+09:00",
+              "notes": ""
+            },
+            {
+              "dateTime": "2026-11-28T11:00:00+09:00",
+              "notes": ""
+            },
+            {
+              "dateTime": "2026-11-28T15:00:00+09:00",
+              "notes": ""
+            },
+            {
+              "dateTime": "2026-11-28T19:00:00+09:00",
+              "notes": ""
+            },
+            {
+              "dateTime": "2026-11-29T11:00:00+09:00",
+              "notes": ""
+            },
+            {
+              "dateTime": "2026-11-29T15:00:00+09:00",
+              "notes": ""
+            }
+          ],
+          "runningTime": "90分",
+          "doorsOpen": "開演30分前"
+        },
+        "ticketInfo": {
+          "prices": [
+            {
+              "type": "千秋楽観劇券",
+              "advancePrice": null,
+              "doorPrice": 5000
+            },
+            {
+              "type": "応援観劇券",
+              "advancePrice": null,
+              "doorPrice": 4000
+            },
+            {
+              "type": "普通観劇券",
+              "advancePrice": null,
+              "doorPrice": 3500
+            }
+          ],
+          "bookingUrls": []
+        },
+        "linksInfo": {
+          "relatedLinks": [
+            {
+              "title": "Instagram",
+              "url": "https://www.instagram.com/p/Dc_D7rgz2J3/"
+            }
+          ],
+          "officialX": "https://x.com/tokyo_mellow_24"
+        },
+        "miscInfo": {
+          "otherInfo": "未就学児観劇不可"
+        }
+      },
+      "rawPrices": [
+        {
+          "type": "千秋楽観劇券",
+          "amount": 5000,
+          "priceTiming": "door"
+        },
+        {
+          "type": "応援観劇券",
+          "amount": 4000,
+          "priceTiming": "door"
+        },
+        {
+          "type": "普通観劇券",
+          "amount": 3500,
+          "priceTiming": "door"
+        }
+      ],
+      "rawData": {
+        "entryText": "東京メロウ The 15th Anniversary Wonder『ウォルターミティの花嫁』 — 11/25（水）19:30、11/26（木）19:30、11/27（金）19:30、11/28（土）11:00／15:00／19:00、11/29（日）11:00／15:00、ナンジャーレ（中村区）。脚本・演出：戸松大河。未就学児観劇不可。上演時間90分予定。開場は開演30分前。千秋楽観劇券 当日5,000円、応援観劇券 当日4,000円、普通観劇券 当日3,500円。",
+        "dateText": "11月25日（水）〜29日（日）",
+        "region": "愛知県名古屋市",
+        "catalogId": "tuiho-11-9",
+        "sourceType": "Instagram"
+      }
+    },
+    {
+      "externalId": "muse-260033",
+      "catalogCategory": "main",
+      "collectedAt": "2026-11-13",
+      "verificationStatus": "verified",
+      "sources": [
+        {
+          "url": "https://www.instagram.com/p/De1Zw6jo9EZ/",
+          "observedAt": "2026-11-13"
+        }
+      ],
+      "period": {
+        "startDate": "2026-11-27",
+        "endDate": "2026-11-29"
+      },
+      "playData": {
+        "mainInfo": {
+          "company": "愛知教育大学 演劇部 劇団把°夢 第140回冬公演",
+          "performanceName": "まいstreet",
+          "performanceType": "single",
+          "plays": [
+            {
+              "title": "まいstreet"
+            }
+          ]
+        },
+        "venueInfo": {
+          "venue": "G/pit",
+          "venueAddress": "愛知県名古屋市中区栄1-23-30"
+        },
+        "scheduleInfo": {
+          "performances": [
+            {
+              "dateTime": "2026-11-27T19:00:00+09:00",
+              "notes": ""
+            },
+            {
+              "dateTime": "2026-11-28T11:00:00+09:00",
+              "notes": ""
+            },
+            {
+              "dateTime": "2026-11-28T15:00:00+09:00",
+              "notes": ""
+            },
+            {
+              "dateTime": "2026-11-28T19:00:00+09:00",
+              "notes": ""
+            },
+            {
+              "dateTime": "2026-11-29T11:00:00+09:00",
+              "notes": ""
+            }
+          ],
+          "runningTime": "約90分"
+        },
+        "ticketInfo": {
+          "prices": [
+            {
+              "type": "一般",
+              "advancePrice": 1100,
+              "doorPrice": null
+            },
+            {
+              "type": "学生",
+              "advancePrice": 1000,
+              "doorPrice": null
+            }
+          ],
+          "bookingUrls": []
+        },
+        "linksInfo": {
+          "relatedLinks": [
+            {
+              "title": "Instagram",
+              "url": "https://www.instagram.com/p/De1Zw6jo9EZ/"
+            }
+          ],
+          "officialX": "https://x.com/pamu_info"
+        },
+        "miscInfo": {}
+      },
+      "rawPrices": [
+        {
+          "type": "一般",
+          "amount": 1100,
+          "priceTiming": "advance"
+        },
+        {
+          "type": "学生",
+          "amount": 1000,
+          "priceTiming": "advance"
+        }
+      ],
+      "rawData": {
+        "entryText": "愛知教育大学 演劇部 劇団把°夢 第140回冬公演『まいstreet』 — 11/27 19:00、11/28 11:00／15:00／19:00、11/29 11:00、G/PIT（中区・栄）。前売 一般1,100円・学生1,000円。約90分。",
+        "dateText": "11月27日（金）〜29日（日）",
+        "region": "愛知県名古屋市",
+        "catalogId": "tuiho-11-10",
+        "sourceType": "Instagram"
+      }
+    },
+    {
+      "externalId": "muse-260035",
+      "catalogCategory": "main",
+      "collectedAt": "2026-11-13",
+      "verificationStatus": "verified",
+      "sources": [
+        {
+          "url": "https://www.instagram.com/p/De-5_v0D1Rd/",
+          "observedAt": "2026-11-13"
+        }
+      ],
+      "period": {
+        "startDate": "2026-11-28",
+        "endDate": "2026-11-29"
+      },
+      "playData": {
+        "mainInfo": {
+          "company": "右脳中島オーボラの本妻 vol.12",
+          "performanceName": "うまれたばかりのくに",
+          "performanceType": "single",
+          "plays": [
+            {
+              "title": "うまれたばかりのくに",
+              "playwright": "丸蟲御膳末吉",
+              "director": "丸蟲御膳末吉"
+            }
+          ]
+        },
+        "venueInfo": {
+          "venue": "七ツ寺共同スタジオ",
+          "venueAddress": "愛知県名古屋市中区大須2-27-20"
+        },
+        "scheduleInfo": {
+          "performances": [
+            {
+              "dateTime": "2026-11-28T15:00:00+09:00",
+              "notes": ""
+            },
+            {
+              "dateTime": "2026-11-28T19:00:00+09:00",
+              "notes": ""
+            },
+            {
+              "dateTime": "2026-11-29T11:00:00+09:00",
+              "notes": ""
+            },
+            {
+              "dateTime": "2026-11-29T15:00:00+09:00",
+              "notes": ""
+            }
+          ]
+        },
+        "ticketInfo": {
+          "prices": [
+            {
+              "type": "一般",
+              "advancePrice": null,
+              "doorPrice": 4000
+            }
+          ],
+          "bookingUrls": []
+        },
+        "linksInfo": {
+          "relatedLinks": [
+            {
+              "title": "Instagram",
+              "url": "https://www.instagram.com/p/De-5_v0D1Rd/"
+            }
+          ],
+          "officialX": "https://x.com/oobora6"
+        },
+        "miscInfo": {}
+      },
+      "rawPrices": [
+        {
+          "type": "一般",
+          "amount": 4000,
+          "priceTiming": "door"
+        },
+        {
+          "type": "一般",
+          "amount": 3800,
+          "priceTiming": "unknown"
+        },
+        {
+          "type": "U-25＆O-65",
+          "amount": 3000,
+          "priceTiming": "unknown"
+        },
+        {
+          "type": "おか割り",
+          "amount": 1000,
+          "priceTiming": "unknown"
+        }
+      ],
+      "rawData": {
+        "entryText": "右脳中島オーボラの本妻 vol.12『うまれたばかりのくに』 — （市民芸術祭参加） 11/28 15:00／19:00、11/29 11:00／15:00、七ツ寺共同スタジオ。作・演出：丸蟲御膳末吉。一般3,800円（当日4,000円）、U-25＆O-65 3,000円、おか割り1,000円。",
+        "dateText": "11月28日（土）〜29日（日）",
+        "region": "愛知県名古屋市",
+        "catalogId": "aichi-11-12",
+        "sourceType": "Instagram"
+      }
+    },
+    {
+      "externalId": "muse-260036",
+      "catalogCategory": "main",
+      "collectedAt": "2026-11-13",
+      "verificationStatus": "verified",
+      "sources": [
+        {
+          "url": "https://www.instagram.com/p/DfUYSdbkn8n/",
+          "observedAt": "2026-11-13"
+        }
+      ],
+      "period": {
+        "startDate": "2026-11-28",
+        "endDate": "2026-11-29"
+      },
+      "playData": {
+        "mainInfo": {
+          "company": "老若男女未来学園",
+          "performanceName": "現代河童都心に現る",
+          "performanceType": "single",
+          "plays": [
+            {
+              "title": "現代河童都心に現る"
+            }
+          ]
+        },
+        "venueInfo": {
+          "venue": "SLOW ART CENTER NAGOYA",
+          "venueAddress": "愛知県名古屋市中区錦三丁目16番5号"
+        },
+        "scheduleInfo": {
+          "performances": [
+            {
+              "dateTime": "2026-11-28T12:00:00+09:00",
+              "notes": ""
+            },
+            {
+              "dateTime": "2026-11-28T15:00:00+09:00",
+              "notes": ""
+            },
+            {
+              "dateTime": "2026-11-28T18:00:00+09:00",
+              "notes": ""
+            },
+            {
+              "dateTime": "2026-11-29T13:00:00+09:00",
+              "notes": ""
+            },
+            {
+              "dateTime": "2026-11-29T16:00:00+09:00",
+              "notes": ""
+            }
+          ]
+        },
+        "ticketInfo": {
+          "prices": [],
+          "bookingUrls": []
+        },
+        "linksInfo": {
+          "relatedLinks": [
+            {
+              "title": "Instagram",
+              "url": "https://www.instagram.com/p/DfUYSdbkn8n/"
+            }
+          ]
+        },
+        "miscInfo": {}
+      },
+      "rawPrices": [
+        {
+          "type": "一般",
+          "amount": 2500,
+          "priceTiming": "unknown"
+        },
+        {
+          "type": "U22",
+          "amount": 1000,
+          "priceTiming": "unknown"
+        },
+        {
+          "type": "障がい者手帳提示で",
+          "amount": 0,
+          "priceTiming": "unknown",
+          "note": "無料"
+        },
+        {
+          "type": "同伴1名",
+          "amount": 0,
+          "priceTiming": "unknown",
+          "note": "無料"
+        }
+      ],
+      "rawData": {
+        "entryText": "老若男女未来学園『現代河童都心に現る』 — 11/28 12:00／15:00／18:00、11/29 13:00／16:00、SLOW ART CENTER NAGOYA（中区・栄）。一般2,500円、U22 1,000円。障がい者手帳提示で無料（同伴1名無料）。",
+        "dateText": "11月28日（土）〜29日（日）",
+        "region": "愛知県名古屋市",
+        "catalogId": "aichi-11-13",
+        "sourceType": "Instagram"
+      }
+    },
+    {
+      "externalId": "muse-260037",
+      "catalogCategory": "main",
+      "collectedAt": "2026-11-13",
+      "verificationStatus": "verified",
+      "sources": [
+        {
+          "url": "https://www.facebook.com/gekidan.nagoya/posts/pfbid0SzXXPT2cVKmx6NibmUKHiSH1LWX5HsHeG42AxLiiY9CMcBjHayz6GDVnQY8ncghwl",
+          "observedAt": "2026-11-13"
+        }
+      ],
+      "period": {
+        "startDate": "2026-11-28",
+        "endDate": "2026-11-29"
+      },
+      "playData": {
+        "mainInfo": {
+          "company": "劇団名古屋 2026年秋公演",
+          "performanceName": "象は忘れない",
+          "performanceType": "single",
+          "plays": [
+            {
+              "title": "象は忘れない",
+              "playwright": "柳広司"
+            }
+          ]
+        },
+        "venueInfo": {
+          "venue": "千種文化小劇場",
+          "venueAddress": "愛知県名古屋市千種区千種三丁目6番10号"
+        },
+        "scheduleInfo": {
+          "performances": [
+            {
+              "dateTime": "2026-11-28T14:30:00+09:00",
+              "notes": ""
+            },
+            {
+              "dateTime": "2026-11-28T18:30:00+09:00",
+              "notes": ""
+            },
+            {
+              "dateTime": "2026-11-29T11:00:00+09:00",
+              "notes": ""
+            },
+            {
+              "dateTime": "2026-11-29T15:00:00+09:00",
+              "notes": ""
+            }
+          ]
+        },
+        "ticketInfo": {
+          "prices": [],
+          "bookingUrls": [],
+          "ticketNotes": "当日料金は各区分+500円"
+        },
+        "linksInfo": {
+          "relatedLinks": [
+            {
+              "title": "Facebook",
+              "url": "https://www.facebook.com/gekidan.nagoya/posts/pfbid0SzXXPT2cVKmx6NibmUKHiSH1LWX5HsHeG42AxLiiY9CMcBjHayz6GDVnQY8ncghwl"
+            }
+          ],
+          "officialX": "https://x.com/gekidan758"
+        },
+        "miscInfo": {}
+      },
+      "rawPrices": [
+        {
+          "type": "一般",
+          "amount": 3500,
+          "priceTiming": "unknown"
+        },
+        {
+          "type": "シニア",
+          "amount": 3000,
+          "priceTiming": "unknown"
+        },
+        {
+          "type": "中高生",
+          "amount": 2000,
+          "priceTiming": "unknown"
+        }
+      ],
+      "rawData": {
+        "entryText": "劇団名古屋 2026年秋公演『象は忘れない』 — 11/28 14:30／18:30、11/29 11:00／15:00、千種文化小劇場。作：柳広司／演出：谷川伸彦。一般3,500円、シニア3,000円、中高生2,000円（当日＋500円）。",
+        "dateText": "11月28日（土）〜29日（日）",
+        "region": "愛知県名古屋市",
+        "catalogId": "aichi-11-14",
+        "sourceType": "Facebook"
+      }
+    },
+    {
+      "externalId": "muse-260038",
+      "catalogCategory": "main",
+      "collectedAt": "2026-11-13",
+      "verificationStatus": "verified",
+      "sources": [
+        {
+          "url": "https://natalie.mu/stage/news/697921",
+          "observedAt": "2026-11-13"
+        }
+      ],
+      "period": {
+        "startDate": "2026-11-28",
+        "endDate": "2026-11-29"
+      },
+      "playData": {
+        "mainInfo": {
+          "company": "タカハ劇団 第22回公演",
+          "performanceName": "『プール』名古屋公演",
+          "performanceType": "single",
+          "plays": [
+            {
+              "title": "プール",
+              "playwright": "高羽彩",
+              "director": "高羽彩"
+            }
+          ]
+        },
+        "venueInfo": {
+          "venue": "メニコン シアターAoi",
+          "venueAddress": "愛知県名古屋市中区葵三丁目21番19号（Menicon Theater Aoi Bldg.内）"
+        },
+        "scheduleInfo": {
+          "performances": [
+            {
+              "dateTime": "2026-11-28T14:00:00+09:00",
+              "notes": ""
+            },
+            {
+              "dateTime": "2026-11-29T14:00:00+09:00",
+              "notes": ""
+            }
+          ],
+          "runningTime": "約1時間45分"
+        },
+        "ticketInfo": {
+          "prices": [],
+          "bookingUrls": []
+        },
+        "linksInfo": {
+          "relatedLinks": [
+            {
+              "title": "情報元",
+              "url": "https://natalie.mu/stage/news/697921"
+            }
+          ],
+          "officialX": "https://x.com/takaha_gekidan"
+        },
+        "miscInfo": {}
+      },
+      "rawPrices": [
+        {
+          "type": "一般",
+          "amount": 4500,
+          "priceTiming": "unknown"
+        },
+        {
+          "type": "U25",
+          "amount": 1000,
+          "priceTiming": "unknown"
+        }
+      ],
+      "rawData": {
+        "entryText": "タカハ劇団 第22回公演『プール』名古屋公演 — 11/28・29 各14:00、メニコン シアターAoi（中区）。脚本・演出：高羽彩。一般4,500円、U25 1,000円。約1時間45分。",
+        "dateText": "11月28日（土）〜29日（日）",
+        "region": "愛知県名古屋市",
+        "catalogId": "aichi-11-15",
+        "sourceType": "情報元"
+      }
+    },
+    {
+      "externalId": "muse-260039",
+      "catalogCategory": "main",
+      "collectedAt": "2026-11-13",
+      "verificationStatus": "verified",
+      "sources": [
+        {
+          "url": "https://prtimes.jp/main/html/rd/p/000000759.000036704.html",
+          "observedAt": "2026-11-13"
+        }
+      ],
+      "period": {
+        "startDate": "2026-11-28",
+        "endDate": "2026-11-29"
+      },
+      "playData": {
+        "mainInfo": {
+          "company": "永見隆幸＆メリー・アーティスツ・カンパニー ミュージカル",
+          "performanceName": "MY WAY!! MY WILL!!!",
+          "performanceType": "single",
+          "plays": [
+            {
+              "title": "MY WAY!! MY WILL!!!"
+            }
+          ]
+        },
+        "venueInfo": {
+          "venue": "アマノ芸術創造センター名古屋",
+          "venueAddress": "愛知県名古屋市東区葵一丁目3番27号"
+        },
+        "scheduleInfo": {
+          "performances": [
+            {
+              "dateTime": "2026-11-28T15:00:00+09:00",
+              "notes": ""
+            },
+            {
+              "dateTime": "2026-11-29T15:00:00+09:00",
+              "notes": ""
+            }
+          ]
+        },
+        "ticketInfo": {
+          "prices": [
+            {
+              "type": "一般",
+              "advancePrice": 4000,
+              "doorPrice": 5000
+            }
+          ],
+          "bookingUrls": []
+        },
+        "linksInfo": {
+          "relatedLinks": [
+            {
+              "title": "情報元",
+              "url": "https://prtimes.jp/main/html/rd/p/000000759.000036704.html"
+            }
+          ]
+        },
+        "miscInfo": {}
+      },
+      "rawPrices": [
+        {
+          "type": "一般",
+          "amount": 4000,
+          "priceTiming": "advance"
+        },
+        {
+          "type": "一般",
+          "amount": 5000,
+          "priceTiming": "door"
+        }
+      ],
+      "rawData": {
+        "entryText": "永見隆幸＆メリー・アーティスツ・カンパニー ミュージカル『MY WAY!! MY WILL!!!』 — 11/28・29 各15:00、アマノ芸術創造センター名古屋。前売4,000円、当日5,000円。",
+        "dateText": "11月28日（土）〜29日（日）",
+        "region": "愛知県名古屋市",
+        "catalogId": "aichi-11-16",
+        "sourceType": "情報元"
+      }
+    },
+    {
+      "externalId": "muse-260040",
+      "catalogCategory": "main",
+      "collectedAt": "2026-11-13",
+      "verificationStatus": "verified",
+      "sources": [
+        {
+          "url": "https://www.instagram.com/p/DfJrYnFIyjD/",
+          "observedAt": "2026-11-13"
+        }
+      ],
+      "period": {
+        "startDate": "2026-11-28",
+        "endDate": "2026-11-29"
+      },
+      "playData": {
+        "mainInfo": {
+          "company": "愛知大学豊橋演劇研究会",
+          "performanceName": "賽の河原",
+          "performanceType": "single",
+          "plays": [
+            {
+              "title": "賽の河原"
+            }
+          ]
+        },
+        "venueInfo": {
+          "venue": "愛知大学豊橋キャンパス",
+          "venueAddress": "愛知県豊橋市町畑町1-1"
+        },
+        "scheduleInfo": {
+          "performances": [
+            {
+              "dateTime": "2026-11-28T15:00:00+09:00",
+              "notes": ""
+            },
+            {
+              "dateTime": "2026-11-29T15:00:00+09:00",
+              "notes": ""
+            }
+          ]
+        },
+        "ticketInfo": {
+          "prices": [],
+          "bookingUrls": []
+        },
+        "linksInfo": {
+          "relatedLinks": [
+            {
+              "title": "Instagram",
+              "url": "https://www.instagram.com/p/DfJrYnFIyjD/"
+            }
+          ],
+          "officialX": "https://x.com/aidaienken"
+        },
+        "miscInfo": {
+          "otherInfo": "要申込"
+        }
+      },
+      "rawPrices": [
+        {
+          "type": "料金",
+          "amount": 0,
+          "priceTiming": "unknown",
+          "note": "無料"
+        }
+      ],
+      "rawData": {
+        "entryText": "愛知大学豊橋演劇研究会『賽の河原』 — 11/28・29 各15:00、愛知大学豊橋キャンパス（豊橋市）。無料（要申込）。",
+        "dateText": "11月28日（土）〜29日（日）",
+        "region": "愛知県豊橋市",
+        "catalogId": "tuiho-11-11",
+        "sourceType": "Instagram"
+      }
+    },
+    {
+      "externalId": "muse-260041",
+      "catalogCategory": "main",
+      "collectedAt": "2026-11-13",
+      "verificationStatus": "verified",
+      "sources": [
+        {
+          "url": "https://www.instagram.com/p/DeJQ3SsE0lu/",
+          "observedAt": "2026-11-13"
+        }
+      ],
+      "period": {
+        "startDate": "2026-11-28",
+        "endDate": "2026-11-29"
+      },
+      "playData": {
+        "mainInfo": {
+          "company": "名古屋芸術大学",
+          "performanceName": "声優アクティングコース第8期生 卒業公演『いつも心に太陽を』",
+          "performanceType": "single",
+          "plays": [
+            {
+              "title": "いつも心に太陽を"
+            }
+          ]
+        },
+        "venueInfo": {
+          "venue": "名古屋芸術大学 東キャンパス3号館ホール",
+          "venueAddress": "愛知県北名古屋市熊之庄古井281番地（名古屋芸術大学 東キャンパス）"
+        },
+        "scheduleInfo": {
+          "performances": [
+            {
+              "dateTime": "2026-11-28T18:00:00+09:00",
+              "notes": ""
+            },
+            {
+              "dateTime": "2026-11-29T16:00:00+09:00",
+              "notes": ""
+            }
+          ]
+        },
+        "ticketInfo": {
+          "prices": [],
+          "bookingUrls": []
+        },
+        "linksInfo": {
+          "relatedLinks": [
+            {
+              "title": "Instagram",
+              "url": "https://www.instagram.com/p/DeJQ3SsE0lu/"
+            }
+          ],
+          "officialX": "https://x.com/nagoyageidai"
+        },
+        "miscInfo": {
+          "otherInfo": "要予約"
+        }
+      },
+      "rawPrices": [
+        {
+          "type": "料金",
+          "amount": 0,
+          "priceTiming": "unknown",
+          "note": "無料"
+        }
+      ],
+      "rawData": {
+        "entryText": "名古屋芸術大学 声優アクティングコース第8期生 卒業公演『いつも心に太陽を』 — 11/28 18:00、11/29 16:00、名古屋芸術大学 東キャンパス3号館ホール（北名古屋市）。無料（要予約）。名古屋芸術大学 声優アクティングコース第8期生 卒業公演。",
+        "dateText": "11月28日（土）〜29日（日）",
+        "region": "愛知県北名古屋市",
+        "catalogId": "tuiho-unconfirmed",
+        "sourceType": "Instagram"
+      }
+    },
+    {
+      "externalId": "muse-260047",
+      "catalogCategory": "main",
+      "collectedAt": "2026-11-13",
+      "verificationStatus": "verified",
+      "sources": [
+        {
+          "url": "https://www.instagram.com/p/DebkWVcn3Xg/",
+          "observedAt": "2026-11-13"
+        }
+      ],
+      "period": {
+        "startDate": "2026-12-03",
+        "endDate": "2026-12-04"
+      },
+      "playData": {
+        "mainInfo": {
+          "company": "デリシャスポークス 第7回公演",
+          "performanceName": "ゼロ・ポジション",
+          "performanceType": "single",
+          "plays": [
+            {
+              "title": "ゼロ・ポジション"
+            }
+          ]
+        },
+        "venueInfo": {
+          "venue": "愛知県芸術劇場 大リハーサル室",
+          "venueAddress": "愛知県名古屋市東区東桜一丁目13番2号（愛知芸術文化センター内）"
+        },
+        "scheduleInfo": {
+          "performances": [
+            {
+              "dateTime": "2026-12-03T19:00:00+09:00",
+              "notes": ""
+            },
+            {
+              "dateTime": "2026-12-04T14:00:00+09:00",
+              "notes": ""
+            },
+            {
+              "dateTime": "2026-12-04T19:00:00+09:00",
+              "notes": ""
+            }
+          ]
+        },
+        "ticketInfo": {
+          "prices": [],
+          "bookingUrls": []
+        },
+        "linksInfo": {
+          "relatedLinks": [
+            {
+              "title": "Instagram",
+              "url": "https://www.instagram.com/p/DebkWVcn3Xg/"
+            }
+          ]
+        },
+        "miscInfo": {}
+      },
+      "rawPrices": [
+        {
+          "type": "4,000〜",
+          "amount": 5500,
+          "priceTiming": "unknown"
+        }
+      ],
+      "rawData": {
+        "entryText": "デリシャスポークス 第7回公演『ゼロ・ポジション』 — 12/3 19:00、12/4 14:00／19:00、愛知県芸術劇場 大リハーサル室（東区）。4,000〜5,500円。",
+        "dateText": "12月3日（木）〜4日（金）",
+        "region": "愛知県名古屋市",
+        "catalogId": "aichi-12-2",
+        "sourceType": "Instagram"
+      }
+    },
+    {
+      "externalId": "muse-260048",
+      "catalogCategory": "main",
+      "collectedAt": "2026-11-13",
+      "verificationStatus": "verified",
+      "sources": [
+        {
+          "url": "https://www.instagram.com/p/DcqCoJFE3UD/",
+          "observedAt": "2026-11-13"
+        }
+      ],
+      "period": {
+        "startDate": "2026-12-03",
+        "endDate": "2026-12-06"
+      },
+      "playData": {
+        "mainInfo": {
+          "company": "劇団名芸 第83回公演",
+          "performanceName": "広くてすてきな宇宙じゃないか",
+          "performanceType": "single",
+          "plays": [
+            {
+              "title": "広くてすてきな宇宙じゃないか",
+              "playwright": "成井豊"
+            }
+          ]
+        },
+        "venueInfo": {
+          "venue": "名芸アトリエ",
+          "venueAddress": "愛知県名古屋市天白区平針1-1808"
+        },
+        "scheduleInfo": {
+          "performances": [
+            {
+              "dateTime": "2026-12-03T19:00:00+09:00",
+              "notes": ""
+            },
+            {
+              "dateTime": "2026-12-04T19:00:00+09:00",
+              "notes": ""
+            },
+            {
+              "dateTime": "2026-12-05T11:00:00+09:00",
+              "notes": ""
+            },
+            {
+              "dateTime": "2026-12-05T15:00:00+09:00",
+              "notes": ""
+            },
+            {
+              "dateTime": "2026-12-05T18:00:00+09:00",
+              "notes": ""
+            },
+            {
+              "dateTime": "2026-12-06T11:00:00+09:00",
+              "notes": ""
+            },
+            {
+              "dateTime": "2026-12-06T15:00:00+09:00",
+              "notes": ""
+            }
+          ]
+        },
+        "ticketInfo": {
+          "prices": [],
+          "bookingUrls": []
+        },
+        "linksInfo": {
+          "relatedLinks": [
+            {
+              "title": "Instagram",
+              "url": "https://www.instagram.com/p/DcqCoJFE3UD/"
+            }
+          ]
+        },
+        "miscInfo": {}
+      },
+      "rawPrices": [
+        {
+          "type": "一般",
+          "amount": 2500,
+          "priceTiming": "unknown"
+        },
+        {
+          "type": "〜小学生",
+          "amount": 500,
+          "priceTiming": "unknown"
+        }
+      ],
+      "rawData": {
+        "entryText": "劇団名芸 第83回公演『広くてすてきな宇宙じゃないか』 — 12/3・4 19:00、12/5 11:00／15:00／18:00、12/6 11:00／15:00、名芸アトリエ（天白区・平針）。作：成井豊／演出：亀山薫。一般2,500円〜小学生500円。",
+        "dateText": "12月3日（木）〜6日（日）",
+        "region": "愛知県名古屋市",
+        "catalogId": "aichi-12-1",
+        "sourceType": "Instagram"
+      }
+    },
+    {
+      "externalId": "muse-260049",
+      "catalogCategory": "main",
+      "collectedAt": "2026-11-13",
+      "verificationStatus": "partially_verified",
+      "sources": [
+        {
+          "url": "https://www.bunka758.or.jp/facility/act/files/pdf/49c4cf30d5c0e3cf1860dfb5c8e7a8c0c538e523.pdf",
+          "observedAt": "2026-11-13"
+        }
+      ],
+      "period": {
+        "startDate": "2026-12-03",
+        "endDate": "2026-12-06"
+      },
+      "playData": {
+        "mainInfo": {
+          "company": "AN.PLAY",
+          "performanceName": "楽屋",
+          "performanceType": "single",
+          "plays": [
+            {
+              "title": "楽屋",
+              "playwright": "清水邦夫",
+              "director": "杉浦哲平）",
+              "cast": "川瀬幸恵\n安藤絵美\n廣瀬菜都美\n小椋奈々",
+              "staff": "総合演出：杉浦哲平"
+            }
+          ]
+        },
+        "venueInfo": {
+          "venue": "Phil-",
+          "venueAddress": "愛知県名古屋市東区代官町26-20"
+        },
+        "scheduleInfo": {
+          "performances": [
+            {
+              "dateTime": "2026-12-03T15:30:00+09:00",
+              "notes": ""
+            },
+            {
+              "dateTime": "2026-12-03T19:30:00+09:00",
+              "notes": ""
+            },
+            {
+              "dateTime": "2026-12-04T11:00:00+09:00",
+              "notes": ""
+            },
+            {
+              "dateTime": "2026-12-04T19:30:00+09:00",
+              "notes": ""
+            },
+            {
+              "dateTime": "2026-12-05T11:00:00+09:00",
+              "notes": ""
+            },
+            {
+              "dateTime": "2026-12-05T15:30:00+09:00",
+              "notes": ""
+            },
+            {
+              "dateTime": "2026-12-05T19:30:00+09:00",
+              "notes": ""
+            },
+            {
+              "dateTime": "2026-12-06T11:00:00+09:00",
+              "notes": ""
+            },
+            {
+              "dateTime": "2026-12-06T15:30:00+09:00",
+              "notes": ""
+            }
+          ]
+        },
+        "ticketInfo": {
+          "prices": [],
+          "bookingUrls": []
+        },
+        "linksInfo": {
+          "relatedLinks": [
+            {
+              "title": "アクテノン通信No.49",
+              "url": "https://www.bunka758.or.jp/facility/act/files/pdf/49c4cf30d5c0e3cf1860dfb5c8e7a8c0c538e523.pdf"
+            }
+          ],
+          "officialX": "https://x.com/an_play"
+        },
+        "miscInfo": {}
+      },
+      "rawPrices": [
+        {
+          "type": "一般",
+          "amount": 5000,
+          "priceTiming": "unknown"
+        },
+        {
+          "type": "U-25",
+          "amount": 4500,
+          "priceTiming": "unknown"
+        }
+      ],
+      "rawData": {
+        "entryText": "AN.PLAY『楽屋』 — 12/3 15:30／19:30、12/4 11:00／19:30、12/5 11:00／15:30／19:30、12/6 11:00／15:30（全9ステージ）、Phil-（名古屋市東区代官町26-20）。作：清水邦夫／演出：平塚直隆（総合演出：杉浦哲平）。出演：川瀬幸恵、安藤絵美、廣瀬菜都美、小椋奈々。全席自由席、一般5,000円／U-25 4,500円。開演時刻の出典はアクテノン通信No.49（公式発表ではありません）。",
+        "dateText": "12月3日（木）〜6日（日）",
+        "region": "愛知県名古屋市",
+        "catalogId": "aichi-12-3",
+        "sourceType": "アクテノン通信No.49"
+      },
+      "fieldEvidence": {
+        "scheduleInfo.performances": "開演時刻はアクテノン通信No.49（名古屋市文化振興事業団）に基づく。劇団公式発表ではないため要最終確認"
+      }
+    },
+    {
+      "externalId": "muse-260050",
+      "catalogCategory": "main",
+      "collectedAt": "2026-11-13",
+      "verificationStatus": "verified",
+      "sources": [
+        {
+          "url": "https://teket.jp/15381/76729",
+          "observedAt": "2026-11-13"
+        }
+      ],
+      "period": {
+        "startDate": "2026-12-04",
+        "endDate": "2026-12-05"
+      },
+      "playData": {
+        "mainInfo": {
+          "company": "ミュージカル",
+          "performanceName": "『キミのために散る』2026",
+          "performanceType": "single",
+          "plays": [
+            {
+              "title": "キミのために散る"
+            }
+          ]
+        },
+        "venueInfo": {
+          "venue": "メニコン シアターAoi",
+          "venueAddress": "愛知県名古屋市中区葵三丁目21番19号（Menicon Theater Aoi Bldg.内）"
+        },
+        "scheduleInfo": {
+          "performances": [
+            {
+              "dateTime": "2026-12-04T18:30:00+09:00",
+              "notes": ""
+            },
+            {
+              "dateTime": "2026-12-05T15:00:00+09:00",
+              "notes": ""
+            }
+          ],
+          "runningTime": "約2時間30分"
+        },
+        "ticketInfo": {
+          "prices": [
+            {
+              "type": "一般",
+              "advancePrice": 6000,
+              "doorPrice": null
+            },
+            {
+              "type": "高校生以下",
+              "advancePrice": 3000,
+              "doorPrice": null
+            }
+          ],
+          "bookingUrls": [
+            {
+              "title": "teket",
+              "url": "https://teket.jp/15381/76729"
+            }
+          ]
+        },
+        "linksInfo": {
+          "relatedLinks": [
+            {
+              "title": "チケット（teket）",
+              "url": "https://teket.jp/15381/76729"
+            }
+          ]
+        },
+        "miscInfo": {}
+      },
+      "rawPrices": [
+        {
+          "type": "一般",
+          "amount": 6000,
+          "priceTiming": "advance"
+        },
+        {
+          "type": "高校生以下",
+          "amount": 3000,
+          "priceTiming": "advance"
+        }
+      ],
+      "rawData": {
+        "entryText": "ミュージカル『キミのために散る』2026 — 12/4 18:30、12/5 15:00、メニコン シアターAoi（中区）。前売 一般6,000円・高校生以下3,000円。約2時間30分。",
+        "dateText": "12月4日（金）〜5日（土）",
+        "region": "愛知県名古屋市",
+        "catalogId": "aichi-12-4",
+        "sourceType": "チケット（teket）"
+      }
+    },
+    {
+      "externalId": "muse-260051",
+      "catalogCategory": "main",
+      "collectedAt": "2026-11-13",
+      "verificationStatus": "verified",
+      "sources": [
+        {
+          "url": "https://www.instagram.com/p/Dd833pXEwWf/",
+          "observedAt": "2026-11-13"
+        }
+      ],
+      "period": {
+        "startDate": "2026-12-04",
+        "endDate": "2026-12-06"
+      },
+      "playData": {
+        "mainInfo": {
+          "company": "名城大学劇団「獅子」卒業公演2026",
+          "performanceName": "フラグメント",
+          "performanceType": "single",
+          "plays": [
+            {
+              "title": "フラグメント"
+            }
+          ]
+        },
+        "venueInfo": {
+          "venue": "G/pit",
+          "venueAddress": "愛知県名古屋市中区栄1-23-30"
+        },
+        "scheduleInfo": {
+          "performances": [
+            {
+              "dateTime": "2026-12-04T19:00:00+09:00",
+              "notes": ""
+            },
+            {
+              "dateTime": "2026-12-05T14:00:00+09:00",
+              "notes": ""
+            },
+            {
+              "dateTime": "2026-12-05T18:00:00+09:00",
+              "notes": ""
+            },
+            {
+              "dateTime": "2026-12-06T14:00:00+09:00",
+              "notes": ""
+            },
+            {
+              "dateTime": "2026-12-06T18:00:00+09:00",
+              "notes": ""
+            }
+          ]
+        },
+        "ticketInfo": {
+          "prices": [],
+          "bookingUrls": []
+        },
+        "linksInfo": {
+          "relatedLinks": [
+            {
+              "title": "Instagram",
+              "url": "https://www.instagram.com/p/Dd833pXEwWf/"
+            }
+          ]
+        },
+        "miscInfo": {}
+      },
+      "rawPrices": [
+        {
+          "type": "一般",
+          "amount": 2000,
+          "priceTiming": "unknown"
+        },
+        {
+          "type": "学生",
+          "amount": 1500,
+          "priceTiming": "unknown"
+        }
+      ],
+      "rawData": {
+        "entryText": "名城大学劇団「獅子」卒業公演2026『フラグメント』 — 12/4 19:00、12/5・6 14:00／18:00、G/Pit（中区・伏見）。一般2,000円、学生1,500円。",
+        "dateText": "12月4日（金）〜6日（日）",
+        "region": "愛知県名古屋市",
+        "catalogId": "tuiho-12-1",
+        "sourceType": "Instagram"
+      }
+    },
+    {
+      "externalId": "muse-260053",
+      "catalogCategory": "main",
+      "collectedAt": "2026-11-13",
+      "verificationStatus": "verified",
+      "sources": [
+        {
+          "url": "https://news.livedoor.com/article/detail/32738195/",
+          "observedAt": "2026-11-13"
+        }
+      ],
+      "period": {
+        "startDate": "2026-12-05",
+        "endDate": "2026-12-06"
+      },
+      "playData": {
+        "mainInfo": {
+          "company": "ハコトバコ 第5回本公演",
+          "performanceName": "ふれるひび",
+          "performanceType": "single",
+          "plays": [
+            {
+              "title": "ふれるひび",
+              "playwright": "広岡慈乃"
+            }
+          ]
+        },
+        "venueInfo": {
+          "venue": "千種文化小劇場",
+          "venueAddress": "愛知県名古屋市千種区千種三丁目6番10号"
+        },
+        "scheduleInfo": {
+          "performances": [
+            {
+              "dateTime": "2026-12-05T14:00:00+09:00",
+              "notes": ""
+            },
+            {
+              "dateTime": "2026-12-05T19:00:00+09:00",
+              "notes": ""
+            },
+            {
+              "dateTime": "2026-12-06T12:00:00+09:00",
+              "notes": ""
+            },
+            {
+              "dateTime": "2026-12-06T16:00:00+09:00",
+              "notes": ""
+            }
+          ],
+          "runningTime": "約80分"
+        },
+        "ticketInfo": {
+          "prices": [],
+          "bookingUrls": []
+        },
+        "linksInfo": {
+          "relatedLinks": [
+            {
+              "title": "情報元",
+              "url": "https://news.livedoor.com/article/detail/32738195/"
+            }
+          ]
+        },
+        "miscInfo": {}
+      },
+      "rawPrices": [
+        {
+          "type": "一般",
+          "amount": 3000,
+          "priceTiming": "unknown"
+        },
+        {
+          "type": "U-22",
+          "amount": 2500,
+          "priceTiming": "unknown"
+        },
+        {
+          "type": "高校生以下",
+          "amount": 1000,
+          "priceTiming": "unknown"
+        }
+      ],
+      "rawData": {
+        "entryText": "ハコトバコ 第5回本公演『ふれるひび』 — 12/5 14:00／19:00、12/6 12:00／16:00、千種文化小劇場。脚本：広岡慈乃／演出：安元勇人。一般3,000円、U-22 2,500円、高校生以下1,000円。約80分。",
+        "dateText": "12月5日（土）〜6日（日）",
+        "region": "愛知県名古屋市",
+        "catalogId": "aichi-12-5",
+        "sourceType": "情報元"
+      }
+    },
+    {
+      "externalId": "muse-260054",
+      "catalogCategory": "main",
+      "collectedAt": "2026-11-13",
+      "verificationStatus": "verified",
+      "sources": [
+        {
+          "url": "https://www-stage.aac.pref.aichi.jp/event/detail/20261205advance.html",
+          "observedAt": "2026-11-13"
+        }
+      ],
+      "period": {
+        "startDate": "2026-12-05",
+        "endDate": "2026-12-06"
+      },
+      "playData": {
+        "mainInfo": {
+          "company": "ルサンチカ",
+          "performanceName": "ゴドーを待ちながら",
+          "performanceType": "single",
+          "plays": [
+            {
+              "title": "ゴドーを待ちながら",
+              "playwright": "ベケット"
+            }
+          ]
+        },
+        "venueInfo": {
+          "venue": "愛知県芸術劇場 小ホール",
+          "venueAddress": "愛知県名古屋市東区東桜一丁目13番2号（愛知芸術文化センター内）"
+        },
+        "scheduleInfo": {
+          "performances": [
+            {
+              "dateTime": "2026-12-05T14:00:00+09:00",
+              "notes": ""
+            },
+            {
+              "dateTime": "2026-12-06T14:00:00+09:00",
+              "notes": ""
+            }
+          ],
+          "runningTime": "145分"
+        },
+        "ticketInfo": {
+          "prices": [],
+          "bookingUrls": []
+        },
+        "linksInfo": {
+          "relatedLinks": [],
+          "officialX": "https://x.com/ressenchka",
+          "officialHp": "https://www-stage.aac.pref.aichi.jp/event/detail/20261205advance.html"
+        },
+        "miscInfo": {}
+      },
+      "rawPrices": [
+        {
+          "type": "一般",
+          "amount": 3000,
+          "priceTiming": "unknown"
+        },
+        {
+          "type": "U25",
+          "amount": 1500,
+          "priceTiming": "unknown"
+        },
+        {
+          "type": "サポーターズサポーターチケット",
+          "amount": 7000,
+          "priceTiming": "unknown"
+        }
+      ],
+      "rawData": {
+        "entryText": "ルサンチカ『ゴドーを待ちながら』 — 12/5・6 各14:00、愛知県芸術劇場 小ホール（東区）。作：ベケット／演出：河井朗。一般3,000円、U25 1,500円。休憩含み145分予定。※12/6は受付終了表記あり。サポーターチケット7,000円あり。終演後アフタートークあり（12/5：ゲスト西村和泉氏、12/6：出演俳優ほか、各回約30分）。",
+        "dateText": "12月5日（土）〜6日（日）",
+        "region": "愛知県名古屋市",
+        "catalogId": "aichi-12-6",
+        "sourceType": "公式サイト"
+      }
+    },
+    {
+      "externalId": "muse-260055",
+      "catalogCategory": "main",
+      "collectedAt": "2026-11-13",
+      "verificationStatus": "verified",
+      "sources": [
+        {
+          "url": "https://www.instagram.com/p/DeOeJilH3DL/",
+          "observedAt": "2026-11-13"
+        }
+      ],
+      "period": {
+        "startDate": "2026-12-05",
+        "endDate": "2026-12-06"
+      },
+      "playData": {
+        "mainInfo": {
+          "company": "劇団Perhe 第漆回本公演",
+          "performanceName": "信ずる道",
+          "performanceType": "single",
+          "plays": [
+            {
+              "title": "信ずる道",
+              "playwright": "宮國碧",
+              "director": "宮國碧"
+            }
+          ]
+        },
+        "venueInfo": {
+          "venue": "ささしまスタジオ",
+          "venueAddress": "愛知県名古屋市中川区福住町8-11"
+        },
+        "scheduleInfo": {
+          "performances": [
+            {
+              "dateTime": "2026-12-05T15:00:00+09:00",
+              "notes": ""
+            },
+            {
+              "dateTime": "2026-12-05T18:00:00+09:00",
+              "notes": ""
+            },
+            {
+              "dateTime": "2026-12-06T12:00:00+09:00",
+              "notes": ""
+            },
+            {
+              "dateTime": "2026-12-06T15:00:00+09:00",
+              "notes": ""
+            }
+          ],
+          "runningTime": "約100分"
+        },
+        "ticketInfo": {
+          "prices": [],
+          "bookingUrls": []
+        },
+        "linksInfo": {
+          "relatedLinks": [
+            {
+              "title": "Instagram",
+              "url": "https://www.instagram.com/p/DeOeJilH3DL/"
+            }
+          ],
+          "officialX": "https://x.com/Perhe_theater"
+        },
+        "miscInfo": {}
+      },
+      "rawPrices": [
+        {
+          "type": "料金",
+          "amount": 3200,
+          "priceTiming": "unknown"
+        }
+      ],
+      "rawData": {
+        "entryText": "劇団Perhe 第漆回本公演『信ずる道』 — 12/5 15:00／18:00、12/6 12:00／15:00、ささしまスタジオ（中川区）。作・演出：宮國碧。3,200円。約100分。",
+        "dateText": "12月5日（土）〜6日（日）",
+        "region": "愛知県名古屋市",
+        "catalogId": "aichi-12-7",
+        "sourceType": "Instagram"
+      }
+    },
+    {
+      "externalId": "muse-260056",
+      "catalogCategory": "main",
+      "collectedAt": "2026-11-13",
+      "verificationStatus": "verified",
+      "sources": [
+        {
+          "url": "https://www.bunka758.or.jp/facility/showa/files/pdf/787634278abee9019ce21a463ad6b078728e46ef.pdf",
+          "observedAt": "2026-11-13"
+        }
+      ],
+      "period": {
+        "startDate": "2026-12-05",
+        "endDate": "2026-12-06"
+      },
+      "playData": {
+        "mainInfo": {
+          "company": "演劇クルー遊楽演 第30回公演",
+          "performanceName": "嫁も姑も皆幽霊",
+          "performanceType": "single",
+          "plays": [
+            {
+              "title": "嫁も姑も皆幽霊"
+            }
+          ]
+        },
+        "venueInfo": {
+          "venue": "昭和文化小劇場",
+          "venueAddress": "愛知県名古屋市昭和区花見通1丁目41番地の2"
+        },
+        "scheduleInfo": {
+          "performances": [
+            {
+              "dateTime": "2026-12-05T14:00:00+09:00",
+              "notes": ""
+            },
+            {
+              "dateTime": "2026-12-05T18:00:00+09:00",
+              "notes": ""
+            },
+            {
+              "dateTime": "2026-12-06T11:00:00+09:00",
+              "notes": ""
+            },
+            {
+              "dateTime": "2026-12-06T15:00:00+09:00",
+              "notes": ""
+            }
+          ]
+        },
+        "ticketInfo": {
+          "prices": [],
+          "bookingUrls": []
+        },
+        "linksInfo": {
+          "relatedLinks": [
+            {
+              "title": "公式情報",
+              "url": "https://www.bunka758.or.jp/facility/showa/files/pdf/787634278abee9019ce21a463ad6b078728e46ef.pdf"
+            }
+          ]
+        },
+        "miscInfo": {}
+      },
+      "rawPrices": [
+        {
+          "type": "大人",
+          "amount": 3000,
+          "priceTiming": "unknown"
+        },
+        {
+          "type": "高校生以下",
+          "amount": 1500,
+          "priceTiming": "unknown"
+        },
+        {
+          "type": "友の会",
+          "amount": 2700,
+          "priceTiming": "unknown"
+        }
+      ],
+      "rawData": {
+        "entryText": "演劇クルー遊楽演 第30回公演『嫁も姑も皆幽霊』 — 12/5 14:00／18:00、12/6 11:00／15:00、昭和文化小劇場。大人3,000円、高校生以下1,500円。友の会2,700円。",
+        "dateText": "12月5日（土）〜6日（日）",
+        "region": "愛知県名古屋市",
+        "catalogId": "aichi-12-8",
+        "sourceType": "公式情報"
+      }
+    },
+    {
+      "externalId": "muse-260057",
+      "catalogCategory": "main",
+      "collectedAt": "2026-11-13",
+      "verificationStatus": "verified",
+      "sources": [
+        {
+          "url": "https://www.instagram.com/p/DfMzwNnmJxT/",
+          "observedAt": "2026-11-13"
+        }
+      ],
+      "period": {
+        "startDate": "2026-12-05",
+        "endDate": "2026-12-06"
+      },
+      "playData": {
+        "mainInfo": {
+          "company": "名古屋大学劇団新生 第63回独立公演",
+          "performanceName": "海繭の仔",
+          "performanceType": "single",
+          "plays": [
+            {
+              "title": "海繭の仔",
+              "playwright": "河合穂高"
+            }
+          ]
+        },
+        "venueInfo": {
+          "venue": "七ツ寺共同スタジオ",
+          "venueAddress": "愛知県名古屋市中区大須2-27-20"
+        },
+        "scheduleInfo": {
+          "performances": [
+            {
+              "dateTime": "2026-12-05T13:00:00+09:00",
+              "notes": ""
+            },
+            {
+              "dateTime": "2026-12-05T18:00:00+09:00",
+              "notes": ""
+            },
+            {
+              "dateTime": "2026-12-06T13:00:00+09:00",
+              "notes": ""
+            },
+            {
+              "dateTime": "2026-12-06T18:00:00+09:00",
+              "notes": ""
+            }
+          ],
+          "runningTime": "約110分"
+        },
+        "ticketInfo": {
+          "prices": [
+            {
+              "type": "一般",
+              "advancePrice": 1000,
+              "doorPrice": 1200
+            }
+          ],
+          "bookingUrls": [
+            {
+              "title": "チケット予約",
+              "url": "https://shinnsei.corich.co/shinnsei-26dokuritsu/yoyaku"
+            }
+          ]
+        },
+        "linksInfo": {
+          "relatedLinks": [
+            {
+              "title": "Instagram",
+              "url": "https://www.instagram.com/p/DfMzwNnmJxT/"
+            }
+          ],
+          "officialX": "https://x.com/NU_shinnsei"
+        },
+        "miscInfo": {}
+      },
+      "rawPrices": [
+        {
+          "type": "一般",
+          "amount": 1000,
+          "priceTiming": "advance"
+        },
+        {
+          "type": "一般",
+          "amount": 1200,
+          "priceTiming": "door"
+        }
+      ],
+      "rawData": {
+        "entryText": "名古屋大学劇団新生 第63回独立公演『海繭の仔』 — 12/5・6 各13:00／18:00、七ツ寺共同スタジオ（中区・大須）。脚本：河合穂高／演出：Uiko。前売1,000円、当日1,200円。約110分。",
+        "dateText": "12月5日（土）〜6日（日）",
+        "region": "愛知県名古屋市",
+        "catalogId": "tuiho-12-2",
+        "sourceType": "Instagram"
+      }
+    },
+    {
+      "externalId": "muse-260058",
+      "catalogCategory": "main",
+      "collectedAt": "2026-11-13",
+      "verificationStatus": "verified",
+      "sources": [
+        {
+          "url": "https://www.instagram.com/p/DelqL_9NmGg/",
+          "observedAt": "2026-11-13"
+        }
+      ],
+      "period": {
+        "startDate": "2026-12-05",
+        "endDate": "2026-12-06"
+      },
+      "playData": {
+        "mainInfo": {
+          "company": "劇団Hi-T Growth モノガタリ公演",
+          "performanceName": "迷いクジラの子守歌",
+          "performanceType": "single",
+          "plays": [
+            {
+              "title": "迷いクジラの子守歌"
+            }
+          ]
+        },
+        "venueInfo": {
+          "venue": "PICO2",
+          "venueAddress": "愛知県名古屋市北区山田1-1-43"
+        },
+        "scheduleInfo": {
+          "performances": [
+            {
+              "dateTime": "2026-12-05T15:00:00+09:00",
+              "notes": ""
+            },
+            {
+              "dateTime": "2026-12-05T18:00:00+09:00",
+              "notes": ""
+            },
+            {
+              "dateTime": "2026-12-06T11:00:00+09:00",
+              "notes": ""
+            },
+            {
+              "dateTime": "2026-12-06T15:00:00+09:00",
+              "notes": ""
+            }
+          ]
+        },
+        "ticketInfo": {
+          "prices": [],
+          "bookingUrls": []
+        },
+        "linksInfo": {
+          "relatedLinks": [
+            {
+              "title": "Instagram",
+              "url": "https://www.instagram.com/p/DelqL_9NmGg/"
+            }
+          ]
+        },
+        "miscInfo": {}
+      },
+      "rawPrices": [
+        {
+          "type": "料金",
+          "amount": 1500,
+          "priceTiming": "unknown"
+        },
+        {
+          "type": "一部",
+          "amount": 1000,
+          "priceTiming": "unknown"
+        }
+      ],
+      "rawData": {
+        "entryText": "劇団Hi-T Growth モノガタリ公演『迷いクジラの子守歌』 — （朗読＋タップ語り、短編4作） 12/5 15:00／18:00、12/6 11:00／15:00、PICO2（北区・大曽根）。1,500円（一部1,000円、セット割あり）。",
+        "dateText": "12月5日（土）〜6日（日）",
+        "region": "愛知県名古屋市",
+        "catalogId": "tuiho-12-3",
+        "sourceType": "Instagram"
+      }
+    },
+    {
+      "externalId": "muse-260060",
+      "catalogCategory": "main",
+      "collectedAt": "2026-11-17",
+      "verificationStatus": "verified",
+      "sources": [
+        {
+          "url": "https://www.instagram.com/p/Dd8s4JLk3ju/",
+          "observedAt": "2026-11-17"
+        }
+      ],
+      "period": {
+        "startDate": "2026-12-05",
+        "endDate": "2026-12-06"
+      },
+      "playData": {
+        "mainInfo": {
+          "company": "岐阜ろう劇団いぶき Vol.36",
+          "performanceName": "暗闇の先へ 〜バトンを繋ぐ風とバイク野郎たち〜",
+          "performanceType": "single",
+          "plays": [
+            {
+              "title": "暗闇の先へ 〜バトンを繋ぐ風とバイク野郎たち〜"
+            }
+          ]
+        },
+        "venueInfo": {
+          "venue": "みんなの森 ぎふメディアコスモス みんなのホール",
+          "venueAddress": "岐阜県岐阜市司町40番地5"
+        },
+        "scheduleInfo": {
+          "performances": [
+            {
+              "dateTime": "2026-12-05T18:30:00+09:00",
+              "notes": ""
+            },
+            {
+              "dateTime": "2026-12-06T10:30:00+09:00",
+              "notes": ""
+            },
+            {
+              "dateTime": "2026-12-06T14:30:00+09:00",
+              "notes": ""
+            }
+          ]
+        },
+        "ticketInfo": {
+          "prices": [],
+          "bookingUrls": []
+        },
+        "linksInfo": {
+          "relatedLinks": [
+            {
+              "title": "Instagram",
+              "url": "https://www.instagram.com/p/Dd8s4JLk3ju/"
+            }
+          ]
+        },
+        "miscInfo": {}
+      },
+      "rawPrices": [
+        {
+          "type": "一般",
+          "amount": 2500,
+          "priceTiming": "unknown"
+        },
+        {
+          "type": "U22",
+          "amount": 1500,
+          "priceTiming": "unknown"
+        }
+      ],
+      "rawData": {
+        "entryText": "岐阜ろう劇団いぶき Vol.36『暗闇の先へ 〜バトンを繋ぐ風とバイク野郎たち〜』 — （第39回岐阜市民芸術祭 ぎふ演劇シーズン2026） 12/5（土）18:30、12/6（日）10:30／14:30、みんなの森 ぎふメディアコスモス みんなのホール（岐阜県岐阜市）。一般2,500円、U22 1,500円。チケット完売の告知あり。",
+        "dateText": "12月5日（土）〜6日（日）",
+        "region": "岐阜県岐阜市",
+        "catalogId": "gifu-12-1",
+        "sourceType": "Instagram"
+      }
+    },
+    {
+      "externalId": "muse-260061",
+      "catalogCategory": "main",
+      "collectedAt": "2026-11-17",
+      "verificationStatus": "verified",
+      "sources": [
+        {
+          "url": "https://banzai-ichiza.com/?p=2019",
+          "observedAt": "2026-11-17"
+        }
+      ],
+      "period": {
+        "startDate": "2026-12-05",
+        "endDate": "2026-12-06"
+      },
+      "playData": {
+        "mainInfo": {
+          "performanceName": "他人",
+          "performanceType": "single",
+          "plays": [
+            {
+              "title": "他人",
+              "playwright": "竹田モモコ",
+              "cast": "原日出子\n畑中咲菜\n平松美紅"
+            }
+          ]
+        },
+        "venueInfo": {
+          "venue": "三重県文化会館 小ホール",
+          "venueAddress": "三重県津市一身田上津部田1234（三重県総合文化センター内）"
+        },
+        "scheduleInfo": {
+          "performances": [
+            {
+              "dateTime": "2026-12-05T15:00:00+09:00",
+              "notes": ""
+            },
+            {
+              "dateTime": "2026-12-06T14:00:00+09:00",
+              "notes": ""
+            }
+          ],
+          "runningTime": "約100分",
+          "doorsOpen": "30分前"
+        },
+        "ticketInfo": {
+          "prices": [
+            {
+              "type": "一般",
+              "advancePrice": 4000,
+              "doorPrice": null
+            }
+          ],
+          "bookingUrls": []
+        },
+        "linksInfo": {
+          "relatedLinks": [],
+          "officialHp": "https://banzai-ichiza.com/?p=2019"
+        },
+        "miscInfo": {
+          "otherInfo": "要予約"
+        }
+      },
+      "rawPrices": [
+        {
+          "type": "一般",
+          "amount": 4000,
+          "priceTiming": "advance"
+        },
+        {
+          "type": "22歳以下",
+          "amount": 2000,
+          "priceTiming": "unknown"
+        }
+      ],
+      "rawData": {
+        "entryText": "『他人』 — （作：竹田モモコ／演出：内藤裕敬／出演：原日出子、畑中咲菜、平松美紅） 12/5（土）15:00、12/6（日）14:00、三重県文化会館 小ホール（三重県津市）。一般前売4,000円、22歳以下2,000円。整理番号付自由席。約100分。受付は開演45分前、開場は30分前。終演後にアフタートークあり。12/6のみ託児サービスあり（要予約・有料）。",
+        "dateText": "12月5日（土）〜6日（日）",
+        "region": "三重県津市",
+        "catalogId": "mie-12-1",
+        "sourceType": "公式サイト"
+      }
+    },
+    {
+      "externalId": "muse-260063",
+      "catalogCategory": "main",
+      "collectedAt": "2026-11-13",
+      "verificationStatus": "unverified",
+      "sources": [
+        {
+          "url": "https://www.instagram.com/p/DeonH6nAS2T/",
+          "observedAt": "2026-11-13"
+        }
+      ],
+      "period": {
+        "startDate": "2026-12-09",
+        "endDate": "2026-12-12"
+      },
+      "playData": {
+        "mainInfo": {
+          "company": "てまり企画 語り芝居",
+          "performanceName": "徒花の恋 〜源氏物語より〜",
+          "performanceType": "single",
+          "plays": [
+            {
+              "title": "徒花の恋 〜源氏物語より〜",
+              "playwright": "松井香奈",
+              "cast": "神戸浩・渡会りえ＋キャスト"
+            }
+          ]
+        },
+        "venueInfo": {
+          "venue": "栄能楽堂",
+          "venueAddress": "愛知県名古屋市中区栄5-6-4（栄能楽ビル東館4F）"
+        },
+        "scheduleInfo": {
+          "performances": [
+            {
+              "dateTime": "2026-12-09T13:00:00+09:00",
+              "notes": "A"
+            },
+            {
+              "dateTime": "2026-12-10T11:00:00+09:00",
+              "notes": "B"
+            },
+            {
+              "dateTime": "2026-12-10T15:00:00+09:00",
+              "notes": "A"
+            },
+            {
+              "dateTime": "2026-12-11T13:00:00+09:00",
+              "notes": "B"
+            },
+            {
+              "dateTime": "2026-12-11T19:00:00+09:00",
+              "notes": "A"
+            },
+            {
+              "dateTime": "2026-12-12T13:00:00+09:00",
+              "notes": "B"
+            }
+          ],
+          "runningTime": "30分",
+          "doorsOpen": "開演30分前"
+        },
+        "ticketInfo": {
+          "prices": [],
+          "bookingUrls": [
+            {
+              "title": "チケット予約",
+              "url": "https://www.quartet-online.net/ticket/temarikikaku"
+            }
+          ]
+        },
+        "linksInfo": {
+          "relatedLinks": [
+            {
+              "title": "Instagram",
+              "url": "https://www.instagram.com/p/DeonH6nAS2T/"
+            }
+          ]
+        },
+        "miscInfo": {}
+      },
+      "rawPrices": [
+        {
+          "type": "一般",
+          "amount": 3500,
+          "priceTiming": "unknown"
+        },
+        {
+          "type": "中学生以下",
+          "amount": 2500,
+          "priceTiming": "unknown"
+        },
+        {
+          "type": "夜割",
+          "amount": 3000,
+          "priceTiming": "unknown"
+        },
+        {
+          "type": "トークショー",
+          "amount": 500,
+          "priceTiming": "unknown"
+        },
+        {
+          "type": "特別公演",
+          "amount": 2000,
+          "priceTiming": "unknown"
+        }
+      ],
+      "rawData": {
+        "entryText": "てまり企画 語り芝居『徒花の恋 〜源氏物語より〜』 — 12/9（水）13:00［A］、12/10（木）11:00［B］・15:00［A］、12/11（金）13:00［B］・19:00［A］、12/12（土）13:00［B］、栄能楽堂（中区・栄）。脚本・原作：松井香奈、江良至。上演台本・演出：渡会りえ。一般3,500円、中学生以下2,500円、夜割3,000円（夜の回）、トークショー500円、特別公演2,000円。開場は開演30分前。A／Bは配役パターン。関連企画：トークショー（12/9・11の15時、出演：神戸浩・渡会りえ＋キャスト）、特別公演『銀の夕べ』（12/10の19時、『徒花の恋（一般）』観劇者は割引あり）。上演時間は未確認。",
+        "dateText": "12月9日（水）〜12日（土）",
+        "region": "愛知県名古屋市",
+        "catalogId": "aichi-12-9",
+        "sourceType": "Instagram"
+      }
+    },
+    {
+      "externalId": "muse-260064",
+      "catalogCategory": "main",
+      "collectedAt": "2026-11-13",
+      "verificationStatus": "verified",
+      "sources": [
+        {
+          "url": "https://www.instagram.com/p/DelqTuwE2Gk/",
+          "observedAt": "2026-11-13"
+        }
+      ],
+      "period": {
+        "startDate": "2026-12-11",
+        "endDate": "2026-12-12"
+      },
+      "playData": {
+        "mainInfo": {
+          "company": "劇団カスイカイ 第6回公演",
+          "performanceName": "ポンコツ車と五人の紳士",
+          "performanceType": "single",
+          "plays": [
+            {
+              "title": "ポンコツ車と五人の紳士",
+              "playwright": "別役実"
+            }
+          ]
+        },
+        "venueInfo": {
+          "venue": "ナンジャーレ",
+          "venueAddress": "愛知県名古屋市中村区亀島2-26-5"
+        },
+        "scheduleInfo": {
+          "performances": [
+            {
+              "dateTime": "2026-12-11T19:00:00+09:00",
+              "notes": ""
+            },
+            {
+              "dateTime": "2026-12-12T13:00:00+09:00",
+              "notes": ""
+            },
+            {
+              "dateTime": "2026-12-12T17:00:00+09:00",
+              "notes": ""
+            }
+          ]
+        },
+        "ticketInfo": {
+          "prices": [],
+          "bookingUrls": []
+        },
+        "linksInfo": {
+          "relatedLinks": [
+            {
+              "title": "Instagram",
+              "url": "https://www.instagram.com/p/DelqTuwE2Gk/"
+            }
+          ]
+        },
+        "miscInfo": {}
+      },
+      "rawPrices": [
+        {
+          "type": "一般",
+          "amount": 1500,
+          "priceTiming": "unknown"
+        },
+        {
+          "type": "学生",
+          "amount": 1000,
+          "priceTiming": "unknown"
+        }
+      ],
+      "rawData": {
+        "entryText": "劇団カスイカイ 第6回公演『ポンコツ車と五人の紳士』 — 12/11 19:00、12/12 13:00／17:00、ナンジャーレ（中村区・亀島）。作：別役実。一般1,500円、学生1,000円。",
+        "dateText": "12月11日（金）〜12日（土）",
+        "region": "愛知県名古屋市",
+        "catalogId": "tuiho-12-5",
+        "sourceType": "Instagram"
+      }
+    },
+    {
+      "externalId": "muse-260065",
+      "catalogCategory": "main",
+      "collectedAt": "2026-11-13",
+      "verificationStatus": "verified",
+      "sources": [
+        {
+          "url": "https://www.facebook.com/tomorin828/posts/pfbid02ebb5aWCaSYtHGZaGUEFZkkiPLyXnJGE9ukVCca2C1tmqmATo3UDtwvukSygfmqebl",
+          "observedAt": "2026-11-13"
+        }
+      ],
+      "period": {
+        "startDate": "2026-12-11",
+        "endDate": "2026-12-13"
+      },
+      "playData": {
+        "mainInfo": {
+          "company": "STRINGS 第12回公演",
+          "performanceName": "シュッバ！出婆！ 駆け込み弁当 湊屋の場合",
+          "performanceType": "single",
+          "plays": [
+            {
+              "title": "シュッバ！出婆！ 駆け込み弁当 湊屋の場合"
+            }
+          ]
+        },
+        "venueInfo": {
+          "venue": "昭和文化小劇場",
+          "venueAddress": "愛知県名古屋市昭和区花見通1丁目41番地の2"
+        },
+        "scheduleInfo": {
+          "performances": [
+            {
+              "dateTime": "2026-12-11T13:30:00+09:00",
+              "notes": ""
+            },
+            {
+              "dateTime": "2026-12-11T18:30:00+09:00",
+              "notes": ""
+            },
+            {
+              "dateTime": "2026-12-12T13:30:00+09:00",
+              "notes": ""
+            },
+            {
+              "dateTime": "2026-12-13T13:30:00+09:00",
+              "notes": ""
+            }
+          ]
+        },
+        "ticketInfo": {
+          "prices": [],
+          "bookingUrls": []
+        },
+        "linksInfo": {
+          "relatedLinks": [
+            {
+              "title": "Facebook",
+              "url": "https://www.facebook.com/tomorin828/posts/pfbid02ebb5aWCaSYtHGZaGUEFZkkiPLyXnJGE9ukVCca2C1tmqmATo3UDtwvukSygfmqebl"
+            }
+          ]
+        },
+        "miscInfo": {}
+      },
+      "rawPrices": [
+        {
+          "type": "一般",
+          "amount": 3000,
+          "priceTiming": "unknown"
+        },
+        {
+          "type": "高校生以下",
+          "amount": 1500,
+          "priceTiming": "unknown"
+        }
+      ],
+      "rawData": {
+        "entryText": "STRINGS 第12回公演『シュッバ！出婆！ 駆け込み弁当 湊屋の場合』 — 12/11 13:30／18:30、12/12 13:30、12/13 13:30、昭和文化小劇場。一般3,000円、高校生以下1,500円。",
+        "dateText": "12月11日（金）〜13日（日）",
+        "region": "愛知県名古屋市",
+        "catalogId": "aichi-12-10",
+        "sourceType": "Facebook"
+      }
+    },
+    {
+      "externalId": "muse-260066",
+      "catalogCategory": "main",
+      "collectedAt": "2026-11-13",
+      "verificationStatus": "verified",
+      "sources": [
+        {
+          "url": "https://www.instagram.com/p/DfAAw2BEwd-/",
+          "observedAt": "2026-11-13"
+        }
+      ],
+      "period": {
+        "startDate": "2026-12-11",
+        "endDate": "2026-12-20"
+      },
+      "playData": {
+        "mainInfo": {
+          "company": "劇団これから 第6回公演",
+          "performanceName": "ねずみとり",
+          "performanceType": "single",
+          "plays": [
+            {
+              "title": "ねずみとり",
+              "playwright": "アガサ・クリスティ）"
+            }
+          ]
+        },
+        "venueInfo": {
+          "venue": "揚輝荘 聴松閣",
+          "venueAddress": "愛知県名古屋市千種区法王町2丁目5番地17（南園・聴松閣）"
+        },
+        "scheduleInfo": {
+          "performances": [
+            {
+              "dateTime": "2026-12-11T18:30:00+09:00",
+              "notes": ""
+            },
+            {
+              "dateTime": "2026-12-12T18:00:00+09:00",
+              "notes": ""
+            },
+            {
+              "dateTime": "2026-12-13T18:00:00+09:00",
+              "notes": ""
+            },
+            {
+              "dateTime": "2026-12-18T18:30:00+09:00",
+              "notes": ""
+            },
+            {
+              "dateTime": "2026-12-20T18:00:00+09:00",
+              "notes": ""
+            }
+          ]
+        },
+        "ticketInfo": {
+          "prices": [],
+          "bookingUrls": []
+        },
+        "linksInfo": {
+          "relatedLinks": [
+            {
+              "title": "Instagram",
+              "url": "https://www.instagram.com/p/DfAAw2BEwd-/"
+            }
+          ]
+        },
+        "miscInfo": {}
+      },
+      "rawPrices": [
+        {
+          "type": "一般",
+          "amount": 4500,
+          "priceTiming": "unknown"
+        },
+        {
+          "type": "応援チケット",
+          "amount": 6000,
+          "priceTiming": "unknown"
+        }
+      ],
+      "rawData": {
+        "entryText": "劇団これから 第6回公演『ねずみとり』 — （原作：アガサ・クリスティ） 12/11 18:30、12/12 18:00、12/13 18:00、12/18 18:30、12/20 18:00、揚輝荘 聴松閣（千種区・覚王山）。一般4,500円、応援チケット6,000円。",
+        "dateText": "12月11日（金）〜20日（日）",
+        "region": "愛知県名古屋市",
+        "catalogId": "aichi-12-11",
+        "sourceType": "Instagram"
+      }
+    },
+    {
+      "externalId": "muse-260068",
+      "catalogCategory": "main",
+      "collectedAt": "2026-11-13",
+      "verificationStatus": "verified",
+      "sources": [
+        {
+          "url": "https://workshop360nagoya.wixsite.com/home/utsuroza-11",
+          "observedAt": "2026-11-13"
+        }
+      ],
+      "period": {
+        "startDate": "2026-12-12",
+        "endDate": "2026-12-13"
+      },
+      "playData": {
+        "mainInfo": {
+          "company": "シニア演劇倶楽部うつろ座 第11回公演",
+          "performanceName": "ネヴァダの月",
+          "performanceType": "single",
+          "plays": [
+            {
+              "title": "ネヴァダの月",
+              "playwright": "菊永洋一郎"
+            }
+          ]
+        },
+        "venueInfo": {
+          "venue": "G/pit",
+          "venueAddress": "愛知県名古屋市中区栄1-23-30"
+        },
+        "scheduleInfo": {
+          "performances": [
+            {
+              "dateTime": "2026-12-12T15:00:00+09:00",
+              "notes": ""
+            },
+            {
+              "dateTime": "2026-12-13T11:00:00+09:00",
+              "notes": ""
+            },
+            {
+              "dateTime": "2026-12-13T15:30:00+09:00",
+              "notes": ""
+            }
+          ],
+          "runningTime": "80分",
+          "doorsOpen": "20分前"
+        },
+        "ticketInfo": {
+          "prices": [
+            {
+              "type": "一般",
+              "advancePrice": 2800,
+              "doorPrice": 3000
+            },
+            {
+              "type": "U-25",
+              "advancePrice": 2000,
+              "doorPrice": 2200
+            }
+          ],
+          "bookingUrls": []
+        },
+        "linksInfo": {
+          "relatedLinks": [],
+          "officialX": "https://x.com/UtsurozaSenior",
+          "officialHp": "https://workshop360nagoya.wixsite.com/home/utsuroza-11"
+        },
+        "miscInfo": {}
+      },
+      "rawPrices": [
+        {
+          "type": "一般",
+          "amount": 2800,
+          "priceTiming": "advance"
+        },
+        {
+          "type": "一般",
+          "amount": 3000,
+          "priceTiming": "door"
+        },
+        {
+          "type": "U-25",
+          "amount": 2000,
+          "priceTiming": "advance"
+        },
+        {
+          "type": "U-25",
+          "amount": 2200,
+          "priceTiming": "door"
+        },
+        {
+          "type": "高校生以下",
+          "amount": 1000,
+          "priceTiming": "unknown"
+        }
+      ],
+      "rawData": {
+        "entryText": "シニア演劇倶楽部うつろ座 第11回公演『ネヴァダの月』 — 12/12（土）15:00、12/13（日）11:00／15:30、G/pit（名古屋市中区栄1-23-30 中京ビル1F）。作：菊永洋一郎／脚色・演出：小熊ヒデジ。一般 前売2,800円、当日3,000円、U-25 前売2,000円、U-25 当日2,200円、高校生以下1,000円。上演時間80分程度。受付は開演30分前、開場は20分前。",
+        "dateText": "12月12日（土）〜13日（日）",
+        "region": "愛知県名古屋市",
+        "catalogId": "aichi-12-12",
+        "sourceType": "公式サイト"
+      }
+    },
+    {
+      "externalId": "muse-260069",
+      "catalogCategory": "main",
+      "collectedAt": "2026-11-13",
+      "verificationStatus": "verified",
+      "sources": [
+        {
+          "url": "https://l-tike.com/order/?gLcode=34705",
+          "observedAt": "2026-11-13"
+        }
+      ],
+      "period": {
+        "startDate": "2026-12-12",
+        "endDate": "2026-12-13"
+      },
+      "playData": {
+        "mainInfo": {
+          "company": "優しい劇団 八周年記念本公演",
+          "performanceName": "『データラメッチを抱きしめる』名古屋公演",
+          "performanceType": "single",
+          "plays": [
+            {
+              "title": "データラメッチを抱きしめる",
+              "playwright": "尾﨑優人",
+              "director": "尾﨑優人"
+            }
+          ]
+        },
+        "venueInfo": {
+          "venue": "シアターココ",
+          "venueAddress": "愛知県名古屋市千種区池下1-11-11 スタチオン池下2階"
+        },
+        "scheduleInfo": {
+          "performances": [
+            {
+              "dateTime": "2026-12-12T19:00:00+09:00",
+              "notes": ""
+            },
+            {
+              "dateTime": "2026-12-13T14:00:00+09:00",
+              "notes": ""
+            },
+            {
+              "dateTime": "2026-12-13T19:00:00+09:00",
+              "notes": ""
+            }
+          ]
+        },
+        "ticketInfo": {
+          "prices": [],
+          "bookingUrls": [
+            {
+              "title": "ローチケ",
+              "url": "https://l-tike.com/order/?gLcode=34705"
+            }
+          ]
+        },
+        "linksInfo": {
+          "relatedLinks": [
+            {
+              "title": "チケット（ローチケ）",
+              "url": "https://l-tike.com/order/?gLcode=34705"
+            }
+          ],
+          "officialX": "https://x.com/yasashiigekidan"
+        },
+        "miscInfo": {}
+      },
+      "rawPrices": [
+        {
+          "type": "一般",
+          "amount": 3000,
+          "priceTiming": "unknown"
+        },
+        {
+          "type": "U-22",
+          "amount": 2000,
+          "priceTiming": "unknown"
+        },
+        {
+          "type": "高校生以下",
+          "amount": 1000,
+          "priceTiming": "unknown"
+        }
+      ],
+      "rawData": {
+        "entryText": "優しい劇団 八周年記念本公演『データラメッチを抱きしめる』名古屋公演 — 12/12 19:00、12/13 14:00／19:00、シアターココ（千種区・池下）。脚本・演出：尾﨑優人。一般3,000円、U-22 2,000円、高校生以下1,000円。千賀百子は体調不良のため12/13（日）19:00のみ出演。12/12（土）19:00と12/13（日）14:00は小野寺マリーが代役。払い戻し対応あり。",
+        "dateText": "12月12日（土）〜13日（日）",
+        "region": "愛知県名古屋市",
+        "catalogId": "aichi-12-13",
+        "sourceType": "チケット（ローチケ）"
+      }
+    },
+    {
+      "externalId": "muse-260070",
+      "catalogCategory": "main",
+      "collectedAt": "2026-11-13",
+      "verificationStatus": "verified",
+      "sources": [
+        {
+          "url": "https://www.instagram.com/p/DeRI0CumEFW/",
+          "observedAt": "2026-11-13"
+        }
+      ],
+      "period": {
+        "startDate": "2026-12-12",
+        "endDate": "2026-12-13"
+      },
+      "playData": {
+        "mainInfo": {
+          "company": "中京大学演劇部 劇団いかづち 60周年12月公演",
+          "performanceName": "拝啓、遠い星からきたあなたへ",
+          "performanceType": "single",
+          "plays": [
+            {
+              "title": "拝啓、遠い星からきたあなたへ",
+              "playwright": "西田愛",
+              "director": "西田愛"
+            }
+          ]
+        },
+        "venueInfo": {
+          "venue": "七ツ寺共同スタジオ",
+          "venueAddress": "愛知県名古屋市中区大須2-27-20"
+        },
+        "scheduleInfo": {
+          "performances": [
+            {
+              "dateTime": "2026-12-12T13:00:00+09:00",
+              "notes": ""
+            },
+            {
+              "dateTime": "2026-12-12T18:00:00+09:00",
+              "notes": ""
+            },
+            {
+              "dateTime": "2026-12-13T11:00:00+09:00",
+              "notes": ""
+            },
+            {
+              "dateTime": "2026-12-13T16:00:00+09:00",
+              "notes": ""
+            }
+          ]
+        },
+        "ticketInfo": {
+          "prices": [],
+          "bookingUrls": [],
+          "ticketNotes": "当日料金は各区分+500円"
+        },
+        "linksInfo": {
+          "relatedLinks": [
+            {
+              "title": "Instagram",
+              "url": "https://www.instagram.com/p/DeRI0CumEFW/"
+            }
+          ],
+          "officialX": "https://x.com/ikaduchi46"
+        },
+        "miscInfo": {}
+      },
+      "rawPrices": [
+        {
+          "type": "一般",
+          "amount": 1500,
+          "priceTiming": "unknown"
+        },
+        {
+          "type": "U22",
+          "amount": 1000,
+          "priceTiming": "unknown"
+        },
+        {
+          "type": "U18",
+          "amount": 500,
+          "priceTiming": "unknown"
+        },
+        {
+          "type": "中京大学生一律",
+          "amount": 500,
+          "priceTiming": "unknown"
+        }
+      ],
+      "rawData": {
+        "entryText": "中京大学演劇部 劇団いかづち 60周年12月公演『拝啓、遠い星からきたあなたへ』 — 12/12 13:00／18:00、12/13 11:00／16:00、七ツ寺共同スタジオ。脚本・演出：西田愛。一般1,500円、U22 1,000円、U18 500円、当日＋500円、中京大学生一律500円。",
+        "dateText": "12月12日（土）〜13日（日）",
+        "region": "愛知県名古屋市",
+        "catalogId": "tuiho-12-6",
+        "sourceType": "Instagram"
+      }
+    },
+    {
+      "externalId": "muse-260071",
+      "catalogCategory": "main",
+      "collectedAt": "2026-11-13",
+      "verificationStatus": "verified",
+      "sources": [
+        {
+          "url": "https://urinko.jp/schedule.html",
+          "observedAt": "2026-11-13"
+        }
+      ],
+      "period": {
+        "startDate": "2026-12-12",
+        "endDate": "2026-12-13"
+      },
+      "playData": {
+        "mainInfo": {
+          "company": "劇団うりんこ",
+          "performanceName": "『ある晴れた夏の朝』千秋楽公演",
+          "performanceType": "single",
+          "plays": [
+            {
+              "title": "ある晴れた夏の朝"
+            }
+          ]
+        },
+        "venueInfo": {
+          "venue": "うりんこ劇場",
+          "venueAddress": "愛知県名古屋市名東区八前一丁目112番地"
+        },
+        "scheduleInfo": {
+          "performances": [
+            {
+              "dateTime": "2026-12-12T18:30:00+09:00",
+              "notes": ""
+            },
+            {
+              "dateTime": "2026-12-13T14:00:00+09:00",
+              "notes": ""
+            }
+          ]
+        },
+        "ticketInfo": {
+          "prices": [
+            {
+              "type": "一般",
+              "advancePrice": 3000,
+              "doorPrice": null
+            },
+            {
+              "type": "U-18",
+              "advancePrice": 2500,
+              "doorPrice": null
+            },
+            {
+              "type": "サポーターズ一般",
+              "advancePrice": 2700,
+              "doorPrice": null
+            },
+            {
+              "type": "サポーターズU-18",
+              "advancePrice": 2250,
+              "doorPrice": null
+            }
+          ],
+          "bookingUrls": [],
+          "ticketNotes": "当日料金は各区分+500円"
+        },
+        "linksInfo": {
+          "relatedLinks": [],
+          "officialX": "https://x.com/urinkojp",
+          "officialHp": "https://urinko.jp/schedule.html"
+        },
+        "miscInfo": {}
+      },
+      "rawPrices": [
+        {
+          "type": "一般",
+          "amount": 3000,
+          "priceTiming": "advance"
+        },
+        {
+          "type": "U-18",
+          "amount": 2500,
+          "priceTiming": "advance"
+        },
+        {
+          "type": "サポーターズ一般",
+          "amount": 2700,
+          "priceTiming": "advance"
+        },
+        {
+          "type": "サポーターズU-18",
+          "amount": 2250,
+          "priceTiming": "advance"
+        }
+      ],
+      "rawData": {
+        "entryText": "劇団うりんこ『ある晴れた夏の朝』千秋楽公演 — 12/12 18:30、12/13 14:00、うりんこ劇場（名東区）。前売 一般3,000円／U-18 2,500円、サポーターズ 一般2,700円／U-18 2,250円（当日＋500円、全自由席）。",
+        "dateText": "12月12日（土）〜13日（日）",
+        "region": "愛知県名古屋市",
+        "catalogId": "tuiho-12-7",
+        "sourceType": "公式サイト"
+      }
+    },
+    {
+      "externalId": "muse-260074",
+      "catalogCategory": "main",
+      "collectedAt": "2026-11-17",
+      "verificationStatus": "verified",
+      "sources": [
+        {
+          "url": "https://www.bungakuza.com/mitsumame/index.html",
+          "observedAt": "2026-11-17"
+        }
+      ],
+      "period": {
+        "startDate": "2026-12-12",
+        "endDate": "2026-12-13"
+      },
+      "playData": {
+        "mainInfo": {
+          "company": "文学座",
+          "performanceName": "『みつ豆』可児公演",
+          "performanceType": "single",
+          "plays": [
+            {
+              "title": "みつ豆",
+              "playwright": "秋之桜子"
+            }
+          ]
+        },
+        "venueInfo": {
+          "venue": "可児市文化創造センターala 小劇場",
+          "venueAddress": "岐阜県可児市下恵土3433-139"
+        },
+        "scheduleInfo": {
+          "performances": [
+            {
+              "dateTime": "2026-12-12T15:00:00+09:00",
+              "notes": ""
+            },
+            {
+              "dateTime": "2026-12-13T14:00:00+09:00",
+              "notes": ""
+            }
+          ]
+        },
+        "ticketInfo": {
+          "prices": [],
+          "bookingUrls": []
+        },
+        "linksInfo": {
+          "relatedLinks": [],
+          "officialX": "https://x.com/bungakuza",
+          "officialHp": "https://www.bungakuza.com/mitsumame/index.html"
+        },
+        "miscInfo": {}
+      },
+      "rawPrices": [
+        {
+          "type": "一般",
+          "amount": 5000,
+          "priceTiming": "unknown"
+        },
+        {
+          "type": "25歳以下",
+          "amount": 2500,
+          "priceTiming": "unknown"
+        }
+      ],
+      "rawData": {
+        "entryText": "文学座『みつ豆』可児公演 — 12/12（土）15:00、12/13（日）14:00、可児市文化創造センターala 小劇場（岐阜県可児市）。作：秋之桜子／演出：高橋正徳。一般5,000円、25歳以下2,500円（全席指定）。",
+        "dateText": "12月12日（土）〜13日（日）",
+        "region": "岐阜県可児市",
+        "catalogId": "gifu-12-2",
+        "sourceType": "公式サイト"
+      }
+    },
+    {
+      "externalId": "muse-260076",
+      "catalogCategory": "main",
+      "collectedAt": "2026-11-13",
+      "verificationStatus": "unverified",
+      "sources": [
+        {
+          "url": "https://www.instagram.com/p/DfO8eIFE1fi/",
+          "observedAt": "2026-11-13"
+        }
+      ],
+      "period": {
+        "startDate": "2026-12-14",
+        "endDate": "2026-12-20"
+      },
+      "playData": {
+        "mainInfo": {
+          "performanceName": "オリエンタル即席劇場"
+        },
+        "venueInfo": {
+          "venue": "ささしまスタジオ",
+          "venueAddress": "愛知県名古屋市中川区福住町8-11"
+        },
+        "scheduleInfo": {
+          "performances": []
+        },
+        "ticketInfo": {
+          "prices": [
+            {
+              "type": "一般",
+              "advancePrice": 3000,
+              "doorPrice": 3500
+            }
+          ],
+          "bookingUrls": []
+        },
+        "linksInfo": {
+          "relatedLinks": [
+            {
+              "title": "Instagram",
+              "url": "https://www.instagram.com/p/DfO8eIFE1fi/"
+            }
+          ]
+        },
+        "miscInfo": {}
+      },
+      "rawPrices": [
+        {
+          "type": "一般",
+          "amount": 3000,
+          "priceTiming": "advance"
+        },
+        {
+          "type": "一般",
+          "amount": 3500,
+          "priceTiming": "door"
+        }
+      ],
+      "rawData": {
+        "entryText": "オリエンタル即席劇場 — （ささしまスタジオ「食べる演劇」プロジェクト、カレー付き参加型） 12/14〜20、ささしまスタジオ（中川区）。開演時刻は12:30／18:30／19:30の3種類（各日の割り当ては未確認）。前売3,000円・当日3,500円（カレー付き）。各日50席限定。",
+        "dateText": "12月14日（月）〜20日（日）",
+        "region": "愛知県名古屋市",
+        "catalogId": "aichi-12-14",
+        "sourceType": "Instagram"
+      }
+    },
+    {
+      "externalId": "muse-260077",
+      "catalogCategory": "main",
+      "collectedAt": "2026-11-13",
+      "verificationStatus": "verified",
+      "sources": [
+        {
+          "url": "https://bunkanoie.jp/",
+          "observedAt": "2026-11-13"
+        }
+      ],
+      "period": {
+        "startDate": "2026-12-17",
+        "endDate": "2026-12-17"
+      },
+      "playData": {
+        "mainInfo": {
+          "company": "劇団サカナデ",
+          "performanceName": "『この音はどこまで』再演",
+          "performanceType": "single",
+          "plays": [
+            {
+              "title": "この音はどこまで"
+            }
+          ]
+        },
+        "venueInfo": {
+          "venue": "長久手市文化の家 風のホール",
+          "venueAddress": "愛知県長久手市野田農201番地"
+        },
+        "scheduleInfo": {
+          "performances": [
+            {
+              "dateTime": "2026-12-17T19:00:00+09:00",
+              "notes": ""
+            }
+          ]
+        },
+        "ticketInfo": {
+          "prices": [],
+          "bookingUrls": []
+        },
+        "linksInfo": {
+          "relatedLinks": [],
+          "officialHp": "https://bunkanoie.jp/"
+        },
+        "miscInfo": {}
+      },
+      "rawPrices": [
+        {
+          "type": "一般",
+          "amount": 2000,
+          "priceTiming": "unknown"
+        },
+        {
+          "type": "フレンズ会員",
+          "amount": 1800,
+          "priceTiming": "unknown"
+        },
+        {
+          "type": "22歳以下",
+          "amount": 1000,
+          "priceTiming": "unknown"
+        },
+        {
+          "type": "中学生以下",
+          "amount": 0,
+          "priceTiming": "unknown",
+          "note": "無料"
+        }
+      ],
+      "rawData": {
+        "entryText": "劇団サカナデ『この音はどこまで』再演 — 12/17 19:00、長久手市文化の家 風のホール（長久手市）。一般2,000円、フレンズ会員1,800円、22歳以下1,000円、中学生以下無料（前売・当日同額）。",
+        "dateText": "12月17日（木）",
+        "region": "愛知県長久手市",
+        "catalogId": "aichi-12-15",
+        "sourceType": "公式サイト"
+      }
+    },
+    {
+      "externalId": "muse-260078",
+      "catalogCategory": "main",
+      "collectedAt": "2026-11-13",
+      "verificationStatus": "verified",
+      "sources": [
+        {
+          "url": "https://prtimes.jp/main/html/rd/p/000004334.000011710.html",
+          "observedAt": "2026-11-13"
+        }
+      ],
+      "period": {
+        "startDate": "2026-12-17",
+        "endDate": "2026-12-20"
+      },
+      "playData": {
+        "mainInfo": {
+          "company": "演劇組織KIMYO",
+          "performanceName": "『ガンガラ』名古屋公演",
+          "performanceType": "single",
+          "plays": [
+            {
+              "title": "ガンガラ",
+              "playwright": "宮谷達也",
+              "director": "宮谷達也"
+            }
+          ]
+        },
+        "venueInfo": {
+          "venue": "愛知県芸術劇場 小ホール",
+          "venueAddress": "愛知県名古屋市東区東桜一丁目13番2号（愛知芸術文化センター内）"
+        },
+        "scheduleInfo": {
+          "performances": [
+            {
+              "dateTime": "2026-12-17T19:00:00+09:00",
+              "notes": ""
+            },
+            {
+              "dateTime": "2026-12-18T14:00:00+09:00",
+              "notes": ""
+            },
+            {
+              "dateTime": "2026-12-18T19:00:00+09:00",
+              "notes": ""
+            },
+            {
+              "dateTime": "2026-12-19T14:00:00+09:00",
+              "notes": ""
+            },
+            {
+              "dateTime": "2026-12-19T19:00:00+09:00",
+              "notes": ""
+            },
+            {
+              "dateTime": "2026-12-20T12:00:00+09:00",
+              "notes": ""
+            },
+            {
+              "dateTime": "2026-12-20T17:00:00+09:00",
+              "notes": ""
+            }
+          ]
+        },
+        "ticketInfo": {
+          "prices": [],
+          "bookingUrls": []
+        },
+        "linksInfo": {
+          "relatedLinks": [
+            {
+              "title": "情報元",
+              "url": "https://prtimes.jp/main/html/rd/p/000004334.000011710.html"
+            }
+          ],
+          "officialX": "https://x.com/engeki_kimyo"
+        },
+        "miscInfo": {}
+      },
+      "rawPrices": [
+        {
+          "type": "一般A",
+          "amount": 6000,
+          "priceTiming": "unknown"
+        },
+        {
+          "type": "一般B",
+          "amount": 5000,
+          "priceTiming": "unknown"
+        },
+        {
+          "type": "U-22",
+          "amount": 3000,
+          "priceTiming": "unknown"
+        },
+        {
+          "type": "プレミアム",
+          "amount": 11000,
+          "priceTiming": "unknown"
+        }
+      ],
+      "rawData": {
+        "entryText": "演劇組織KIMYO『ガンガラ』名古屋公演 — 12/17 19:00、12/18 14:00／19:00、12/19 14:00／19:00、12/20 12:00／17:00、愛知県芸術劇場 小ホール（東区）。作・演出：宮谷達也。一般A 6,000円、一般B 5,000円、U-22 3,000円、プレミアム11,000円。",
+        "dateText": "12月17日（木）〜20日（日）",
+        "region": "愛知県名古屋市",
+        "catalogId": "aichi-12-16",
+        "sourceType": "情報元"
+      }
+    },
+    {
+      "externalId": "muse-260079",
+      "catalogCategory": "main",
+      "collectedAt": "2026-11-13",
+      "verificationStatus": "verified",
+      "sources": [
+        {
+          "url": "https://www.bunka758.or.jp/facility/higashi/files/pdf/39d0aba5abdfdb2f049adc5495ffd5e83b84c004.pdf",
+          "observedAt": "2026-11-13"
+        }
+      ],
+      "period": {
+        "startDate": "2026-12-18",
+        "endDate": "2026-12-20"
+      },
+      "playData": {
+        "mainInfo": {
+          "company": "空宙空地 O×S 10周年記念公演",
+          "performanceName": "西へ",
+          "performanceType": "single",
+          "plays": [
+            {
+              "title": "西へ",
+              "playwright": "関戸哲也",
+              "director": "関戸哲也"
+            }
+          ]
+        },
+        "venueInfo": {
+          "venue": "東文化小劇場",
+          "venueAddress": "愛知県名古屋市東区大幸南一丁目1番10号（カルポート東4F）"
+        },
+        "scheduleInfo": {
+          "performances": [
+            {
+              "dateTime": "2026-12-18T19:00:00+09:00",
+              "notes": ""
+            },
+            {
+              "dateTime": "2026-12-19T14:00:00+09:00",
+              "notes": ""
+            },
+            {
+              "dateTime": "2026-12-19T18:00:00+09:00",
+              "notes": ""
+            },
+            {
+              "dateTime": "2026-12-20T11:00:00+09:00",
+              "notes": ""
+            },
+            {
+              "dateTime": "2026-12-20T15:00:00+09:00",
+              "notes": ""
+            }
+          ]
+        },
+        "ticketInfo": {
+          "prices": [
+            {
+              "type": "一般",
+              "advancePrice": 3800,
+              "doorPrice": null
+            },
+            {
+              "type": "U22",
+              "advancePrice": 2200,
+              "doorPrice": null
+            },
+            {
+              "type": "高校生以下",
+              "advancePrice": 1000,
+              "doorPrice": null
+            }
+          ],
+          "bookingUrls": []
+        },
+        "linksInfo": {
+          "relatedLinks": [
+            {
+              "title": "公式情報",
+              "url": "https://www.bunka758.or.jp/facility/higashi/files/pdf/39d0aba5abdfdb2f049adc5495ffd5e83b84c004.pdf"
+            }
+          ],
+          "officialX": "https://x.com/kuhchu_kuhchi"
+        },
+        "miscInfo": {}
+      },
+      "rawPrices": [
+        {
+          "type": "一般",
+          "amount": 3800,
+          "priceTiming": "advance"
+        },
+        {
+          "type": "U22",
+          "amount": 2200,
+          "priceTiming": "advance"
+        },
+        {
+          "type": "高校生以下",
+          "amount": 1000,
+          "priceTiming": "advance"
+        }
+      ],
+      "rawData": {
+        "entryText": "空宙空地 O×S 10周年記念公演『西へ』 — 12/18 19:00、12/19 14:00／18:00、12/20 11:00／15:00、東文化小劇場（東区）。作・演出：関戸哲也。前売 一般3,800円、U22 2,200円、高校生以下1,000円。",
+        "dateText": "12月18日（金）〜20日（日）",
+        "region": "愛知県名古屋市",
+        "catalogId": "aichi-12-17",
+        "sourceType": "公式情報"
+      }
+    },
+    {
+      "externalId": "muse-260080",
+      "catalogCategory": "main",
+      "collectedAt": "2026-11-13",
+      "verificationStatus": "unverified",
+      "sources": [
+        {
+          "url": "https://x.com/aokirimikan/status/2118869913536532895",
+          "observedAt": "2026-11-13"
+        }
+      ],
+      "period": {
+        "startDate": "2026-12-19",
+        "endDate": "2026-12-20"
+      },
+      "playData": {
+        "mainInfo": {
+          "company": "劇団あおきりみかん×Gongter_DA 日韓レジデンシー",
+          "performanceName": "作家と俳優で いっしょ（잇소）",
+          "performanceType": "single",
+          "plays": [
+            {
+              "title": "作家と俳優で いっしょ（잇소）"
+            }
+          ]
+        },
+        "venueInfo": {
+          "venue": "G/pit",
+          "venueAddress": "愛知県名古屋市中区栄1-23-30"
+        },
+        "scheduleInfo": {
+          "performances": [
+            {
+              "dateTime": "2026-12-19T15:00:00+09:00",
+              "notes": "EP.01+02"
+            },
+            {
+              "dateTime": "2026-12-19T19:00:00+09:00",
+              "notes": "EP.03+04"
+            },
+            {
+              "dateTime": "2026-12-20T11:00:00+09:00",
+              "notes": "EP.03+04"
+            },
+            {
+              "dateTime": "2026-12-20T15:00:00+09:00",
+              "notes": "EP.01+02"
+            }
+          ]
+        },
+        "ticketInfo": {
+          "prices": [
+            {
+              "type": "一般",
+              "advancePrice": 2500,
+              "doorPrice": 3000
+            },
+            {
+              "type": "大学生以下",
+              "advancePrice": 1800,
+              "doorPrice": 2300
+            },
+            {
+              "type": "高校生以下",
+              "advancePrice": 1200,
+              "doorPrice": 1700
+            }
+          ],
+          "bookingUrls": [
+            {
+              "title": "チケット予約",
+              "url": "https://aokirimikan.corich.co/issyo2026/ippan"
+            }
+          ]
+        },
+        "linksInfo": {
+          "relatedLinks": [
+            {
+              "title": "X",
+              "url": "https://x.com/aokirimikan/status/2118869913536532895"
+            }
+          ],
+          "officialX": "https://x.com/aokirimikan"
+        },
+        "miscInfo": {}
+      },
+      "rawPrices": [
+        {
+          "type": "一般",
+          "amount": 2500,
+          "priceTiming": "advance"
+        },
+        {
+          "type": "一般",
+          "amount": 3000,
+          "priceTiming": "door"
+        },
+        {
+          "type": "大学生以下",
+          "amount": 1800,
+          "priceTiming": "advance"
+        },
+        {
+          "type": "大学生以下",
+          "amount": 2300,
+          "priceTiming": "door"
+        },
+        {
+          "type": "高校生以下",
+          "amount": 1200,
+          "priceTiming": "advance"
+        },
+        {
+          "type": "高校生以下",
+          "amount": 1700,
+          "priceTiming": "door"
+        }
+      ],
+      "rawData": {
+        "entryText": "劇団あおきりみかん×Gongter_DA 日韓レジデンシー『作家と俳優で いっしょ（잇소）』 — 12/19（土）15:00［EP.01+02］・19:00［EP.03+04］、12/20（日）11:00［EP.03+04］・15:00［EP.01+02］、G/pit（中区・栄）。短編4本：EP.01『あなたがわたしにくれるまで』、EP.02『大丈夫』、EP.03『堰の上の』、EP.04『たいらとななめ』。全公演アフタートークあり。交流会は12/19夜の回と12/20昼の回の終演後。一般 前売2,500円、一般 当日3,000円、大学生以下 前売1,800円、大学生以下 当日2,300円、高校生以下 前売1,200円、高校生以下 当日1,700円。上演時間は未確認。",
+        "dateText": "12月19日（土）〜20日（日）",
+        "region": "愛知県名古屋市",
+        "catalogId": "aichi-12-18",
+        "sourceType": "X"
+      }
+    },
+    {
+      "externalId": "muse-260081",
+      "catalogCategory": "main",
+      "collectedAt": "2026-11-13",
+      "verificationStatus": "verified",
+      "sources": [
+        {
+          "url": "https://lp.p.pia.jp/article/news/512880/index.html",
+          "observedAt": "2026-11-13"
+        }
+      ],
+      "period": {
+        "startDate": "2026-12-19",
+        "endDate": "2026-12-20"
+      },
+      "playData": {
+        "mainInfo": {
+          "company": "30-DELUX NAGOYA 5周年記念 STAGE",
+          "performanceName": "DoえりゃーX 名古屋！",
+          "performanceType": "single",
+          "plays": [
+            {
+              "title": "DoえりゃーX 名古屋！"
+            }
+          ]
+        },
+        "venueInfo": {
+          "venue": "中川文化小劇場",
+          "venueAddress": "愛知県名古屋市中川区吉良町178番地の3"
+        },
+        "scheduleInfo": {
+          "performances": [
+            {
+              "dateTime": "2026-12-19T12:30:00+09:00",
+              "notes": ""
+            },
+            {
+              "dateTime": "2026-12-19T17:30:00+09:00",
+              "notes": ""
+            },
+            {
+              "dateTime": "2026-12-20T12:00:00+09:00",
+              "notes": ""
+            },
+            {
+              "dateTime": "2026-12-20T16:30:00+09:00",
+              "notes": ""
+            }
+          ]
+        },
+        "ticketInfo": {
+          "prices": [
+            {
+              "type": "一般",
+              "advancePrice": null,
+              "doorPrice": 7500
+            }
+          ],
+          "bookingUrls": [
+            {
+              "title": "チケットぴあ",
+              "url": "https://lp.p.pia.jp/article/news/512880/index.html"
+            }
+          ]
+        },
+        "linksInfo": {
+          "relatedLinks": [
+            {
+              "title": "チケット（ぴあ）",
+              "url": "https://lp.p.pia.jp/article/news/512880/index.html"
+            }
+          ],
+          "officialX": "https://x.com/30_delux_nagoya"
+        },
+        "miscInfo": {}
+      },
+      "rawPrices": [
+        {
+          "type": "一般",
+          "amount": 7500,
+          "priceTiming": "door"
+        },
+        {
+          "type": "一般",
+          "amount": 6800,
+          "priceTiming": "unknown"
+        },
+        {
+          "type": "プレミアム",
+          "amount": 9800,
+          "priceTiming": "unknown"
+        }
+      ],
+      "rawData": {
+        "entryText": "30-DELUX NAGOYA 5周年記念 STAGE『DoえりゃーX 名古屋！』 — 12/19 12:30／17:30、12/20 12:00／16:30、中川文化小劇場（中川区）。一般6,800円、プレミアム9,800円、当日7,500円。",
+        "dateText": "12月19日（土）〜20日（日）",
+        "region": "愛知県名古屋市",
+        "catalogId": "aichi-12-19",
+        "sourceType": "チケット（ぴあ）"
+      }
+    },
+    {
+      "externalId": "muse-260082",
+      "catalogCategory": "main",
+      "collectedAt": "2026-11-17",
+      "verificationStatus": "verified",
+      "sources": [
+        {
+          "url": "https://yonbun.com/event/5102/",
+          "observedAt": "2026-11-17"
+        }
+      ],
+      "period": {
+        "startDate": "2026-12-19",
+        "endDate": "2026-12-20"
+      },
+      "playData": {
+        "mainInfo": {
+          "company": "青年団",
+          "performanceName": "子ども参加型演劇『サンタクロース会議』",
+          "performanceType": "single",
+          "plays": [
+            {
+              "title": "サンタクロース会議",
+              "playwright": "平田オリザ",
+              "director": "平田オリザ"
+            }
+          ]
+        },
+        "venueInfo": {
+          "venue": "四日市市文化会館 第1ホール",
+          "venueAddress": "三重県四日市市安島2丁目5-3"
+        },
+        "scheduleInfo": {
+          "performances": [
+            {
+              "dateTime": "2026-12-19T14:00:00+09:00",
+              "notes": ""
+            },
+            {
+              "dateTime": "2026-12-20T11:00:00+09:00",
+              "notes": ""
+            },
+            {
+              "dateTime": "2026-12-20T14:00:00+09:00",
+              "notes": ""
+            }
+          ],
+          "runningTime": "約60分"
+        },
+        "ticketInfo": {
+          "prices": [],
+          "bookingUrls": []
+        },
+        "linksInfo": {
+          "relatedLinks": [],
+          "officialX": "https://x.com/seinendan_org",
+          "officialHp": "https://yonbun.com/event/5102/"
+        },
+        "miscInfo": {
+          "otherInfo": "3歳以下入場不可"
+        }
+      },
+      "rawPrices": [
+        {
+          "type": "中学生以上）",
+          "amount": 2500,
+          "priceTiming": "unknown"
+        },
+        {
+          "type": "4歳〜小学生）",
+          "amount": 1000,
+          "priceTiming": "unknown"
+        }
+      ],
+      "rawData": {
+        "entryText": "青年団 子ども参加型演劇『サンタクロース会議』 — 12/19（土）14:00、12/20（日）11:00／14:00、四日市市文化会館 第1ホール舞台上（三重県四日市市安島2-5-3）。作・演出：平田オリザ。上演時間約60分、受付は開演40分前・開場20分前。全自由席、一般（中学生以上）2,500円、こども（4歳〜小学生）1,000円（3歳以下入場不可）。主催：公益財団法人四日市市文化まちづくり財団。",
+        "dateText": "12月19日（土）〜20日（日）",
+        "region": "三重県四日市市",
+        "catalogId": "mie-12-2",
+        "genre": "参加型",
+        "sourceType": "公式サイト"
+      }
+    },
+    {
+      "externalId": "muse-260084",
+      "catalogCategory": "main",
+      "collectedAt": "2026-11-13",
+      "verificationStatus": "verified",
+      "sources": [
+        {
+          "url": "https://www.bunka758.or.jp/facility/nakamura/files/pdf/akaitori12_compressed.pdf",
+          "observedAt": "2026-11-13"
+        }
+      ],
+      "period": {
+        "startDate": "2026-12-23",
+        "endDate": "2026-12-23"
+      },
+      "playData": {
+        "mainInfo": {
+          "company": "子ども向け朗読劇",
+          "performanceName": "ひでよし（仮）",
+          "performanceType": "single",
+          "plays": [
+            {
+              "title": "ひでよし（仮）"
+            }
+          ]
+        },
+        "venueInfo": {
+          "venue": "中村文化小劇場",
+          "venueAddress": "愛知県名古屋市中村区中村町字茶ノ木25番地"
+        },
+        "scheduleInfo": {
+          "performances": [
+            {
+              "dateTime": "2026-12-23T15:30:00+09:00",
+              "notes": ""
+            }
+          ]
+        },
+        "ticketInfo": {
+          "prices": [],
+          "bookingUrls": []
+        },
+        "linksInfo": {
+          "relatedLinks": [
+            {
+              "title": "公式情報",
+              "url": "https://www.bunka758.or.jp/facility/nakamura/files/pdf/akaitori12_compressed.pdf"
+            }
+          ]
+        },
+        "miscInfo": {
+          "otherInfo": "要申込"
+        }
+      },
+      "rawPrices": [
+        {
+          "type": "料金",
+          "amount": 0,
+          "priceTiming": "unknown",
+          "note": "無料"
+        }
+      ],
+      "rawData": {
+        "entryText": "子ども向け朗読劇『ひでよし（仮）』 — 12/23 15:30〜16:30、中村文化小劇場（中村区）。主催：三っ音会。無料（要申込）。",
+        "dateText": "12月23日（水）",
+        "region": "愛知県名古屋市",
+        "catalogId": "tuiho-12-8",
+        "sourceType": "公式情報"
+      }
+    },
+    {
+      "externalId": "muse-260086",
+      "catalogCategory": "main",
+      "collectedAt": "2026-11-13",
+      "verificationStatus": "verified",
+      "sources": [
+        {
+          "url": "https://soejimaikon.wixsite.com/mu-fu-ron/公演・イベント情報",
+          "observedAt": "2026-11-13"
+        }
+      ],
+      "period": {
+        "startDate": "2026-12-24",
+        "endDate": "2026-12-26"
+      },
+      "playData": {
+        "mainInfo": {
+          "company": "夢腐論（ムフロン）聖夜壊III",
+          "performanceName": "狂死孤ノ夜／磔",
+          "performanceType": "single",
+          "plays": [
+            {
+              "title": "狂死孤ノ夜／磔"
+            }
+          ]
+        },
+        "venueInfo": {
+          "venue": "シアターココ",
+          "venueAddress": "愛知県名古屋市千種区池下1-11-11 スタチオン池下2階"
+        },
+        "scheduleInfo": {
+          "performances": [
+            {
+              "dateTime": "2026-12-24T18:30:00+09:00",
+              "notes": ""
+            },
+            {
+              "dateTime": "2026-12-24T21:00:00+09:00",
+              "notes": ""
+            },
+            {
+              "dateTime": "2026-12-25T16:00:00+09:00",
+              "notes": ""
+            },
+            {
+              "dateTime": "2026-12-25T18:30:00+09:00",
+              "notes": ""
+            },
+            {
+              "dateTime": "2026-12-25T21:00:00+09:00",
+              "notes": ""
+            },
+            {
+              "dateTime": "2026-12-26T13:30:00+09:00",
+              "notes": ""
+            },
+            {
+              "dateTime": "2026-12-26T15:00:00+09:00",
+              "notes": ""
+            },
+            {
+              "dateTime": "2026-12-26T17:30:00+09:00",
+              "notes": ""
+            }
+          ],
+          "runningTime": "約60分",
+          "doorsOpen": "開演20分前"
+        },
+        "ticketInfo": {
+          "prices": [
+            {
+              "type": "一般",
+              "advancePrice": 2000,
+              "doorPrice": 2500
+            },
+            {
+              "type": "U22",
+              "advancePrice": 1000,
+              "doorPrice": 1500
+            },
+            {
+              "type": "高校生",
+              "advancePrice": 500,
+              "doorPrice": 1000
+            }
+          ],
+          "bookingUrls": []
+        },
+        "linksInfo": {
+          "relatedLinks": [],
+          "officialHp": "https://soejimaikon.wixsite.com/mu-fu-ron/公演・イベント情報"
+        },
+        "miscInfo": {}
+      },
+      "rawPrices": [
+        {
+          "type": "一般",
+          "amount": 2000,
+          "priceTiming": "advance"
+        },
+        {
+          "type": "一般",
+          "amount": 2500,
+          "priceTiming": "door"
+        },
+        {
+          "type": "U22",
+          "amount": 1000,
+          "priceTiming": "advance"
+        },
+        {
+          "type": "U22",
+          "amount": 1500,
+          "priceTiming": "door"
+        },
+        {
+          "type": "高校生",
+          "amount": 500,
+          "priceTiming": "advance"
+        },
+        {
+          "type": "高校生",
+          "amount": 1000,
+          "priceTiming": "door"
+        }
+      ],
+      "rawData": {
+        "entryText": "夢腐論（ムフロン）聖夜壊III『狂死孤ノ夜／磔』 — 12/24（木）18:30／21:00、12/25（金）16:00／18:30／21:00、12/26（土）13:30／15:00／17:30、シアターココ（千種区・池下）。一般 前売2,000円、一般 当日2,500円、U22 前売1,000円、U22 当日1,500円、高校生 前売500円、高校生 当日1,000円、リピート割−500円。上演時間約60分予定。受付・開場は開演20分前。全席自由席（各回20席程度）。",
+        "dateText": "12月24日（木）〜26日（土）",
+        "region": "愛知県名古屋市",
+        "catalogId": "tuiho-12-10",
+        "sourceType": "公式サイト"
+      }
+    },
+    {
+      "externalId": "muse-260087",
+      "catalogCategory": "main",
+      "collectedAt": "2026-11-17",
+      "verificationStatus": "verified",
+      "sources": [
+        {
+          "url": "https://www.city.gifu.lg.jp/kankoubunka/event/1005353/1031076/1031173/1031172.html",
+          "observedAt": "2026-11-17"
+        }
+      ],
+      "period": {
+        "startDate": "2026-12-26",
+        "endDate": "2026-12-27"
+      },
+      "playData": {
+        "mainInfo": {
+          "company": "はぴえん堂 第3回公演",
+          "performanceName": "ハナレ",
+          "performanceType": "single",
+          "plays": [
+            {
+              "title": "ハナレ"
+            }
+          ]
+        },
+        "venueInfo": {
+          "venue": "御浪町ホール",
+          "venueAddress": "岐阜県岐阜市御浪町10番地 御浪ビル3F"
+        },
+        "scheduleInfo": {
+          "performances": [
+            {
+              "dateTime": "2026-12-26T15:00:00+09:00",
+              "notes": ""
+            },
+            {
+              "dateTime": "2026-12-26T19:00:00+09:00",
+              "notes": ""
+            },
+            {
+              "dateTime": "2026-12-27T15:00:00+09:00",
+              "notes": ""
+            }
+          ],
+          "runningTime": "約60分",
+          "doorsOpen": "開演30分前"
+        },
+        "ticketInfo": {
+          "prices": [
+            {
+              "type": "一般",
+              "advancePrice": 1800,
+              "doorPrice": 2000
+            },
+            {
+              "type": "学生U25",
+              "advancePrice": 1000,
+              "doorPrice": 1000
+            }
+          ],
+          "bookingUrls": []
+        },
+        "linksInfo": {
+          "relatedLinks": [],
+          "officialHp": "https://www.city.gifu.lg.jp/kankoubunka/event/1005353/1031076/1031173/1031172.html"
+        },
+        "miscInfo": {}
+      },
+      "rawPrices": [
+        {
+          "type": "一般",
+          "amount": 1800,
+          "priceTiming": "advance"
+        },
+        {
+          "type": "一般",
+          "amount": 2000,
+          "priceTiming": "door"
+        },
+        {
+          "type": "学生U25",
+          "amount": 1000,
+          "priceTiming": "advance"
+        },
+        {
+          "type": "学生U25",
+          "amount": 1000,
+          "priceTiming": "door"
+        }
+      ],
+      "rawData": {
+        "entryText": "はぴえん堂 第3回公演『ハナレ』 — 12/26（土）15:00／19:00、12/27（日）15:00、御浪町ホール（岐阜県岐阜市）。一般 前売1,800円、当日2,000円、学生U25 前売1,000円、学生U25 当日1,000円。約60分。開場は開演30分前。未就学児入場不可。",
+        "dateText": "12月26日（土）〜27日（日）",
+        "region": "岐阜県岐阜市",
+        "catalogId": "gifu-12-4",
+        "sourceType": "公式サイト"
+      }
+    },
+    {
+      "externalId": "muse-260088",
+      "catalogCategory": "main",
+      "collectedAt": "2026-11-13",
+      "verificationStatus": "verified",
+      "sources": [
+        {
+          "url": "https://busho-tai-blog.jp/wordpress/?p=31254",
+          "observedAt": "2026-11-13"
+        }
+      ],
+      "period": {
+        "startDate": "2026-12-27",
+        "endDate": "2026-12-27"
+      },
+      "playData": {
+        "mainInfo": {
+          "company": "名古屋おもてなし武将隊 第7回",
+          "performanceName": "演酣（えんもたけなわ）",
+          "performanceType": "single",
+          "plays": [
+            {
+              "title": "演酣（えんもたけなわ）"
+            }
+          ]
+        },
+        "venueInfo": {
+          "venue": "ナンジャーレ",
+          "venueAddress": "愛知県名古屋市中村区亀島2-26-5"
+        },
+        "scheduleInfo": {
+          "performances": [
+            {
+              "dateTime": "2026-12-27T15:00:00+09:00",
+              "notes": ""
+            },
+            {
+              "dateTime": "2026-12-27T18:30:00+09:00",
+              "notes": ""
+            }
+          ]
+        },
+        "ticketInfo": {
+          "prices": [],
+          "bookingUrls": []
+        },
+        "linksInfo": {
+          "relatedLinks": [],
+          "officialX": "https://x.com/nagoyabushotai",
+          "officialHp": "https://busho-tai-blog.jp/wordpress/?p=31254"
+        },
+        "miscInfo": {}
+      },
+      "rawPrices": [
+        {
+          "type": "料金",
+          "amount": 3500,
+          "priceTiming": "unknown"
+        }
+      ],
+      "rawData": {
+        "entryText": "名古屋おもてなし武将隊 第7回『演酣（えんもたけなわ）』 — （殺陣・舞・寸劇） 12/27 15:00／18:30、ナンジャーレ（中村区・亀島）。3,500円。",
+        "dateText": "12月27日（日）",
+        "region": "愛知県名古屋市",
+        "catalogId": "tuiho-12-12",
+        "sourceType": "公式サイト"
+      }
+    },
+    {
+      "externalId": "muse-260089",
+      "catalogCategory": "main",
+      "collectedAt": "2026-11-13",
+      "verificationStatus": "verified",
+      "sources": [
+        {
+          "url": "https://www.urinko.jp/pg6041354.html",
+          "observedAt": "2026-11-13"
+        }
+      ],
+      "period": {
+        "startDate": "2026-12-27",
+        "endDate": "2026-12-28"
+      },
+      "playData": {
+        "mainInfo": {
+          "company": "劇団うりんこ",
+          "performanceName": "『わたしとわたし、ぼくとぼく』千秋楽公演",
+          "performanceType": "single",
+          "plays": [
+            {
+              "title": "わたしとわたし、ぼくとぼく"
+            }
+          ]
+        },
+        "venueInfo": {
+          "venue": "うりんこ劇場",
+          "venueAddress": "愛知県名古屋市名東区八前一丁目112番地"
+        },
+        "scheduleInfo": {
+          "performances": [
+            {
+              "dateTime": "2026-12-27T14:00:00+09:00",
+              "notes": ""
+            },
+            {
+              "dateTime": "2026-12-28T10:30:00+09:00",
+              "notes": ""
+            },
+            {
+              "dateTime": "2026-12-28T14:00:00+09:00",
+              "notes": ""
+            }
+          ]
+        },
+        "ticketInfo": {
+          "prices": [],
+          "bookingUrls": []
+        },
+        "linksInfo": {
+          "relatedLinks": [],
+          "officialX": "https://x.com/urinkojp",
+          "officialHp": "https://www.urinko.jp/pg6041354.html"
+        },
+        "miscInfo": {}
+      },
+      "rawPrices": [
+        {
+          "type": "一般",
+          "amount": 2800,
+          "priceTiming": "unknown"
+        },
+        {
+          "type": "U-15",
+          "amount": 2300,
+          "priceTiming": "unknown"
+        }
+      ],
+      "rawData": {
+        "entryText": "劇団うりんこ『わたしとわたし、ぼくとぼく』千秋楽公演 — 12/27 14:00、12/28 10:30／14:00、うりんこ劇場。一般2,800円、U-15 2,300円。",
+        "dateText": "12月27日（日）〜28日（月）",
+        "region": "愛知県名古屋市",
+        "catalogId": "tuiho-12-11",
+        "sourceType": "公式サイト"
+      }
+    },
+    {
+      "externalId": "muse-260090",
+      "catalogCategory": "main",
+      "collectedAt": "2026-11-13",
+      "verificationStatus": "verified",
+      "sources": [
+        {
+          "url": "https://gekigassen2026.jimdofree.com",
+          "observedAt": "2026-11-13"
+        }
+      ],
+      "period": {
+        "startDate": "2026-12-29",
+        "endDate": "2026-12-31"
+      },
+      "playData": {
+        "mainInfo": {
+          "performanceName": "紅白劇合戦2026",
+          "performanceType": "multiple",
+          "plays": [
+            {
+              "title": "ディストーション・コンソレーション"
+            },
+            {
+              "title": "いつから、マホウは、どこから、"
+            },
+            {
+              "title": "死ぬ時に思い出さない今日という一日"
+            },
+            {
+              "title": "綺レ異ゴト"
+            },
+            {
+              "title": "ことしのおしまい"
+            },
+            {
+              "title": "コウハンでサイハン"
+            },
+            {
+              "title": "電気仕掛けの夜の果て"
+            },
+            {
+              "title": "とりませんか？流れゆく星を"
+            },
+            {
+              "title": "ぼくはハムスターじゃないのだ"
+            }
+          ]
+        },
+        "venueInfo": {
+          "venue": "七ツ寺共同スタジオ",
+          "venueAddress": "愛知県名古屋市中区大須2-27-20"
+        },
+        "scheduleInfo": {
+          "performances": [
+            {
+              "dateTime": "2026-12-29T19:00:00+09:00",
+              "notes": "A"
+            },
+            {
+              "dateTime": "2026-12-30T11:00:00+09:00",
+              "notes": "B"
+            },
+            {
+              "dateTime": "2026-12-30T15:00:00+09:00",
+              "notes": "A"
+            },
+            {
+              "dateTime": "2026-12-30T19:00:00+09:00",
+              "notes": "C"
+            },
+            {
+              "dateTime": "2026-12-31T11:00:00+09:00",
+              "notes": "C"
+            },
+            {
+              "dateTime": "2026-12-31T15:00:00+09:00",
+              "notes": "B"
+            }
+          ]
+        },
+        "ticketInfo": {
+          "prices": [],
+          "bookingUrls": []
+        },
+        "linksInfo": {
+          "relatedLinks": [],
+          "officialX": "https://x.com/gekigassen",
+          "officialHp": "https://gekigassen2026.jimdofree.com"
+        },
+        "miscInfo": {}
+      },
+      "rawPrices": [
+        {
+          "type": "一般",
+          "amount": 3500,
+          "priceTiming": "unknown"
+        },
+        {
+          "type": "学生",
+          "amount": 2800,
+          "priceTiming": "unknown"
+        }
+      ],
+      "rawData": {
+        "entryText": "紅白劇合戦2026 — （参加9団体、年末演劇フェスティバル） 12/29 19:00［A］、12/30 11:00［B］・15:00［A］・19:00［C］、12/31 11:00［C］・15:00［B］、七ツ寺共同スタジオ。一般3,500円、学生2,800円。ブロック構成：A＝劇団ハイエナ『ディストーション・コンソレーション』、作戦これぽっち『いつから、マホウは、どこから、』、ドニチでエンゲキ（出張版）『死ぬ時に思い出さない今日という一日』／B＝劇団嘘つきは僕らのはじまり『綺レ異ゴト』、紅白劇合戦オリジナルユニット『ことしのおしまい』、.ピリオド『コウハンでサイハン』／C＝劇団無彩色ときどき有彩色『電気仕掛けの夜の果て』、風天魚『とりませんか？流れゆく星を』、ゆっくん一座『ぼくはハムスターじゃないのだ』。",
+        "dateText": "12月29日（火）〜31日（木）",
+        "region": "愛知県名古屋市",
+        "catalogId": "tuiho-12-13",
+        "sourceType": "公式サイト"
+      }
+    },
+    {
+      "externalId": "muse-270006",
+      "catalogCategory": "main",
+      "collectedAt": "2026-11-18",
+      "verificationStatus": "unverified",
+      "sources": [
+        {
+          "url": "https://natalie.mu/stage/news/695535",
+          "observedAt": "2026-11-18"
+        }
+      ],
+      "period": {
+        "startDate": "2027-01-15",
+        "endDate": "2027-01-15"
+      },
+      "playData": {
+        "mainInfo": {
+          "company": "旅する劇ほお 第1回公演",
+          "performanceName": "木挽町のハロゲンランプ",
+          "performanceType": "single",
+          "plays": [
+            {
+              "title": "木挽町のハロゲンランプ",
+              "playwright": "尾﨑優人",
+              "director": "尾﨑優人",
+              "cast": "田中穂先"
+            }
+          ]
+        },
+        "venueInfo": {
+          "venue": "シアターココ",
+          "venueAddress": "愛知県名古屋市千種区池下1-11-11 スタチオン池下2階"
+        },
+        "scheduleInfo": {
+          "performances": [],
+          "scheduleDetails": "開演時刻は未確認のため個別日時は生成していない"
+        },
+        "ticketInfo": {
+          "prices": [],
+          "bookingUrls": []
+        },
+        "linksInfo": {
+          "relatedLinks": [
+            {
+              "title": "情報元",
+              "url": "https://natalie.mu/stage/news/695535"
+            }
+          ]
+        },
+        "miscInfo": {}
+      },
+      "rawPrices": [],
+      "rawData": {
+        "entryText": "旅する劇ほお 第1回公演『木挽町のハロゲンランプ』 — 1/15、シアターココ（千種区・池下）。作・演出：尾﨑優人、出演：田中穂先（一人芝居）。開演時刻・料金は未確認。",
+        "dateText": "1月15日（金）",
+        "region": "愛知県名古屋市",
+        "catalogId": "aichi-01-3",
+        "sourceType": "情報元"
+      }
+    },
+    {
+      "externalId": "muse-270009",
+      "catalogCategory": "main",
+      "collectedAt": "2026-11-18",
+      "verificationStatus": "verified",
+      "sources": [
+        {
+          "url": "https://urinko.jp/schedule.html",
+          "observedAt": "2026-11-18"
+        }
+      ],
+      "period": {
+        "startDate": "2027-01-23",
+        "endDate": "2027-01-24"
+      },
+      "playData": {
+        "mainInfo": {
+          "company": "劇団うりんこ",
+          "performanceName": "『クローゼットＱ』千秋楽公演",
+          "performanceType": "single",
+          "plays": [
+            {
+              "title": "クローゼットＱ"
+            }
+          ]
+        },
+        "venueInfo": {
+          "venue": "うりんこ劇場",
+          "venueAddress": "愛知県名古屋市名東区八前一丁目112番地"
+        },
+        "scheduleInfo": {
+          "performances": [
+            {
+              "dateTime": "2027-01-23T14:00:00+09:00",
+              "notes": ""
+            },
+            {
+              "dateTime": "2027-01-24T14:00:00+09:00",
+              "notes": ""
+            }
+          ]
+        },
+        "ticketInfo": {
+          "prices": [
+            {
+              "type": "一般",
+              "advancePrice": 3000,
+              "doorPrice": null
+            },
+            {
+              "type": "U-18",
+              "advancePrice": 2500,
+              "doorPrice": null
+            }
+          ],
+          "bookingUrls": [],
+          "ticketNotes": "当日料金は各区分+500円"
+        },
+        "linksInfo": {
+          "relatedLinks": [],
+          "officialX": "https://x.com/urinkojp",
+          "officialHp": "https://urinko.jp/schedule.html"
+        },
+        "miscInfo": {}
+      },
+      "rawPrices": [
+        {
+          "type": "一般",
+          "amount": 3000,
+          "priceTiming": "advance"
+        },
+        {
+          "type": "U-18",
+          "amount": 2500,
+          "priceTiming": "advance"
+        }
+      ],
+      "rawData": {
+        "entryText": "劇団うりんこ『クローゼットＱ』千秋楽公演 — 1/23 14:00、1/24 14:00、うりんこ劇場（名東区）。前売 一般3,000円／U-18 2,500円（当日＋500円）。",
+        "dateText": "1月23日（土）〜24日（日）",
+        "region": "愛知県名古屋市",
+        "catalogId": "aichi-01-5",
+        "sourceType": "公式サイト"
+      }
+    },
+    {
+      "externalId": "muse-270011",
+      "catalogCategory": "main",
+      "collectedAt": "2026-11-19",
+      "verificationStatus": "unverified",
+      "sources": [
+        {
+          "url": "https://teket.jp/2372/80432",
+          "observedAt": "2026-11-19"
+        }
+      ],
+      "period": {
+        "startDate": "2027-01-09",
+        "endDate": "2027-01-10"
+      },
+      "playData": {
+        "mainInfo": {
+          "company": "花咲",
+          "performanceName": "あしながおじさん〜影のなかのあなた〜",
+          "performanceType": "single",
+          "plays": [
+            {
+              "title": "あしながおじさん〜影のなかのあなた〜",
+              "playwright": "市岡貴子",
+              "director": "市岡貴子"
+            }
+          ]
+        },
+        "venueInfo": {
+          "venue": "中村文化小劇場",
+          "venueAddress": "愛知県名古屋市中村区中村町字茶ノ木25番地"
+        },
+        "scheduleInfo": {
+          "performances": [],
+          "scheduleDetails": "開演時刻は未確認のため個別日時は生成していない"
+        },
+        "ticketInfo": {
+          "prices": [],
+          "bookingUrls": [
+            {
+              "title": "チケット予約",
+              "url": "https://teket.jp/2372/80432"
+            }
+          ]
+        },
+        "linksInfo": {
+          "relatedLinks": []
+        },
+        "miscInfo": {}
+      },
+      "rawPrices": [],
+      "rawData": {
+        "entryText": "花咲『あしながおじさん〜影のなかのあなた〜』 — 1/9（土）・10（日）、中村文化小劇場。脚本・演出：市岡貴子。開演時刻・料金は未確認。",
+        "dateText": "1月9日（土）〜10日（日）",
+        "region": "愛知県名古屋市",
+        "catalogId": "ext16-0101"
+      }
+    },
+    {
+      "externalId": "muse-270012",
+      "catalogCategory": "main",
+      "collectedAt": "2026-11-19",
+      "verificationStatus": "verified",
+      "sources": [
+        {
+          "url": "https://akebonoza.net/270129play.html",
+          "observedAt": "2026-11-19"
+        }
+      ],
+      "period": {
+        "startDate": "2027-01-29",
+        "endDate": "2027-01-31"
+      },
+      "playData": {
+        "mainInfo": {
+          "company": "劇団こふく劇場",
+          "performanceName": "第18回公演『あした。』",
+          "performanceType": "single",
+          "plays": [
+            {
+              "title": "あした。",
+              "playwright": "永山智行",
+              "director": "永山智行",
+              "cast": "かみもと千春\n濵沙杲宏\n有村香澄\n池田孝彰\n篠原由樹"
+            }
+          ]
+        },
+        "venueInfo": {
+          "venue": "津あけぼの座",
+          "venueAddress": "三重県津市上浜町3丁目51"
+        },
+        "scheduleInfo": {
+          "performances": [
+            {
+              "dateTime": "2027-01-29T19:00:00+09:00",
+              "notes": ""
+            },
+            {
+              "dateTime": "2027-01-30T14:00:00+09:00",
+              "notes": ""
+            },
+            {
+              "dateTime": "2027-01-30T19:00:00+09:00",
+              "notes": ""
+            },
+            {
+              "dateTime": "2027-01-31T14:00:00+09:00",
+              "notes": ""
+            }
+          ]
+        },
+        "ticketInfo": {
+          "prices": [
+            {
+              "type": "一般",
+              "advancePrice": 3000,
+              "doorPrice": 3500
+            }
+          ],
+          "bookingUrls": []
+        },
+        "linksInfo": {
+          "relatedLinks": [],
+          "officialHp": "https://akebonoza.net/270129play.html"
+        },
+        "miscInfo": {}
+      },
+      "rawPrices": [
+        {
+          "type": "一般",
+          "amount": 3000,
+          "priceTiming": "advance"
+        },
+        {
+          "type": "一般",
+          "amount": 3500,
+          "priceTiming": "door"
+        },
+        {
+          "type": "U-25",
+          "amount": 2000,
+          "priceTiming": "unknown"
+        },
+        {
+          "type": "やさい割",
+          "amount": 2500,
+          "priceTiming": "unknown"
+        }
+      ],
+      "rawData": {
+        "entryText": "劇団こふく劇場 第18回公演『あした。』 — 1/29（金）19:00、1/30（土）14:00／19:00、1/31（日）14:00、津あけぼの座（三重県津市）。作・演出：永山智行。出演：かみもと千春、濵沙杲宏、有村香澄、池田孝彰、篠原由樹。一般 前売3,000円／当日3,500円、U-25 2,000円、やさい割2,500円（前売のみ）、全席自由。津あけぼの座開館20周年記念事業「Aゲキシリーズ」。宮崎県三股町を拠点とする劇団のツアー公演の津公演。",
+        "dateText": "1月29日（金）〜31日（日）",
+        "region": "三重県津市",
+        "catalogId": "ext16-0102",
+        "sourceType": "公式サイト"
+      }
+    },
+    {
+      "externalId": "muse-270013",
+      "catalogCategory": "main",
+      "collectedAt": "2026-11-19",
+      "verificationStatus": "unverified",
+      "sources": [
+        {
+          "url": "https://note.com/hot_clover1535/n/n78514627b8d7",
+          "observedAt": "2026-11-19"
+        }
+      ],
+      "period": {
+        "startDate": "2027-02-12",
+        "endDate": "2027-02-14"
+      },
+      "playData": {
+        "mainInfo": {
+          "company": "吉報",
+          "performanceName": "vol.5『とける』",
+          "performanceType": "single",
+          "plays": [
+            {
+              "title": "とける"
+            }
+          ]
+        },
+        "venueInfo": {
+          "venue": "G/PIT",
+          "venueAddress": "愛知県名古屋市中区栄1-23-30"
+        },
+        "scheduleInfo": {
+          "performances": [],
+          "scheduleDetails": "開演時刻は未確認のため個別日時は生成していない"
+        },
+        "ticketInfo": {
+          "prices": [],
+          "bookingUrls": []
+        },
+        "linksInfo": {
+          "relatedLinks": [
+            {
+              "title": "公演告知（note）",
+              "url": "https://note.com/hot_clover1535/n/n78514627b8d7"
+            }
+          ]
+        },
+        "miscInfo": {}
+      },
+      "rawPrices": [],
+      "rawData": {
+        "entryText": "吉報vol.5『とける』 — 2/12（金）〜14（日）、G/PIT（中区）。開演時刻・料金は未確認。老若男女未来学園・喜劇のヒロイン・劇団サカナデの3団体合同公演「吉報」の第5弾（3団体共通タイトル『とける』で各団体が作品を上演する形式）。",
+        "dateText": "2月12日（金）〜14日（日）",
+        "region": "愛知県名古屋市",
+        "catalogId": "ext16-0103",
+        "sourceType": "公演告知（note）"
+      }
+    },
+    {
+      "externalId": "muse-270014",
+      "catalogCategory": "main",
+      "collectedAt": "2026-11-19",
+      "verificationStatus": "unverified",
+      "sources": [
+        {
+          "url": "https://koubo.art-monosashi.com/koubo/yokkaichi_ginga_tetsudo_no_yoru_audition.html",
+          "observedAt": "2026-11-19"
+        }
+      ],
+      "period": {
+        "startDate": "2027-02-13",
+        "endDate": "2027-02-14"
+      },
+      "playData": {
+        "mainInfo": {
+          "company": "四日市市文化会館 市民参画型事業",
+          "performanceName": "劇場版『銀河鉄道の夜』",
+          "performanceType": "single",
+          "plays": [
+            {
+              "title": "銀河鉄道の夜",
+              "playwright": "宮澤賢治"
+            }
+          ]
+        },
+        "venueInfo": {
+          "venue": "四日市市文化会館 第2ホール",
+          "venueAddress": "三重県四日市市安島2丁目5-3"
+        },
+        "scheduleInfo": {
+          "performances": [],
+          "scheduleDetails": "開演時刻は未確認のため個別日時は生成していない"
+        },
+        "ticketInfo": {
+          "prices": [],
+          "bookingUrls": []
+        },
+        "linksInfo": {
+          "relatedLinks": [
+            {
+              "title": "公募情報サイト",
+              "url": "https://koubo.art-monosashi.com/koubo/yokkaichi_ginga_tetsudo_no_yoru_audition.html"
+            }
+          ]
+        },
+        "miscInfo": {}
+      },
+      "rawPrices": [],
+      "rawData": {
+        "entryText": "劇場版『銀河鉄道の夜』 — 2/13（土）・14（日）、四日市市文化会館 第2ホール（三重県四日市市）。開演時刻・料金は未確認。原作：宮澤賢治。四日市市文化まちづくり財団の市民参画型事業として、公募オーディションで選ばれた市民キャストとともに製作する劇場版（前年度のリーディング公演を発展させたもの）。",
+        "dateText": "2月13日（土）〜14日（日）",
+        "region": "三重県四日市市",
+        "catalogId": "ext16-0104",
+        "sourceType": "公募情報サイト"
+      }
+    },
+    {
+      "externalId": "muse-270015",
+      "catalogCategory": "main",
+      "collectedAt": "2026-11-19",
+      "verificationStatus": "verified",
+      "sources": [
+        {
+          "url": "https://www.bunka758.or.jp/about/archive/sougou/",
+          "observedAt": "2026-11-19"
+        }
+      ],
+      "period": {
+        "startDate": "2027-02-19",
+        "endDate": "2027-02-21"
+      },
+      "playData": {
+        "mainInfo": {
+          "company": "名古屋市文化振興事業団",
+          "performanceName": "2027年企画公演 ミュージカル『シークレット・ガーデン』",
+          "performanceType": "single",
+          "plays": [
+            {
+              "title": "シークレット・ガーデン",
+              "playwright": "F.H.バーネット『秘密の花園』"
+            }
+          ]
+        },
+        "venueInfo": {
+          "venue": "青少年文化センター アートピアホール",
+          "venueAddress": "愛知県名古屋市中区栄三丁目18番1号（ナディアパーク内、デザインセンタービル11階）"
+        },
+        "scheduleInfo": {
+          "performances": [
+            {
+              "dateTime": "2027-02-19T13:30:00+09:00",
+              "notes": ""
+            },
+            {
+              "dateTime": "2027-02-19T18:30:00+09:00",
+              "notes": ""
+            },
+            {
+              "dateTime": "2027-02-20T11:30:00+09:00",
+              "notes": ""
+            },
+            {
+              "dateTime": "2027-02-20T16:30:00+09:00",
+              "notes": ""
+            },
+            {
+              "dateTime": "2027-02-21T11:30:00+09:00",
+              "notes": ""
+            },
+            {
+              "dateTime": "2027-02-21T16:30:00+09:00",
+              "notes": ""
+            }
+          ]
+        },
+        "ticketInfo": {
+          "prices": [],
+          "bookingUrls": []
+        },
+        "linksInfo": {
+          "relatedLinks": [],
+          "officialHp": "https://www.bunka758.or.jp/about/archive/sougou/"
+        },
+        "miscInfo": {}
+      },
+      "rawPrices": [
+        {
+          "type": "S席",
+          "amount": 4500,
+          "priceTiming": "unknown"
+        },
+        {
+          "type": "A席",
+          "amount": 3500,
+          "priceTiming": "unknown"
+        }
+      ],
+      "rawData": {
+        "entryText": "名古屋市文化振興事業団 2027年企画公演 ミュージカル『シークレット・ガーデン』 — 2/19（金）13:30／18:30、2/20（土）11:30／16:30、2/21（日）11:30／16:30（全6公演）、青少年文化センター アートピアホール（中区・ナディアパーク11階）。S席4,500円／A席3,500円。原作：F.H.バーネット『秘密の花園』、脚本・作詞：マーシャ・ノーマン、音楽：ルーシー・サイモン、演出・振付：松本和宜、音楽監督・指揮：齋藤友香理。事業団の総合舞台芸術公演シリーズ第42作（オーディションでキャストを選出する地元製作ミュージカル）。",
+        "dateText": "2月19日（金）〜21日（日）",
+        "region": "愛知県名古屋市",
+        "catalogId": "ext16-0105",
+        "sourceType": "公式サイト"
+      }
+    },
+    {
+      "externalId": "muse-270016",
+      "catalogCategory": "main",
+      "collectedAt": "2026-11-19",
+      "verificationStatus": "unverified",
+      "sources": [
+        {
+          "url": "https://orangesta.wixsite.com/index",
+          "observedAt": "2026-11-19"
+        }
+      ],
+      "period": {
+        "startDate": "2027-02-19",
+        "endDate": "2027-02-23"
+      },
+      "playData": {
+        "mainInfo": {
+          "company": "オレンヂスタ",
+          "performanceName": "第12回公演『灰に眠れ』",
+          "performanceType": "single",
+          "plays": [
+            {
+              "title": "灰に眠れ",
+              "cast": "今津知也\n伊藤亜矢乃\n暁月セリナ ほか"
+            }
+          ]
+        },
+        "venueInfo": {
+          "venue": "七ツ寺共同スタジオ",
+          "venueAddress": "愛知県名古屋市中区大須2-27-20"
+        },
+        "scheduleInfo": {
+          "performances": [],
+          "scheduleDetails": "開演時刻は未確認のため個別日時は生成していない"
+        },
+        "ticketInfo": {
+          "prices": [],
+          "bookingUrls": []
+        },
+        "linksInfo": {
+          "relatedLinks": [],
+          "officialHp": "https://orangesta.wixsite.com/index"
+        },
+        "miscInfo": {}
+      },
+      "rawPrices": [],
+      "rawData": {
+        "entryText": "オレンヂスタ 第12回公演『灰に眠れ』 — 2/19（金）〜23（火・祝）、七ツ寺共同スタジオ（中区・大須）。開演時刻・料金は未確認（詳細は特設サイトで発表予定）。瀬戸の金継ぎ×落語×火山を題材にした物語。出演：今津知也、伊藤亜矢乃、暁月セリナ ほか。東京公演（3/12〜14）あり。",
+        "dateText": "2月19日（金）〜23日（火・祝）",
+        "region": "愛知県名古屋市",
+        "catalogId": "ext16-0106",
+        "sourceType": "公式サイト"
+      }
+    },
+    {
+      "externalId": "muse-270017",
+      "catalogCategory": "main",
+      "collectedAt": "2026-11-19",
+      "verificationStatus": "unverified",
+      "sources": [
+        {
+          "url": "https://www.hi-seco.com/",
+          "observedAt": "2026-11-19"
+        }
+      ],
+      "period": {
+        "startDate": "2027-02-19",
+        "endDate": "2027-02-21"
+      },
+      "playData": {
+        "mainInfo": {
+          "company": "南山大学演劇部「HI-SECO」企画",
+          "performanceName": "2026年度卒業公演"
+        },
+        "venueInfo": {
+          "venue": "G/PIT",
+          "venueAddress": "愛知県名古屋市中区栄1-23-30"
+        },
+        "scheduleInfo": {
+          "performances": [],
+          "scheduleDetails": "開演時刻は未確認のため個別日時は生成していない"
+        },
+        "ticketInfo": {
+          "prices": [],
+          "bookingUrls": []
+        },
+        "linksInfo": {
+          "relatedLinks": [],
+          "officialHp": "https://www.hi-seco.com/"
+        },
+        "miscInfo": {}
+      },
+      "rawPrices": [],
+      "rawData": {
+        "entryText": "南山大学演劇部「HI-SECO」企画 2026年度卒業公演 — 2/19（金）〜21（日）、G/PIT（中区）。作品名・開演時刻・料金は未確認。南山大学演劇部の卒業公演。",
+        "dateText": "2月19日（金）〜21日（日）",
+        "region": "愛知県名古屋市",
+        "catalogId": "ext16-0107",
+        "sourceType": "公式サイト"
+      }
+    },
+    {
+      "externalId": "muse-270018",
+      "catalogCategory": "main",
+      "collectedAt": "2026-11-19",
+      "verificationStatus": "unverified",
+      "sources": [
+        {
+          "url": "https://sun-music.jp/ntp/",
+          "observedAt": "2026-11-19"
+        }
+      ],
+      "period": {
+        "startDate": "2027-02-27",
+        "endDate": "2027-02-28"
+      },
+      "playData": {
+        "mainInfo": {
+          "company": "ナゴヤシアターパフォーマープロジェクト",
+          "performanceName": "第3期成果公演"
+        },
+        "venueInfo": {
+          "venue": "中村文化小劇場",
+          "venueAddress": "愛知県名古屋市中村区中村町字茶ノ木25番地"
+        },
+        "scheduleInfo": {
+          "performances": [],
+          "scheduleDetails": "開演時刻は未確認のため個別日時は生成していない"
+        },
+        "ticketInfo": {
+          "prices": [],
+          "bookingUrls": []
+        },
+        "linksInfo": {
+          "relatedLinks": [
+            {
+              "title": "プロジェクト公式ページ",
+              "url": "https://sun-music.jp/ntp/"
+            }
+          ]
+        },
+        "miscInfo": {}
+      },
+      "rawPrices": [],
+      "rawData": {
+        "entryText": "ナゴヤシアターパフォーマープロジェクト 第3期成果公演 — 2/27（土）・28（日）、中村文化小劇場（中村区）。作品名・開演時刻・料金は未確認（有料公演）。名古屋市文化振興事業団主催、テレビ愛知（企画・原案）・サンミュージック名古屋協力。11〜25歳の市民公募キャストによる育成プロジェクトの成果公演（講師：八代将弥、おぐりまさこ ほか）。",
+        "dateText": "2月27日（土）〜28日（日）",
+        "region": "愛知県名古屋市",
+        "catalogId": "ext16-0108",
+        "sourceType": "プロジェクト公式ページ"
+      }
+    },
+    {
+      "externalId": "muse-270036",
+      "catalogCategory": "main",
+      "collectedAt": "2026-11-22",
+      "verificationStatus": "verified",
+      "sources": [
+        {
+          "url": "https://akebonoza.net/20270116play.html",
+          "observedAt": "2026-11-22"
+        }
+      ],
+      "period": {
+        "startDate": "2027-01-16",
+        "endDate": "2027-01-17"
+      },
+      "playData": {
+        "mainInfo": {
+          "company": "下鴨車窓",
+          "performanceName": "マクマモタイキデ",
+          "performanceType": "single",
+          "plays": [
+            {
+              "title": "マクマモタイキデ",
+              "playwright": "田辺剛",
+              "director": "田辺剛",
+              "cast": "岡田菜見\n福井菜月"
+            }
+          ]
+        },
+        "venueInfo": {
+          "venue": "津あけぼの座",
+          "venueAddress": "三重県津市上浜町3丁目51"
+        },
+        "scheduleInfo": {
+          "performances": []
+        },
+        "ticketInfo": {
+          "prices": [],
+          "bookingUrls": []
+        },
+        "linksInfo": {
+          "relatedLinks": [],
+          "officialHp": "https://akebonoza.net/20270116play.html"
+        },
+        "miscInfo": {}
+      },
+      "rawPrices": [
+        {
+          "type": "一般",
+          "amount": 3000,
+          "priceTiming": "unknown"
+        },
+        {
+          "type": "25歳以下）",
+          "amount": 2000,
+          "priceTiming": "unknown"
+        },
+        {
+          "type": "試演会参加者",
+          "amount": 1000,
+          "priceTiming": "unknown"
+        },
+        {
+          "type": "13:00",
+          "amount": 1000,
+          "priceTiming": "unknown"
+        }
+      ],
+      "rawData": {
+        "entryText": "下鴨車窓『マクマモタイキデ』 — 1/16（土）19:00、1/17（日）13:00、津あけぼの座（三重県津市）。脚本・演出：田辺剛、出演：岡田菜見、福井菜月。一般3,000円、ユース（25歳以下）2,000円、試演会参加者1,000円。津あけぼの座開館20周年記念事業「Aゲキシリーズ」。1/16は終演後トークゲストあり。関連企画：稽古場見学会1/6〜8各19:00〜20:00（無料）・試演会1/9 19:00／1/10 13:00（1,000円）、四日市市三浜文化会館 練習室D。",
+        "dateText": "1月16日（土）〜17日（日）",
+        "region": "三重県津市",
+        "catalogId": "wk1122-03",
+        "sourceType": "公式サイト"
+      }
+    },
+    {
+      "externalId": "muse-270045",
+      "catalogCategory": "main",
+      "collectedAt": "2026-11-22",
+      "verificationStatus": "unverified",
+      "sources": [
+        {
+          "url": "https://meniconart.or.jp/aoi_info/lineup2026/",
+          "observedAt": "2026-11-22"
+        }
+      ],
+      "period": {
+        "startDate": "2027-03-12",
+        "endDate": "2027-03-14"
+      },
+      "playData": {
+        "mainInfo": {
+          "company": "メニコン シアターAoi",
+          "performanceName": "芸術監督作品『欲望という名の電車』",
+          "performanceType": "single",
+          "plays": [
+            {
+              "title": "欲望という名の電車",
+              "director": "山口茜"
+            }
+          ]
+        },
+        "venueInfo": {
+          "venue": "メニコン シアターAoi",
+          "venueAddress": "愛知県名古屋市中区葵三丁目21番19号（Menicon Theater Aoi Bldg.内）"
+        },
+        "scheduleInfo": {
+          "performances": [],
+          "scheduleDetails": "開演時刻は未確認のため個別日時は生成していない"
+        },
+        "ticketInfo": {
+          "prices": [],
+          "bookingUrls": []
+        },
+        "linksInfo": {
+          "relatedLinks": [],
+          "officialHp": "https://meniconart.or.jp/aoi_info/lineup2026/"
+        },
+        "miscInfo": {}
+      },
+      "rawPrices": [],
+      "rawData": {
+        "entryText": "メニコン シアターAoi 芸術監督作品『欲望という名の電車』 — 3/12（金）〜14（日）、メニコン シアターAoi（中区）。テネシー・ウィリアムズ作、演出：山口茜、東海圏の俳優と共に上演。開演時刻・料金は未確認。",
+        "dateText": "3月12日（金）〜14日（日）",
+        "region": "愛知県名古屋市",
+        "catalogId": "wk1122-12",
+        "sourceType": "公式サイト"
+      }
+    },
+    {
+      "externalId": "muse-260093",
+      "catalogCategory": "main",
+      "collectedAt": "2026-11-22",
+      "verificationStatus": "unverified",
+      "sources": [
+        {
+          "url": "https://www.asahi.com/articles/ASVCN46Q2VCNOIPE00DM.html?iref=ogimage_rek",
+          "observedAt": "2026-11-22"
+        }
+      ],
+      "period": {
+        "startDate": "2026-12-02",
+        "endDate": "2026-12-06"
+      },
+      "playData": {
+        "mainInfo": {
+          "company": "七ツ寺企画",
+          "performanceName": "ルーフノック －五一日間続いたもやの中で－",
+          "performanceType": "single",
+          "plays": [
+            {
+              "title": "ルーフノック －五一日間続いたもやの中で－",
+              "director": "加藤智宏"
+            }
+          ]
+        },
+        "venueInfo": {
+          "venue": "円頓寺Les Piliers",
+          "venueAddress": "愛知県名古屋市西区那古野1-18-2"
+        },
+        "scheduleInfo": {
+          "performances": [
+            {
+              "dateTime": "2026-12-02T19:30:00+09:00",
+              "notes": ""
+            },
+            {
+              "dateTime": "2026-12-03T19:30:00+09:00",
+              "notes": ""
+            },
+            {
+              "dateTime": "2026-12-04T19:30:00+09:00",
+              "notes": ""
+            },
+            {
+              "dateTime": "2026-12-05T15:00:00+09:00",
+              "notes": ""
+            },
+            {
+              "dateTime": "2026-12-05T19:30:00+09:00",
+              "notes": ""
+            },
+            {
+              "dateTime": "2026-12-06T11:00:00+09:00",
+              "notes": ""
+            },
+            {
+              "dateTime": "2026-12-06T15:00:00+09:00",
+              "notes": ""
+            }
+          ]
+        },
+        "ticketInfo": {
+          "prices": [
+            {
+              "type": "一般",
+              "advancePrice": 3000,
+              "doorPrice": 3500
+            },
+            {
+              "type": "学生",
+              "advancePrice": 2000,
+              "doorPrice": 2500
+            }
+          ],
+          "bookingUrls": []
+        },
+        "linksInfo": {
+          "relatedLinks": [
+            {
+              "title": "朝日新聞",
+              "url": "https://www.asahi.com/articles/ASVCN46Q2VCNOIPE00DM.html?iref=ogimage_rek"
+            }
+          ]
+        },
+        "miscInfo": {}
+      },
+      "rawPrices": [
+        {
+          "type": "一般",
+          "amount": 3000,
+          "priceTiming": "advance"
+        },
+        {
+          "type": "一般",
+          "amount": 3500,
+          "priceTiming": "door"
+        },
+        {
+          "type": "学生",
+          "amount": 2000,
+          "priceTiming": "advance"
+        },
+        {
+          "type": "学生",
+          "amount": 2500,
+          "priceTiming": "door"
+        }
+      ],
+      "rawData": {
+        "entryText": "七ツ寺企画『ルーフノック －五一日間続いたもやの中で－』 — 12/2（水）19:30、12/3（木）19:30、12/4（金）19:30、12/5（土）15:00／19:30、12/6（日）11:00／15:00、円頓寺Les Piliers（名古屋市西区）。手記集『ガザの光――炎の中から届く声』に収録された回顧録『五一日間続いたもやの中で』を舞台化。演出：加藤智宏。一般 前売3,000円、当日3,500円、学生 前売2,000円、学生 当日2,500円。12/5の19:30の回は終演後にアフタートークあり。上演時間は未確認。",
+        "dateText": "12月2日（水）〜6日（日）",
+        "region": "愛知県名古屋市",
+        "catalogId": "wk1122-13",
+        "sourceType": "朝日新聞"
+      }
+    },
+    {
+      "externalId": "muse-260094",
+      "catalogCategory": "main",
+      "collectedAt": "2026-11-22",
+      "verificationStatus": "unverified",
+      "sources": [
+        {
+          "url": "https://www.instagram.com/p/Df_U0sbEbaC/",
+          "observedAt": "2026-11-22"
+        }
+      ],
+      "period": {
+        "startDate": "2026-12-18",
+        "endDate": "2026-12-20"
+      },
+      "playData": {
+        "mainInfo": {
+          "company": "fuzzy m. Arts No.033",
+          "performanceName": "マチマチのマッチマッチのマチ",
+          "performanceType": "single",
+          "plays": [
+            {
+              "title": "マチマチのマッチマッチのマチ",
+              "playwright": "石田まさかづ",
+              "director": "石田まさかづ"
+            }
+          ]
+        },
+        "venueInfo": {
+          "venue": "シアターココ",
+          "venueAddress": "愛知県名古屋市千種区池下1-11-11 スタチオン池下2階"
+        },
+        "scheduleInfo": {
+          "performances": [
+            {
+              "dateTime": "2026-12-18T19:30:00+09:00",
+              "notes": ""
+            },
+            {
+              "dateTime": "2026-12-19T13:00:00+09:00",
+              "notes": ""
+            },
+            {
+              "dateTime": "2026-12-19T17:00:00+09:00",
+              "notes": ""
+            },
+            {
+              "dateTime": "2026-12-20T11:00:00+09:00",
+              "notes": ""
+            },
+            {
+              "dateTime": "2026-12-20T15:00:00+09:00",
+              "notes": ""
+            }
+          ]
+        },
+        "ticketInfo": {
+          "prices": [],
+          "bookingUrls": [
+            {
+              "title": "チケット予約",
+              "url": "https://forms.gle/857qF3kbcyVnT47y6"
+            }
+          ]
+        },
+        "linksInfo": {
+          "relatedLinks": [
+            {
+              "title": "Instagram",
+              "url": "https://www.instagram.com/p/Df_U0sbEbaC/"
+            }
+          ],
+          "officialX": "https://x.com/fuzzy_fc"
+        },
+        "miscInfo": {}
+      },
+      "rawPrices": [
+        {
+          "type": "一般",
+          "amount": 2000,
+          "priceTiming": "unknown"
+        },
+        {
+          "type": "U25",
+          "amount": 1000,
+          "priceTiming": "unknown"
+        },
+        {
+          "type": "U18",
+          "amount": 500,
+          "priceTiming": "unknown"
+        }
+      ],
+      "rawData": {
+        "entryText": "fuzzy m. Arts No.033『マチマチのマッチマッチのマチ』 — 12/18（金）19:30、12/19（土）13:00／17:00、12/20（日）11:00／15:00、シアターココ（千種区・池下）。作・演出：石田まさかづ。一般2,000円、U25 1,000円、U18 500円。上演時間は未確認。",
+        "dateText": "12月18日（金）〜20日（日）",
+        "region": "愛知県名古屋市",
+        "catalogId": "wk1122-14",
+        "sourceType": "Instagram"
+      }
+    }
+  ]
+}
