@@ -1,12 +1,12 @@
 {
   "schemaVersion": "1",
   "dataSource": "muse",
-  "exportedAt": "2026-11-22T11:46:39+09:00",
+  "exportedAt": "2026-11-23T21:34:46+09:00",
   "catalogCounts": {
-    "main": 80,
+    "main": 82,
     "reference": 0,
     "needs_review": 0,
-    "total": 80
+    "total": 82
   },
   "items": [
     {
@@ -6917,6 +6917,176 @@
         "region": "愛知県名古屋市",
         "catalogId": "wk1122-14",
         "sourceType": "Instagram"
+      }
+    },
+    {
+      "externalId": "muse-260095",
+      "catalogCategory": "main",
+      "collectedAt": "2026-11-23",
+      "verificationStatus": "unverified",
+      "sources": [
+        {
+          "url": "https://cul-toyota.or.jp/shimin_bunka/wp-content/uploads/2026/10/EventR8.11_4.pdf",
+          "observedAt": "2026-11-23"
+        }
+      ],
+      "period": {
+        "startDate": "2026-12-05",
+        "endDate": "2026-12-05"
+      },
+      "playData": {
+        "mainInfo": {
+          "company": "劇団栞ちゃんのしおり",
+          "performanceName": "2つの視点と3つの話",
+          "performanceType": "single",
+          "plays": [
+            {
+              "title": "2つの視点と3つの話"
+            }
+          ]
+        },
+        "venueInfo": {
+          "venue": "豊田市民文化会館 多目的ホール",
+          "venueAddress": "愛知県豊田市小坂町12丁目100"
+        },
+        "scheduleInfo": {
+          "performances": [
+            {
+              "dateTime": "2026-12-05T14:00:00+09:00",
+              "notes": ""
+            },
+            {
+              "dateTime": "2026-12-05T17:00:00+09:00",
+              "notes": ""
+            }
+          ]
+        },
+        "ticketInfo": {
+          "prices": [],
+          "bookingUrls": [
+            {
+              "title": "チケット予約",
+              "url": "https://docs.google.com/forms/d/e/1FAIpQLSfoQDrHClXBWlz5RY9ljvlxA3kNoDPx9d0-1snAlKz_Vd-xdw/viewform"
+            }
+          ]
+        },
+        "linksInfo": {
+          "relatedLinks": [
+            {
+              "title": "会場公式ガイド",
+              "url": "https://cul-toyota.or.jp/shimin_bunka/wp-content/uploads/2026/10/EventR8.11_4.pdf"
+            }
+          ],
+          "officialX": "https://x.com/shiorichan2141"
+        },
+        "miscInfo": {}
+      },
+      "rawPrices": [
+        {
+          "type": "一般・学生",
+          "amount": 1000,
+          "priceTiming": "unknown"
+        }
+      ],
+      "rawData": {
+        "entryText": "劇団栞ちゃんのしおり『2つの視点と3つの話』 — 12/5（土）14:00／17:00、豊田市民文化会館 多目的ホール（豊田市）。「EX公演」。新作短編3作品で構成する『2つの視点と3つの話』。客席を赤と青に分け、双方の客席で物語の見え方が異なる実験的な舞台。一般・学生1,000円。予約は客席（赤・青）ごとのフォーム。上演時間は未確認。",
+        "dateText": "12月5日（土）",
+        "region": "愛知県豊田市",
+        "catalogId": "wk1123-01",
+        "sourceType": "会場公式ガイド"
+      }
+    },
+    {
+      "externalId": "muse-260096",
+      "catalogCategory": "main",
+      "collectedAt": "2026-11-23",
+      "verificationStatus": "unverified",
+      "sources": [
+        {
+          "url": "https://www.gekidanhaguruma.com/",
+          "observedAt": "2026-11-23"
+        }
+      ],
+      "period": {
+        "startDate": "2026-12-06",
+        "endDate": "2026-12-06"
+      },
+      "playData": {
+        "mainInfo": {
+          "company": "劇団はぐるま",
+          "performanceName": "グスコーブドリの伝記",
+          "performanceType": "single",
+          "plays": [
+            {
+              "title": "グスコーブドリの伝記",
+              "playwright": "宮沢賢治",
+              "director": "なみ悟朗）"
+            }
+          ]
+        },
+        "venueInfo": {
+          "venue": "ぎふ清流文化プラザ 長良川ホール",
+          "venueAddress": "岐阜県岐阜市学園町3-42"
+        },
+        "scheduleInfo": {
+          "performances": [
+            {
+              "dateTime": "2026-12-06T10:30:00+09:00",
+              "notes": ""
+            },
+            {
+              "dateTime": "2026-12-06T14:00:00+09:00",
+              "notes": ""
+            }
+          ],
+          "runningTime": "30分",
+          "doorsOpen": "開演30分前"
+        },
+        "ticketInfo": {
+          "prices": [
+            {
+              "type": "一般",
+              "advancePrice": 2500,
+              "doorPrice": 2700
+            }
+          ],
+          "bookingUrls": [
+            {
+              "title": "チケット予約",
+              "url": "https://shibai-engine.net/prism/pc/webform.php?d=dkf8vhbw"
+            }
+          ]
+        },
+        "linksInfo": {
+          "relatedLinks": [],
+          "officialX": "https://x.com/GekidanHaguruma",
+          "officialHp": "https://www.gekidanhaguruma.com/"
+        },
+        "miscInfo": {}
+      },
+      "rawPrices": [
+        {
+          "type": "一般",
+          "amount": 2500,
+          "priceTiming": "advance"
+        },
+        {
+          "type": "一般",
+          "amount": 2700,
+          "priceTiming": "door"
+        },
+        {
+          "type": "学生",
+          "amount": 500,
+          "priceTiming": "unknown"
+        }
+      ],
+      "rawData": {
+        "entryText": "劇団はぐるま『グスコーブドリの伝記』 — 12/6（日）10:30／14:00、ぎふ清流文化プラザ 長良川ホール（岐阜市）。「みんなの演劇シリーズ」劇団はぐるま第150回公演。ミュージカル『グスコーブドリの伝記』（原作：宮沢賢治、脚本：いずみ凜、演出：なみ悟朗）。主催：（公財）岐阜県教育文化財団、共催：NPO法人劇団はぐるま。一般 前売2,500円、当日2,700円、学生500円。全席自由。開場は開演30分前。タブレット字幕公演あり。未就学児入場不可。上演時間は未確認。",
+        "dateText": "12月6日（日）",
+        "region": "岐阜県岐阜市",
+        "catalogId": "wk1123-02",
+        "sourceType": "公式サイト"
       }
     }
   ]
