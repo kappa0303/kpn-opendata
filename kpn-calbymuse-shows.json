@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1",
   "dataSource": "muse",
-  "exportedAt": "2026-11-23T21:38:18+09:00",
+  "exportedAt": "2026-11-24T00:14:57+09:00",
   "catalogCounts": {
     "main": 84,
     "reference": 0,
@@ -1670,12 +1670,7 @@
           "bookingUrls": []
         },
         "linksInfo": {
-          "relatedLinks": [
-            {
-              "title": "Instagram",
-              "url": "https://www.instagram.com/p/DfPmaulD7IH/"
-            }
-          ],
+          "relatedLinks": [],
           "officialX": "https://x.com/Yumetsudzuki"
         },
         "miscInfo": {}
@@ -2694,7 +2689,7 @@
       },
       "playData": {
         "mainInfo": {
-          "company": "デリシャスポークス 第7回公演",
+          "company": "デリシャスポークズ 第7回公演",
           "performanceName": "ゼロ・ポジション",
           "performanceType": "single",
           "plays": [
@@ -2728,12 +2723,8 @@
           "bookingUrls": []
         },
         "linksInfo": {
-          "relatedLinks": [
-            {
-              "title": "Instagram",
-              "url": "https://www.instagram.com/p/DebkWVcn3Xg/"
-            }
-          ]
+          "relatedLinks": [],
+          "officialX": "https://x.com/deliciousporks1"
         },
         "miscInfo": {}
       },
@@ -2745,7 +2736,7 @@
         }
       ],
       "rawData": {
-        "entryText": "デリシャスポークス 第7回公演『ゼロ・ポジション』 — 12/3 19:00、12/4 14:00／19:00、愛知県芸術劇場 大リハーサル室（東区）。4,000〜5,500円。",
+        "entryText": "デリシャスポークズ 第7回公演『ゼロ・ポジション』 — 12/3 19:00、12/4 14:00／19:00、愛知県芸術劇場 大リハーサル室（東区）。4,000〜5,500円。",
         "dateText": "12月3日（木）〜4日（金）",
         "region": "愛知県名古屋市",
         "catalogId": "aichi-12-2",
