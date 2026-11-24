@@ -1,12 +1,12 @@
 {
   "schemaVersion": "1",
   "dataSource": "muse",
-  "exportedAt": "2026-11-25T05:09:52+09:00",
+  "exportedAt": "2026-11-25T07:45:01+09:00",
   "catalogCounts": {
-    "main": 84,
+    "main": 85,
     "reference": 0,
     "needs_review": 0,
-    "total": 84
+    "total": 85
   },
   "items": [
     {
@@ -7311,6 +7311,131 @@
         "region": "愛知県名古屋市",
         "catalogId": "wk1123-04",
         "sourceType": "公式予約ページ"
+      }
+    },
+    {
+      "externalId": "muse-260099",
+      "catalogCategory": "main",
+      "collectedAt": "2026-11-25",
+      "verificationStatus": "unverified",
+      "sources": [
+        {
+          "url": "https://x.com/Shinema24",
+          "observedAt": "2026-11-25"
+        }
+      ],
+      "period": {
+        "startDate": "2026-12-11",
+        "endDate": "2026-12-13"
+      },
+      "playData": {
+        "mainInfo": {
+          "company": "はぴねすシネマ24",
+          "performanceName": "グランクアップ",
+          "performanceType": "single",
+          "plays": [
+            {
+              "title": "グランクアップ"
+            }
+          ]
+        },
+        "venueInfo": {
+          "venue": "PICO2",
+          "venueAddress": "愛知県名古屋市北区山田1-1-43"
+        },
+        "scheduleInfo": {
+          "performances": [
+            {
+              "dateTime": "2026-12-11T19:00:00+09:00",
+              "notes": ""
+            },
+            {
+              "dateTime": "2026-12-12T15:00:00+09:00",
+              "notes": ""
+            },
+            {
+              "dateTime": "2026-12-12T19:00:00+09:00",
+              "notes": ""
+            },
+            {
+              "dateTime": "2026-12-13T11:00:00+09:00",
+              "notes": ""
+            },
+            {
+              "dateTime": "2026-12-13T15:00:00+09:00",
+              "notes": ""
+            }
+          ]
+        },
+        "ticketInfo": {
+          "prices": [
+            {
+              "type": "一般",
+              "advancePrice": 1000,
+              "doorPrice": 1500
+            },
+            {
+              "type": "22歳以下",
+              "advancePrice": 800,
+              "doorPrice": 1300
+            },
+            {
+              "type": "高校生以下",
+              "advancePrice": 500,
+              "doorPrice": 1000
+            }
+          ],
+          "bookingUrls": []
+        },
+        "linksInfo": {
+          "relatedLinks": [
+            {
+              "title": "公式X",
+              "url": "https://x.com/Shinema24"
+            }
+          ],
+          "officialX": "https://x.com/Shinema24"
+        },
+        "miscInfo": {}
+      },
+      "rawPrices": [
+        {
+          "type": "一般",
+          "amount": 1000,
+          "priceTiming": "advance"
+        },
+        {
+          "type": "一般",
+          "amount": 1500,
+          "priceTiming": "door"
+        },
+        {
+          "type": "22歳以下",
+          "amount": 800,
+          "priceTiming": "advance"
+        },
+        {
+          "type": "22歳以下",
+          "amount": 1300,
+          "priceTiming": "door"
+        },
+        {
+          "type": "高校生以下",
+          "amount": 500,
+          "priceTiming": "advance"
+        },
+        {
+          "type": "高校生以下",
+          "amount": 1000,
+          "priceTiming": "door"
+        }
+      ],
+      "rawData": {
+        "entryText": "はぴねすシネマ24『グランクアップ』 — 12/11（金）19:00、12/12（土）15:00／19:00、12/13（日）11:00／15:00、PICO2（北区・大曽根）。第5回公演。短編5作品のオムニバス：『黄色いH』『薫習』『バミリの悪魔』『《紙芝居》吊るの恩返し』ほか、幕間企画あり。一般 前売1,000円、当日1,500円、22歳以下 前売800円、22歳以下 当日1,300円、高校生以下 前売500円、高校生以下 当日1,000円。上演時間は未確認。",
+        "dateText": "12月11日（金）〜13日（日）",
+        "region": "愛知県名古屋市",
+        "catalogId": "wk1125-01",
+        "sourceType": "公式X"
       }
     }
   ]
