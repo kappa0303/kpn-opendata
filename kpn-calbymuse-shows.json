@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1",
   "dataSource": "muse",
-  "exportedAt": "2026-11-25T07:45:01+09:00",
+  "exportedAt": "2026-11-25T18:59:45+09:00",
   "catalogCounts": {
     "main": 85,
     "reference": 0,
@@ -2220,11 +2220,18 @@
               "dateTime": "2026-11-29T16:00:00+09:00",
               "notes": ""
             }
-          ]
+          ],
+          "runningTime": "約60分",
+          "doorsOpen": "開演30分前"
         },
         "ticketInfo": {
           "prices": [],
-          "bookingUrls": []
+          "bookingUrls": [
+            {
+              "title": "チケット予約",
+              "url": "https://livepocket.jp/e/kappa2026"
+            }
+          ]
         },
         "linksInfo": {
           "relatedLinks": [
@@ -2261,7 +2268,7 @@
         }
       ],
       "rawData": {
-        "entryText": "老若男女未来学園『現代河童都心に現る』 — 11/28 12:00／15:00／18:00、11/29 13:00／16:00、SLOW ART CENTER NAGOYA（中区・栄）。一般2,500円、U22 1,000円。障がい者手帳提示で無料（同伴1名無料）。",
+        "entryText": "老若男女未来学園『現代河童都心に現る』 — 11/28 12:00／15:00／18:00、11/29 13:00／16:00、SLOW ART CENTER NAGOYA（中区・栄）。一般2,500円、U22 1,000円。障がい者手帳提示で無料（同伴1名無料）。上演時間は約60分。開場は開演30分前。",
         "dateText": "11月28日（土）〜29日（日）",
         "region": "愛知県名古屋市",
         "catalogId": "aichi-11-13",
@@ -7085,7 +7092,7 @@
       "externalId": "muse-260097",
       "catalogCategory": "main",
       "collectedAt": "2026-11-23",
-      "verificationStatus": "unverified",
+      "verificationStatus": "verified",
       "sources": [
         {
           "url": "https://www.instagram.com/p/DeHJ9t1kjfo/",
@@ -7112,12 +7119,33 @@
           "venueAddress": "愛知県名古屋市中村区那古野1丁目38-13"
         },
         "scheduleInfo": {
-          "performances": [],
-          "scheduleDetails": "開演時刻は未確認のため個別日時は生成していない"
+          "performances": [
+            {
+              "dateTime": "2026-12-12T15:00:00+09:00",
+              "notes": ""
+            },
+            {
+              "dateTime": "2026-12-12T19:00:00+09:00",
+              "notes": ""
+            },
+            {
+              "dateTime": "2026-12-13T11:30:00+09:00",
+              "notes": ""
+            },
+            {
+              "dateTime": "2026-12-13T15:00:00+09:00",
+              "notes": ""
+            }
+          ]
         },
         "ticketInfo": {
           "prices": [],
-          "bookingUrls": []
+          "bookingUrls": [
+            {
+              "title": "チケット予約",
+              "url": "https://www.quartet-online.net/ticket/machikado2026"
+            }
+          ]
         },
         "linksInfo": {
           "relatedLinks": [
@@ -7138,7 +7166,7 @@
         }
       ],
       "rawData": {
-        "entryText": "劇団ゆきやなぎ『まちかど演劇企画』 — 12/12（土）・12/13（日）、彳亍（てきちょく）（中村区・那古野）。「気軽に演劇ができる・観られる」がコンセプトの企画。上演作は『カワ廻る』『青鬼の褌を洗う女』『かみあそび』。料金1,000円。開演時刻は未確認。",
+        "entryText": "劇団ゆきやなぎ『まちかど演劇企画』 — 12/12（土）15:00／19:00、12/13（日）11:30／15:00、彳亍（てきちょく）（中村区・那古野）。「気軽に演劇ができる・観られる」がコンセプトの企画。各回の上演作は、12/12 15:00『カワ廻る』、12/12 19:00『青鬼の褌を洗う女』、12/13 11:30『青鬼の褌を洗う女』、12/13 15:00『かみあそび』。『青鬼の褌を洗う女』は12/12 19:00が千恵ver.、12/13 11:30がふくねver.（ver.の区別は団体の投稿文に基づく）。料金1,000円。",
         "dateText": "12月12日（土）・13日（日）",
         "region": "愛知県名古屋市",
         "catalogId": "wk1123-03",
