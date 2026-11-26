@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1",
   "dataSource": "muse",
-  "exportedAt": "2026-11-25T18:59:45+09:00",
+  "exportedAt": "2026-11-26T09:38:09+09:00",
   "catalogCounts": {
     "main": 85,
     "reference": 0,
@@ -11,6 +11,7 @@
   "items": [
     {
       "externalId": "muse-260002",
+      "kpnShowId": "d3e86218-1dfc-4caa-a61b-7de91f0f55f7",
       "catalogCategory": "main",
       "collectedAt": "2026-11-13",
       "verificationStatus": "unverified",
@@ -90,6 +91,7 @@
     },
     {
       "externalId": "muse-260003",
+      "kpnShowId": "55800396-b983-421d-9be9-2b38fb55b469",
       "catalogCategory": "main",
       "collectedAt": "2026-11-17",
       "verificationStatus": "verified",
@@ -185,6 +187,7 @@
     },
     {
       "externalId": "muse-260004",
+      "kpnShowId": null,
       "catalogCategory": "main",
       "collectedAt": "2026-11-13",
       "verificationStatus": "verified",
@@ -270,6 +273,7 @@
     },
     {
       "externalId": "muse-260006",
+      "kpnShowId": null,
       "catalogCategory": "main",
       "collectedAt": "2026-11-13",
       "verificationStatus": "verified",
@@ -346,6 +350,7 @@
     },
     {
       "externalId": "muse-260007",
+      "kpnShowId": null,
       "catalogCategory": "main",
       "collectedAt": "2026-11-13",
       "verificationStatus": "verified",
@@ -460,6 +465,7 @@
     },
     {
       "externalId": "muse-260008",
+      "kpnShowId": null,
       "catalogCategory": "main",
       "collectedAt": "2026-11-13",
       "verificationStatus": "verified",
@@ -529,6 +535,7 @@
     },
     {
       "externalId": "muse-260009",
+      "kpnShowId": null,
       "catalogCategory": "main",
       "collectedAt": "2026-11-17",
       "verificationStatus": "verified",
@@ -624,6 +631,7 @@
     },
     {
       "externalId": "muse-260010",
+      "kpnShowId": null,
       "catalogCategory": "main",
       "collectedAt": "2026-11-13",
       "verificationStatus": "verified",
@@ -687,6 +695,7 @@
     },
     {
       "externalId": "muse-260011",
+      "kpnShowId": null,
       "catalogCategory": "main",
       "collectedAt": "2026-11-17",
       "verificationStatus": "unverified",
@@ -750,6 +759,7 @@
     },
     {
       "externalId": "muse-260012",
+      "kpnShowId": "a0f49ace-bece-4681-a661-781dc060eb9a",
       "catalogCategory": "main",
       "collectedAt": "2026-11-13",
       "verificationStatus": "unverified",
@@ -854,6 +864,7 @@
     },
     {
       "externalId": "muse-260013",
+      "kpnShowId": null,
       "catalogCategory": "main",
       "collectedAt": "2026-11-13",
       "verificationStatus": "verified",
@@ -916,6 +927,7 @@
     },
     {
       "externalId": "muse-260014",
+      "kpnShowId": null,
       "catalogCategory": "main",
       "collectedAt": "2026-11-17",
       "verificationStatus": "verified",
@@ -979,6 +991,7 @@
     },
     {
       "externalId": "muse-260015",
+      "kpnShowId": "708324d2-304c-4d34-a891-c1d1a0f33c47",
       "catalogCategory": "main",
       "collectedAt": "2026-11-13",
       "verificationStatus": "verified",
@@ -995,11 +1008,11 @@
       "playData": {
         "mainInfo": {
           "company": "夢腐論（ムフロン）上演会",
-          "performanceName": "縫ノ壁",
+          "performanceName": "綻ノ壁",
           "performanceType": "single",
           "plays": [
             {
-              "title": "縫ノ壁"
+              "title": "綻ノ壁"
             }
           ]
         },
@@ -1072,7 +1085,7 @@
         }
       ],
       "rawData": {
-        "entryText": "夢腐論（ムフロン）上演会『縫ノ壁』 — 11/19〜21、ユースクエア プレイルーム（北区）。開演：19日（木）18:00【綻】／20:00【綻】、20日（金）18:00【綻】／20:00【壁】、21日（土）13:00【壁】／15:00【壁】／17:00【綻】／19:00【壁】。各回約50分、開場は20分前。一般2,000円、U22 1,000円、リピート割−500円。",
+        "entryText": "夢腐論（ムフロン）上演会『綻ノ壁』 — 11/19〜21、ユースクエア プレイルーム（北区）。開演：19日（木）18:00【綻】／20:00【綻】、20日（金）18:00【綻】／20:00【壁】、21日（土）13:00【壁】／15:00【壁】／17:00【綻】／19:00【壁】。各回約50分、開場は20分前。一般2,000円、U22 1,000円、リピート割−500円。",
         "dateText": "11月19日（木）〜21日（土）",
         "region": "愛知県名古屋市",
         "catalogId": "tuiho-11-3",
@@ -1081,6 +1094,7 @@
     },
     {
       "externalId": "muse-260016",
+      "kpnShowId": "50f8c65b-8cb1-4a2e-8f0e-ee332dcec441",
       "catalogCategory": "main",
       "collectedAt": "2026-11-13",
       "verificationStatus": "verified",
@@ -1200,6 +1214,7 @@
     },
     {
       "externalId": "muse-260018",
+      "kpnShowId": null,
       "catalogCategory": "main",
       "collectedAt": "2026-11-17",
       "verificationStatus": "verified",
@@ -1263,6 +1278,7 @@
     },
     {
       "externalId": "muse-260019",
+      "kpnShowId": "cb2f93f0-f761-4454-9d47-24013b1db86d",
       "catalogCategory": "main",
       "collectedAt": "2026-11-13",
       "verificationStatus": "verified",
@@ -1372,6 +1388,7 @@
     },
     {
       "externalId": "muse-260022",
+      "kpnShowId": null,
       "catalogCategory": "main",
       "collectedAt": "2026-11-13",
       "verificationStatus": "verified",
@@ -1445,6 +1462,7 @@
     },
     {
       "externalId": "muse-260023",
+      "kpnShowId": null,
       "catalogCategory": "main",
       "collectedAt": "2026-11-17",
       "verificationStatus": "verified",
@@ -1522,6 +1540,7 @@
     },
     {
       "externalId": "muse-260024",
+      "kpnShowId": null,
       "catalogCategory": "main",
       "collectedAt": "2026-11-13",
       "verificationStatus": "verified",
@@ -1605,6 +1624,7 @@
     },
     {
       "externalId": "muse-260026",
+      "kpnShowId": null,
       "catalogCategory": "main",
       "collectedAt": "2026-11-13",
       "verificationStatus": "verified",
@@ -1697,6 +1717,7 @@
     },
     {
       "externalId": "muse-260028",
+      "kpnShowId": null,
       "catalogCategory": "main",
       "collectedAt": "2026-11-13",
       "verificationStatus": "verified",
@@ -1768,6 +1789,7 @@
     },
     {
       "externalId": "muse-260029",
+      "kpnShowId": null,
       "catalogCategory": "main",
       "collectedAt": "2026-11-13",
       "verificationStatus": "verified",
@@ -1838,6 +1860,7 @@
     },
     {
       "externalId": "muse-260032",
+      "kpnShowId": "823219eb-07f3-4e76-a9e7-ccf7b04c2436",
       "catalogCategory": "main",
       "collectedAt": "2026-11-13",
       "verificationStatus": "verified",
@@ -1966,6 +1989,7 @@
     },
     {
       "externalId": "muse-260033",
+      "kpnShowId": "27f72a13-7861-44fd-9d50-898c8139f047",
       "catalogCategory": "main",
       "collectedAt": "2026-11-13",
       "verificationStatus": "verified",
@@ -2067,6 +2091,7 @@
     },
     {
       "externalId": "muse-260035",
+      "kpnShowId": null,
       "catalogCategory": "main",
       "collectedAt": "2026-11-13",
       "verificationStatus": "verified",
@@ -2170,6 +2195,7 @@
     },
     {
       "externalId": "muse-260036",
+      "kpnShowId": null,
       "catalogCategory": "main",
       "collectedAt": "2026-11-13",
       "verificationStatus": "verified",
@@ -2277,6 +2303,7 @@
     },
     {
       "externalId": "muse-260037",
+      "kpnShowId": null,
       "catalogCategory": "main",
       "collectedAt": "2026-11-13",
       "verificationStatus": "verified",
@@ -2369,6 +2396,7 @@
     },
     {
       "externalId": "muse-260038",
+      "kpnShowId": null,
       "catalogCategory": "main",
       "collectedAt": "2026-11-13",
       "verificationStatus": "verified",
@@ -2449,6 +2477,7 @@
     },
     {
       "externalId": "muse-260039",
+      "kpnShowId": null,
       "catalogCategory": "main",
       "collectedAt": "2026-11-13",
       "verificationStatus": "verified",
@@ -2531,6 +2560,7 @@
     },
     {
       "externalId": "muse-260040",
+      "kpnShowId": null,
       "catalogCategory": "main",
       "collectedAt": "2026-11-13",
       "verificationStatus": "verified",
@@ -2606,6 +2636,7 @@
     },
     {
       "externalId": "muse-260041",
+      "kpnShowId": null,
       "catalogCategory": "main",
       "collectedAt": "2026-11-13",
       "verificationStatus": "verified",
@@ -2681,6 +2712,7 @@
     },
     {
       "externalId": "muse-260047",
+      "kpnShowId": null,
       "catalogCategory": "main",
       "collectedAt": "2026-11-13",
       "verificationStatus": "verified",
@@ -2752,6 +2784,7 @@
     },
     {
       "externalId": "muse-260048",
+      "kpnShowId": null,
       "catalogCategory": "main",
       "collectedAt": "2026-11-13",
       "verificationStatus": "verified",
@@ -2849,6 +2882,7 @@
     },
     {
       "externalId": "muse-260049",
+      "kpnShowId": null,
       "catalogCategory": "main",
       "collectedAt": "2026-11-13",
       "verificationStatus": "partially_verified",
@@ -2961,6 +2995,7 @@
     },
     {
       "externalId": "muse-260050",
+      "kpnShowId": null,
       "catalogCategory": "main",
       "collectedAt": "2026-11-13",
       "verificationStatus": "verified",
@@ -3054,6 +3089,7 @@
     },
     {
       "externalId": "muse-260051",
+      "kpnShowId": null,
       "catalogCategory": "main",
       "collectedAt": "2026-11-13",
       "verificationStatus": "verified",
@@ -3142,6 +3178,7 @@
     },
     {
       "externalId": "muse-260053",
+      "kpnShowId": "c51487c5-846d-4404-acaf-4c8b274cb996",
       "catalogCategory": "main",
       "collectedAt": "2026-11-13",
       "verificationStatus": "verified",
@@ -3233,6 +3270,7 @@
     },
     {
       "externalId": "muse-260054",
+      "kpnShowId": null,
       "catalogCategory": "main",
       "collectedAt": "2026-11-13",
       "verificationStatus": "verified",
@@ -3313,6 +3351,7 @@
     },
     {
       "externalId": "muse-260055",
+      "kpnShowId": null,
       "catalogCategory": "main",
       "collectedAt": "2026-11-13",
       "verificationStatus": "verified",
@@ -3396,6 +3435,7 @@
     },
     {
       "externalId": "muse-260056",
+      "kpnShowId": null,
       "catalogCategory": "main",
       "collectedAt": "2026-11-13",
       "verificationStatus": "verified",
@@ -3485,6 +3525,7 @@
     },
     {
       "externalId": "muse-260057",
+      "kpnShowId": null,
       "catalogCategory": "main",
       "collectedAt": "2026-11-13",
       "verificationStatus": "verified",
@@ -3583,6 +3624,7 @@
     },
     {
       "externalId": "muse-260058",
+      "kpnShowId": null,
       "catalogCategory": "main",
       "collectedAt": "2026-11-13",
       "verificationStatus": "verified",
@@ -3667,6 +3709,7 @@
     },
     {
       "externalId": "muse-260060",
+      "kpnShowId": null,
       "catalogCategory": "main",
       "collectedAt": "2026-11-17",
       "verificationStatus": "verified",
@@ -3748,6 +3791,7 @@
     },
     {
       "externalId": "muse-260061",
+      "kpnShowId": null,
       "catalogCategory": "main",
       "collectedAt": "2026-11-17",
       "verificationStatus": "verified",
@@ -3831,6 +3875,7 @@
     },
     {
       "externalId": "muse-260063",
+      "kpnShowId": null,
       "catalogCategory": "main",
       "collectedAt": "2026-11-13",
       "verificationStatus": "unverified",
@@ -3947,6 +3992,7 @@
     },
     {
       "externalId": "muse-260064",
+      "kpnShowId": "89e1efe0-d519-4e7c-881a-bea29bf4057b",
       "catalogCategory": "main",
       "collectedAt": "2026-11-13",
       "verificationStatus": "verified",
@@ -4028,6 +4074,7 @@
     },
     {
       "externalId": "muse-260065",
+      "kpnShowId": null,
       "catalogCategory": "main",
       "collectedAt": "2026-11-13",
       "verificationStatus": "verified",
@@ -4112,6 +4159,7 @@
     },
     {
       "externalId": "muse-260066",
+      "kpnShowId": null,
       "catalogCategory": "main",
       "collectedAt": "2026-11-13",
       "verificationStatus": "verified",
@@ -4201,6 +4249,7 @@
     },
     {
       "externalId": "muse-260068",
+      "kpnShowId": null,
       "catalogCategory": "main",
       "collectedAt": "2026-11-13",
       "verificationStatus": "verified",
@@ -4307,6 +4356,7 @@
     },
     {
       "externalId": "muse-260069",
+      "kpnShowId": null,
       "catalogCategory": "main",
       "collectedAt": "2026-11-13",
       "verificationStatus": "verified",
@@ -4400,6 +4450,7 @@
     },
     {
       "externalId": "muse-260070",
+      "kpnShowId": null,
       "catalogCategory": "main",
       "collectedAt": "2026-11-13",
       "verificationStatus": "verified",
@@ -4498,6 +4549,7 @@
     },
     {
       "externalId": "muse-260071",
+      "kpnShowId": null,
       "catalogCategory": "main",
       "collectedAt": "2026-11-13",
       "verificationStatus": "verified",
@@ -4603,6 +4655,7 @@
     },
     {
       "externalId": "muse-260074",
+      "kpnShowId": null,
       "catalogCategory": "main",
       "collectedAt": "2026-11-17",
       "verificationStatus": "verified",
@@ -4677,6 +4730,7 @@
     },
     {
       "externalId": "muse-260076",
+      "kpnShowId": null,
       "catalogCategory": "main",
       "collectedAt": "2026-11-13",
       "verificationStatus": "unverified",
@@ -4743,6 +4797,7 @@
     },
     {
       "externalId": "muse-260077",
+      "kpnShowId": null,
       "catalogCategory": "main",
       "collectedAt": "2026-11-13",
       "verificationStatus": "verified",
@@ -4822,6 +4877,7 @@
     },
     {
       "externalId": "muse-260078",
+      "kpnShowId": null,
       "catalogCategory": "main",
       "collectedAt": "2026-11-13",
       "verificationStatus": "verified",
@@ -4931,6 +4987,7 @@
     },
     {
       "externalId": "muse-260079",
+      "kpnShowId": "6a1855c5-3e32-4c61-9bf6-4cec56fa34a7",
       "catalogCategory": "main",
       "collectedAt": "2026-11-13",
       "verificationStatus": "verified",
@@ -5043,6 +5100,7 @@
     },
     {
       "externalId": "muse-260080",
+      "kpnShowId": null,
       "catalogCategory": "main",
       "collectedAt": "2026-11-13",
       "verificationStatus": "unverified",
@@ -5169,6 +5227,7 @@
     },
     {
       "externalId": "muse-260081",
+      "kpnShowId": null,
       "catalogCategory": "main",
       "collectedAt": "2026-11-13",
       "verificationStatus": "verified",
@@ -5270,6 +5329,7 @@
     },
     {
       "externalId": "muse-260082",
+      "kpnShowId": null,
       "catalogCategory": "main",
       "collectedAt": "2026-11-17",
       "verificationStatus": "verified",
@@ -5353,6 +5413,7 @@
     },
     {
       "externalId": "muse-260084",
+      "kpnShowId": null,
       "catalogCategory": "main",
       "collectedAt": "2026-11-13",
       "verificationStatus": "verified",
@@ -5423,6 +5484,7 @@
     },
     {
       "externalId": "muse-260086",
+      "kpnShowId": "6156efd0-c6c7-4069-a5f2-1338f2521d23",
       "catalogCategory": "main",
       "collectedAt": "2026-11-13",
       "verificationStatus": "verified",
@@ -5557,6 +5619,7 @@
     },
     {
       "externalId": "muse-260087",
+      "kpnShowId": "46f89e5f-4934-4875-9035-bac42f9833c6",
       "catalogCategory": "main",
       "collectedAt": "2026-11-17",
       "verificationStatus": "verified",
@@ -5656,6 +5719,7 @@
     },
     {
       "externalId": "muse-260088",
+      "kpnShowId": null,
       "catalogCategory": "main",
       "collectedAt": "2026-11-13",
       "verificationStatus": "verified",
@@ -5724,6 +5788,7 @@
     },
     {
       "externalId": "muse-260089",
+      "kpnShowId": null,
       "catalogCategory": "main",
       "collectedAt": "2026-11-13",
       "verificationStatus": "verified",
@@ -5801,6 +5866,7 @@
     },
     {
       "externalId": "muse-260090",
+      "kpnShowId": null,
       "catalogCategory": "main",
       "collectedAt": "2026-11-13",
       "verificationStatus": "verified",
@@ -5913,6 +5979,7 @@
     },
     {
       "externalId": "muse-270006",
+      "kpnShowId": null,
       "catalogCategory": "main",
       "collectedAt": "2026-11-18",
       "verificationStatus": "unverified",
@@ -5973,6 +6040,7 @@
     },
     {
       "externalId": "muse-270009",
+      "kpnShowId": null,
       "catalogCategory": "main",
       "collectedAt": "2026-11-18",
       "verificationStatus": "verified",
@@ -6058,6 +6126,7 @@
     },
     {
       "externalId": "muse-270011",
+      "kpnShowId": null,
       "catalogCategory": "main",
       "collectedAt": "2026-11-19",
       "verificationStatus": "unverified",
@@ -6116,6 +6185,7 @@
     },
     {
       "externalId": "muse-270012",
+      "kpnShowId": null,
       "catalogCategory": "main",
       "collectedAt": "2026-11-19",
       "verificationStatus": "verified",
@@ -6215,6 +6285,7 @@
     },
     {
       "externalId": "muse-270013",
+      "kpnShowId": null,
       "catalogCategory": "main",
       "collectedAt": "2026-11-19",
       "verificationStatus": "unverified",
@@ -6272,6 +6343,7 @@
     },
     {
       "externalId": "muse-270014",
+      "kpnShowId": null,
       "catalogCategory": "main",
       "collectedAt": "2026-11-19",
       "verificationStatus": "unverified",
@@ -6330,6 +6402,7 @@
     },
     {
       "externalId": "muse-270015",
+      "kpnShowId": null,
       "catalogCategory": "main",
       "collectedAt": "2026-11-19",
       "verificationStatus": "verified",
@@ -6419,6 +6492,7 @@
     },
     {
       "externalId": "muse-270016",
+      "kpnShowId": null,
       "catalogCategory": "main",
       "collectedAt": "2026-11-19",
       "verificationStatus": "unverified",
@@ -6473,6 +6547,7 @@
     },
     {
       "externalId": "muse-270017",
+      "kpnShowId": null,
       "catalogCategory": "main",
       "collectedAt": "2026-11-19",
       "verificationStatus": "unverified",
@@ -6520,6 +6595,7 @@
     },
     {
       "externalId": "muse-270018",
+      "kpnShowId": null,
       "catalogCategory": "main",
       "collectedAt": "2026-11-19",
       "verificationStatus": "unverified",
@@ -6571,6 +6647,7 @@
     },
     {
       "externalId": "muse-270036",
+      "kpnShowId": null,
       "catalogCategory": "main",
       "collectedAt": "2026-11-22",
       "verificationStatus": "verified",
@@ -6647,6 +6724,7 @@
     },
     {
       "externalId": "muse-270045",
+      "kpnShowId": null,
       "catalogCategory": "main",
       "collectedAt": "2026-11-22",
       "verificationStatus": "unverified",
@@ -6701,6 +6779,7 @@
     },
     {
       "externalId": "muse-260093",
+      "kpnShowId": null,
       "catalogCategory": "main",
       "collectedAt": "2026-11-22",
       "verificationStatus": "unverified",
@@ -6819,6 +6898,7 @@
     },
     {
       "externalId": "muse-260094",
+      "kpnShowId": "94018f8f-1035-49fe-ac15-9bc65dd538a2",
       "catalogCategory": "main",
       "collectedAt": "2026-11-22",
       "verificationStatus": "unverified",
@@ -6920,6 +7000,7 @@
     },
     {
       "externalId": "muse-260095",
+      "kpnShowId": "8c81b8c8-518e-4743-9d3e-f0a0e071600f",
       "catalogCategory": "main",
       "collectedAt": "2026-11-23",
       "verificationStatus": "unverified",
@@ -6997,6 +7078,7 @@
     },
     {
       "externalId": "muse-260096",
+      "kpnShowId": "c4b2d237-c9fa-4b42-9121-065fde01f01f",
       "catalogCategory": "main",
       "collectedAt": "2026-11-23",
       "verificationStatus": "unverified",
@@ -7090,6 +7172,7 @@
     },
     {
       "externalId": "muse-260097",
+      "kpnShowId": "2e1d6ba8-b485-4961-abfb-bbe4623b703e",
       "catalogCategory": "main",
       "collectedAt": "2026-11-23",
       "verificationStatus": "verified",
@@ -7175,6 +7258,7 @@
     },
     {
       "externalId": "muse-260098",
+      "kpnShowId": "ea343be3-be8f-4fd6-b5ba-0b5ad9a70ca4",
       "catalogCategory": "main",
       "collectedAt": "2026-11-23",
       "verificationStatus": "verified",
@@ -7343,6 +7427,7 @@
     },
     {
       "externalId": "muse-260099",
+      "kpnShowId": "b35041c4-048d-40d6-afa2-2d6a40cd46a8",
       "catalogCategory": "main",
       "collectedAt": "2026-11-25",
       "verificationStatus": "unverified",
